@@ -32,3 +32,20 @@ def test_main_2():
              'unlocode': 'TWKHH'}]}
     r = e.main(d)
     assert r == a
+def test_main_USCHI():
+    d = {"unlocode":"USCHI"}
+    a = {'result': [{
+      "asciiname": "Chicago",
+      "city": "Chicago",
+      "coordinates": "",
+      "country_code": "US",
+      "latitude": "41.8500",
+      "location": "CHI",
+      "longitude": "-87.6500",
+      "modification date": "2019-10-07",
+      "subdivision": "IL",
+      "timezone": "America/Chicago",
+      "unlocode": "USCHI"
+    }]}
+    r = e.main(d)
+    assert r == a
