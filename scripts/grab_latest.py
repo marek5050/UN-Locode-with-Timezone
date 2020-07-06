@@ -19,10 +19,10 @@ cities = "http://download.geonames.org/export/dump/%s.zip"
 
 names_cities = "geonameid,name,asciiname,alternatenames,latitude,longitude,feature class,feature code,country_code,cc2,subdivision,admin2 code,admin3 code,admin4 code,population,elevation,dem,timezone,modification date".split(",")
 names_locodes="change,country_code,location,name,asciiname,subdivision,status,function,date,iata,coordinates,remarks".split(",")
+name = "allCountries"
 
 
 def retrieve_all_countries():
-    name = "cities15000"
     z = request.urlopen(cities % name)
     myzip = ZipFile(BytesIO(z.read())).extract('%s.txt' % name)
     d2 = pd.read_csv(myzip, delimiter="\t", names=names_cities)
@@ -39,7 +39,6 @@ def retrieve_unlocodes():
     return df
 
 def process(dcities, dunlocodes):
-    name = "allCountries"
     perfect_match = dunlocodes.set_index(['name','subdivision','country_code']).join(dcities.set_index(['name','subdivision','country_code']), rsuffix='_other')
     perfect_match.dropna(subset=['timezone'], inplace=True)
 
