@@ -28,7 +28,7 @@ def retrieve_all_countries():
     d2 = pd.read_csv(myzip, delimiter="\t", names=names_cities)
     d2.drop_duplicates(subset=['name','subdivision','country_code'], keep="first", inplace = True)
     d2.replace(np.nan, '', regex=True, inplace=True)
-    d2.applymap(str, inplace=True)
+    d2 = d2.applymap(str)
     return d2
 
 def retrieve_unlocodes():
