@@ -4,7 +4,7 @@
 invocation_error=0
 
 # - BXIAM: IBM Cloud API key
-if [ -z ${APIKEY+x} ]; then echo 'Error: Environment variable BXIAM is undefined.'; invocation_error=1; fi
+if [ -z ${APIKEY+x} ]; then echo 'Error: Environment variable APIKEY is undefined.'; invocation_error=1; fi
 # set optional Cloud Foundry variables if they are not set
 # - CF_API: IBM Cloud API endpoint (default to US-South region)
 if [ -z ${CF_API+x} ]; then export CF_API='https://api.ng.bluemix.net'; fi
