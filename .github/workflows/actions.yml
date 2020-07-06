@@ -22,6 +22,7 @@ jobs:
       run: |
         python scripts/grab_latest.py
         ./scripts/prepare.sh
+        ./scripts/deploy.sh
     - name: Commit files
       run: |
         git add ./data README.md
