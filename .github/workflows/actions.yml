@@ -18,6 +18,9 @@ jobs:
     - name: Install requirements
       run: |
         pip install -r requirements.txt
+        curl -L https://clis.ng.bluemix.net/download/bluemix-cli/latest/linux64 | tar -zx
+        chmod -R u+x ./Bluemix_CLI/bin
+        echo "::set-env name=DATUM::`date +'%Y%m%d%H%M%S'`"
     - name: Process Data
       run: |
         python scripts/grab_latest.py
