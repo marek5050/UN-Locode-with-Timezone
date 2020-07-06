@@ -22,7 +22,7 @@ names_locodes="change,country_code,location,name,asciiname,subdivision,status,fu
 
 
 def retrieve_all_countries():
-    name = "allCountries"
+    name = "cities15000"
     z = request.urlopen(cities % name)
     myzip = ZipFile(BytesIO(z.read())).extract('%s.txt' % name)
     d2 = pd.read_csv(myzip, delimiter="\t", names=names_cities)
