@@ -15,6 +15,8 @@ def test_main():
              'timezone': 'America/New_York',
              'unlocode': 'USWAT'}]
          }
+    del r["result"][0]["current_time"]
+
     assert r == a
 
 def test_main_2():
@@ -31,6 +33,8 @@ def test_main_2():
              'timezone': 'Asia/Taipei',
              'unlocode': 'TWKHH'}]}
     r = e.main(d)
+    del r["result"][0]["current_time"]
+
     assert r == a
 def test_main_USCHI():
     d = {"unlocode":"USCHI"}
@@ -48,4 +52,5 @@ def test_main_USCHI():
       "unlocode": "USCHI"
     }]}
     r = e.main(d)
+    del r["result"][0]["current_time"]
     assert r == a

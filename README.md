@@ -12,7 +12,7 @@ https://www.geonames.org
 `The "United Nations Code for Trade and Transport Locations" is commonly more known as "UN/LOCODE". Although managed and maintained by the UNECE, it is the product of a wide collaboration in the framework of the joint trade facilitation effort undertaken within the United Nations.`
 
 https://www.unece.org/cefact/locode/service/location.html
-Last updated:  Mon Jul 6 21:51:27 UTC 2020
+Last updated:  Sat Jul 11 09:46:23 EDT 2020
 ```
 ==> ./data/good_allCountries.csv <==
 name,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date
