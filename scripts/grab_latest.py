@@ -61,20 +61,24 @@ def retrieve_unlocodes():
     df["unlocode"] = df["country_code"] + df["location"]
     return df
 
+
 def get_easy_match():
     global dcities, dunlocodes
     easy_match = dunlocodes.set_index(['unlocode']).join(dcities.set_index(["unlocode"]), rsuffix='_other')
-    easy_match.dropna(subset=["timezone"],inplace=True)
-    easy_match["unlocode"]=easy_match["country_code"]+easy_match["location"]
-    locodes =easy_match["unlocode"].unique()
+    easy_match.dropna(subset=["timezone"], inplace=True)
+    easy_match["unlocode"] = easy_match["country_code"] + easy_match["location"]
+    locodes = easy_match["unlocode"].unique()
     del easy_match["alternatenames"]
-    easy_match= easy_match.set_index(['name', 'country_code', "subdivision","unlocode"])
-    easy_match= easy_match.reindex()
-    easy_match.to_csv("data/easy_%s.csv" % name, header=True)
 
-    dcities=dcities[-dcities['unlocode'].isin(locodes)]
+    easy_match.drop_duplicates("unlocode", keep="first", inplace=True)
+    easy_match = easy_match.set_index(['name', 'country_code', "subdivision", "unlocode"])
+    easy_match = easy_match.reindex()
+    easy_match.to_csv("data/easy_%s.csv" % name, header=True, escapechar=".")
+
+    dcities = dcities[-dcities['unlocode'].isin(locodes)]
 
     return
+
 
 def get_locations_match():
     global dcities, dunlocodes
@@ -92,6 +96,7 @@ def get_locations_match():
     dcities = dcities[-dcities['unlocode'].isin(perfect_match["unlocode"].unique())]
     return
 
+
 def get_good_match():
     global dcities, dunlocodes
 
@@ -107,11 +112,13 @@ def get_good_match():
     good_match[columns].to_csv("data/good_%s.csv" % name, index=True)
     return
 
+
 def process():
     get_easy_match()
     get_locations_match()
     get_good_match()
     return
+
 
 if __name__ == "__main__":
     # global dcities, dunlocodes

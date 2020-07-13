@@ -25,6 +25,12 @@ jobs:
       run: |
         python scripts/grab_latest.py
         ./scripts/prepare.sh
+    - name: Deploy Function
+      run: ./scripts/deploy.sh
+      env:
+        APIKEY: ${{ secrets.apikey }}
+        CF_ORG: ${{ secrets.cf_org }}
+        CF_SPACE: ${{ secrets.cf_space }}
     - name: Commit files
       run: |
         git add ./data README.md
