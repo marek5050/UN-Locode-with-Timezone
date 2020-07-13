@@ -12,7 +12,7 @@ https://www.geonames.org
 `The "United Nations Code for Trade and Transport Locations" is commonly more known as "UN/LOCODE". Although managed and maintained by the UNECE, it is the product of a wide collaboration in the framework of the joint trade facilitation effort undertaken within the United Nations.`
 
 https://www.unece.org/cefact/locode/service/location.html
-Last updated:  Mon Jul 13 16:57:23 UTC 2020
+Last updated:  Mon Jul 13 17:23:05 UTC 2020
 ```
 ==> ./data/all_data.csv <==
 name,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date
@@ -56,9 +56,9 @@ Aadorf,CH,TG,CHARF,ARF,Aadorf,4729N 00854E,47.4920,8.9010,Europe/Zurich,2013-03-
 Aarau,CH,AG,CHAAR,AAR,Aarau,,47.3925,8.0442,Europe/Zurich,2020-06-29
 Aarberg,CH,BE,CHABG,ABG,Aarberg,4703N 00717E,47.0444,7.2758,Europe/Zurich,2013-02-28
 Aarburg,CH,AG,CHAAB,AAB,Aarburg,4718N 00753E,47.3207,7.8999,Europe/Zurich,2019-09-11
-Aaron,US,GA,USOQU,OQU,Aaron,3234N 08159W,32.5682,-81.9923,America/New_York,2006-01-15
 Aaronsburg,US,PA,USAA7,AA7,Aaronsburg,4053N 07727W,40.8998,-77.4533,America/New_York,2017-05-23
 Aarwangen,CH,BE,CHAWG,AWG,Aarwangen,4714N 00745E,47.2385,7.7685,Europe/Zurich,2013-03-01
 Abbeville,US,AL,USABB,ABB,Abbeville,,31.5718,-85.2505,America/Chicago,2017-03-09
-Abbeville,US,LA,USUAB,UAB,Abbeville,,29.9747,-92.1343,America/Chicago,2017-03-09
+Abbeville,US,MS,USAV4,AV4,Abbeville,3430N 08930W,34.5032,-89.5031,America/Chicago,2017-03-09
+Abbeville,US,SC,USABF,ABF,Abbeville,,34.1782,-82.3790,America/New_York,2017-03-09
 ```
