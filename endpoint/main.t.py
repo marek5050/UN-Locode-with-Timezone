@@ -8,7 +8,8 @@ def main(d):
     city = d.get("city")
     names = "city,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date".split(
         ",")
-    frame = pd.DataFrame([x.split(",") for x in db.split('\n')[1:]], columns=names)
+    arr = [x.split(",", maxsplit=len(names)-1) for x in db.split('\n')[1:]]
+    frame = pd.DataFrame(arr, columns=names)
     resp = {"result": []}
 
     if unlocode:

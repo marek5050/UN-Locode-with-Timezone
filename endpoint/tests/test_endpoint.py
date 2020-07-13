@@ -36,6 +36,7 @@ def test_main_2():
     del r["result"][0]["current_time"]
 
     assert r == a
+
 def test_main_USCHI():
     d = {"unlocode":"USCHI"}
     a = {'result': [{
