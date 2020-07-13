@@ -12,8 +12,20 @@ https://www.geonames.org
 `The "United Nations Code for Trade and Transport Locations" is commonly more known as "UN/LOCODE". Although managed and maintained by the UNECE, it is the product of a wide collaboration in the framework of the joint trade facilitation effort undertaken within the United Nations.`
 
 https://www.unece.org/cefact/locode/service/location.html
-Last updated:  Sat Jul 11 13:57:38 UTC 2020
+Last updated:  Mon Jul 13 15:07:05 UTC 2020
 ```
+==> ./data/easy_allCountries.csv <==
+name,country_code,subdivision,unlocode,location,coordinates,name_other,asciiname,latitude,longitude,country_code_other,subdivision_other,timezone,modification date,location_other
+Andorra la Vella,AD,,ADALV,ALV,4230N 00131E,Andorra la Vella,Andorra la Vella,42.5078,1.5211,AD,07,Europe/Andorra,2020-03-03,ALV
+Andorra la Vella,AD,,ADALV,ALV,4230N 00131E,Andorra la Vella Heliport,Andorra la Vella Heliport,42.5112,1.5336,AD,07,Europe/Andorra,2018-08-19,ALV
+Arandis,,,ADI,ADI,,Arandis Airport,Arandis Airport,-22.4622,14.9800,,17,Africa/Windhoek,2011-02-17,ADI
+Al Ain,AE,,AEAAN,AAN,,Al Ain City,Al Ain City,24.1917,55.7606,AE,01,Asia/Dubai,2019-05-29,AAN
+Al Ain,AE,,AEAAN,AAN,,Al Ain International Airport,Al Ain International Airport,24.2617,55.6092,AE,,Asia/Dubai,2007-01-03,AAN
+Abu Dhabi,AE,AZ,AEAUH,AUH,2428N 05422E,Abu Dhabi,Abu Dhabi,24.4512,54.3970,AE,01,Asia/Dubai,2019-09-05,AUH
+Abu Dhabi,AE,AZ,AEAUH,AUH,2428N 05422E,Abu Dhabi International Airport,Abu Dhabi International Airport,24.4330,54.6511,AE,01,Asia/Dubai,2017-12-16,AUH
+Al Dhafra,AE,,AEDHF,DHF,2414N 05432E,Al Dhafra Air Base,Al Dhafra Air Base,24.2484,54.5485,AE,01,Asia/Dubai,2013-05-18,DHF
+Dubai World Central Apt,AE,,AEDWC,DWC,2453N 05510E,Dubai World Central - Al Maktoum International Airport,Dubai World Central - Al Maktoum International Airport,24.8978,55.1591,AE,03,Asia/Dubai,2014-04-15,DWC
+
 ==> ./data/good_allCountries.csv <==
 name,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date
 's-Gravenwezel,BE,,BEGWE,GWE,'s-Gravenwezel,5116N 00433E,51.2627,4.5611,Europe/Brussels,2020-05-25
