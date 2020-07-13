@@ -12,19 +12,19 @@ https://www.geonames.org
 `The "United Nations Code for Trade and Transport Locations" is commonly more known as "UN/LOCODE". Although managed and maintained by the UNECE, it is the product of a wide collaboration in the framework of the joint trade facilitation effort undertaken within the United Nations.`
 
 https://www.unece.org/cefact/locode/service/location.html
-Last updated:  Mon Jul 13 11:24:21 EDT 2020
+Last updated:  Mon Jul 13 16:02:03 UTC 2020
 ```
 ==> ./data/easy_allCountries.csv <==
 name,country_code,subdivision,unlocode,location,coordinates,name_other,asciiname,latitude,longitude,country_code_other,subdivision_other,timezone,modification date,location_other
-Andorra la Vella,AD,,ADALV,ALV,4230N 00131E,Andorra la Vella,Andorra la Vella,42.5078,1.5211,AD,07,Europe/Andorra,2020-03-03,ALV
-Andorra la Vella,AD,,ADALV,ALV,4230N 00131E,Andorra la Vella Heliport,Andorra la Vella Heliport,42.5112,1.5336,AD,07,Europe/Andorra,2018-08-19,ALV
-Arandis,,,ADI,ADI,,Arandis Airport,Arandis Airport,-22.4622,14.9800,,17,Africa/Windhoek,2011-02-17,ADI
-Al Ain,AE,,AEAAN,AAN,,Al Ain City,Al Ain City,24.1917,55.7606,AE,01,Asia/Dubai,2019-05-29,AAN
-Al Ain,AE,,AEAAN,AAN,,Al Ain International Airport,Al Ain International Airport,24.2617,55.6092,AE,,Asia/Dubai,2007-01-03,AAN
-Abu Dhabi,AE,AZ,AEAUH,AUH,2428N 05422E,Abu Dhabi,Abu Dhabi,24.4512,54.3970,AE,01,Asia/Dubai,2019-09-05,AUH
-Abu Dhabi,AE,AZ,AEAUH,AUH,2428N 05422E,Abu Dhabi International Airport,Abu Dhabi International Airport,24.4330,54.6511,AE,01,Asia/Dubai,2017-12-16,AUH
-Al Dhafra,AE,,AEDHF,DHF,2414N 05432E,Al Dhafra Air Base,Al Dhafra Air Base,24.2484,54.5485,AE,01,Asia/Dubai,2013-05-18,DHF
-Dubai World Central Apt,AE,,AEDWC,DWC,2453N 05510E,Dubai World Central - Al Maktoum International Airport,Dubai World Central - Al Maktoum International Airport,24.8978,55.1591,AE,03,Asia/Dubai,2014-04-15,DWC
+Andorra la Vella,AD,,ADALV,ALV,4230N 00131E,Andorra la Vella,Andorra la Vella,"42.5078","1.5211",AD,07,Europe/Andorra,2020-03-03,ALV
+Arandis,,,ADI,ADI,,Arandis Airport,Arandis Airport,"-22.4622","14.9800",,17,Africa/Windhoek,2011-02-17,ADI
+Al Ain,AE,,AEAAN,AAN,,Al Ain City,Al Ain City,"24.1917","55.7606",AE,01,Asia/Dubai,2019-05-29,AAN
+Abu Dhabi,AE,AZ,AEAUH,AUH,2428N 05422E,Abu Dhabi,Abu Dhabi,"24.4512","54.3970",AE,01,Asia/Dubai,2019-09-05,AUH
+Al Dhafra,AE,,AEDHF,DHF,2414N 05432E,Al Dhafra Air Base,Al Dhafra Air Base,"24.2484","54.5485",AE,01,Asia/Dubai,2013-05-18,DHF
+Dubai World Central Apt,AE,,AEDWC,DWC,2453N 05510E,Dubai World Central - Al Maktoum International Airport,Dubai World Central - Al Maktoum International Airport,"24.8978","55.1591",AE,03,Asia/Dubai,2014-04-15,DWC
+Dubai,AE,DU,AEDXB,DXB,2515N 05516E,Dubai,Dubai,"25.0772","55.3093",AE,03,Asia/Dubai,2019-08-28,DXB
+Al Fujayrah,AE,FU,AEFJR,FJR,2507N 05620E,Al Fujairah City,Al Fujairah City,"25.1164","56.3414",AE,04,Asia/Dubai,2019-05-29,FJR
+Minhad,AE,,AENHD,NHD,,Al Minhad Air Base,Al Minhad Air Base,"25.0267","55.3695",AE,03,Asia/Dubai,2013-06-16,NHD
 
 ==> ./data/good_allCountries.csv <==
 name,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date
