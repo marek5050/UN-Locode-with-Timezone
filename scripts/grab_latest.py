@@ -93,6 +93,9 @@ def get_locations_match():
 
     perfect_match = dunlocodes.set_index(['name', 'country_code', "subdivision"]).join(
         dcities.set_index(['name', 'country_code', "subdivision"]), rsuffix='_other')
+
+    perfect_match = perfect_match[-perfect_match['unlocode'].isin(list_unlocodes)]
+
     perfect_match.dropna(subset=['timezone'], inplace=True)
     # perfect_match["unlocode"]=perfect_match["country_code"]+perfect_match["location"]
     list_unlocodes += list(perfect_match["unlocode"].unique())
