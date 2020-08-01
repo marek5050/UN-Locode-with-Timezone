@@ -22,7 +22,7 @@ Ghazni,AF,,AFGZI,GZI,Ghazni,,33.5539,68.4210,Asia/Kabul,2018-02-17
 Herat,AF,,AFHEA,HEA,Herat International Airport,,34.2111,62.2285,Asia/Kabul,2018-02-17
 Jalalabad,AF,,AFJAA,JAA,Jalalabad,,34.4265,70.4515,Asia/Kabul,2020-06-09
 Kabul,AF,,AFKBL,KBL,Kabul,,34.5281,69.1723,Asia/Kabul,2019-09-05
-Kandahar,AF,,AFKDH,KDH,Ahmad Shah Baba International Airport,,31.5074,65.8504,Asia/Kabul,2020-07-08
+Kandahar,AF,,AFKDH,KDH,Ahmad Shah Baba International Airport,,31.5074,65.8504,Asia/Kabul,2020-07-28
 Khost,AF,,AFKHT,KHT,Khost,,33.3395,69.9204,Asia/Kabul,2020-06-09
 Kuran-O-Munjan,AF,,AFKUR,KUR,Kuran wa Munjan,,36.0287,70.7726,Asia/Kabul,2018-02-17
 Khwahan,AF,,AFKWH,KWH,Deh Khwahan,,37.8897,70.2188,Asia/Kabul,2020-06-09
@@ -121,7 +121,7 @@ Gobernador Gregores,AR,Z,ARGGS,GGS,Gobernador Gregores,,-48.7506,-70.2474,Americ
 Gualeguaychú,AR,E,ARGHU,GHU,Gualeguaychu,3301S 05831W,-33.0094,-58.5172,America/Argentina/Cordoba,2016-01-30
 General Roca,AR,R,ARGNR,GNR,General Roca,3902S 06735W,-39.0333,-67.5833,America/Argentina/Salta,2015-04-22
 General Pico,AR,L,ARGPO,GPO,General Pico,,-35.6566,-63.7568,America/Argentina/Salta,2016-01-30
-Chos Malal,AR,Q,ARHOS,HOS,Chos Malal,,-37.3781,-70.2708,America/Argentina/Salta,2016-01-30
+Chos Malal,AR,Q,ARHOS,HOS,Chos Malal,,-37.3781,-70.2708,America/Argentina/Salta,2020-07-14
 Ingeniero Jacobacci,AR,R,ARIGB,IGB,Ingeniero Jacobacci,,-41.3292,-69.5502,America/Argentina/Salta,2016-01-30
 Iguazú,AR,N,ARIGR,IGR,Puerto Iguazu,2534S 05434W,-25.5991,-54.5735,America/Argentina/Cordoba,2015-04-22
 Lago Argentino,AR,Z,ARING,ING,Lago Argentino Aerodrome,,-50.3333,-72.3000,America/Argentina/Rio_Gallegos,2017-09-16
@@ -814,7 +814,7 @@ Yam Island,AU,QLD,AUXMY,XMY,Yam Island,,-9.9014,142.7750,Australia/Lindeman,2017
 Thargomindah,AU,QLD,AUXTG,XTG,Thargomindah,,-27.9950,143.8239,Australia/Brisbane,2019-07-18
 Taroom,AU,QLD,AUXTO,XTO,Taroom,,-25.6393,149.7998,Australia/Brisbane,2019-07-18
 Tara,AU,QLD,AUXTR,XTR,Tara,,-27.2761,150.4568,Australia/Brisbane,2019-07-18
-Yampi,AU,WA,AUYAM,YAM,RAAF Base Amberley,,-27.6406,152.7119,Australia/Brisbane,2013-06-13
+Yampi,AU,WA,AUYAM,YAM,RAAF Base Amberley,,-27.6406,152.7119,Australia/Brisbane,2020-07-26
 Yagoona,AU,NSW,AUYAN,YAN,Anthony Lagoon Airport,3354S 15101E,-18.0217,135.5420,Australia/Darwin,2017-08-19
 Yarra Glen,AU,VIC,AUYAR,YAR,Ararat Airport,3738S 14522E,-37.3094,142.9890,Australia/Melbourne,2011-06-04
 Yamba,AU,NSW,AUYBA,YBA,Archerfield Aerodrome,,-27.5703,153.0081,Australia/Brisbane,2017-10-28
@@ -2777,7 +2777,7 @@ Norden,DE,NI,DENOD,NOD,Norden,,53.5955,7.2064,Europe/Berlin,2017-01-13
 Norderstedt,DE,SH,DENOT,NOT,NAME NOT SHOWN,,52.3447,13.6563,Europe/Berlin,2012-08-04
 Norderney,DE,NI,DENRD,NRD,Norderney,,53.7083,7.1582,Europe/Berlin,2015-09-05
 Niederkrüchten,DE,NW,DENRN,NRN,Weeze,,51.6268,6.1979,Europe/Berlin,2018-07-24
-Neuweier,DE,BW,DENRW,NRW,Nordrhein-Westfalen,4843N 00811E,51.2189,6.7634,Europe/Berlin,2018-11-13
+Neuweier,DE,BW,DENRW,NRW,Nordrhein-Westfalen,4843N 00811E,51.2189,6.7634,Europe/Berlin,2020-07-25
 Neustadt,DE,BB,DENSD,NSD,Reichsparteitagsgelaende,5251N 01226E,49.4252,11.1189,Europe/Berlin,2013-02-19
 Niederstotzingen,DE,BW,DENSG,NSG,Birkensee,4833N 01014E,53.0722,9.7924,Europe/Berlin,2017-12-10
 Nürnberg,DE,BY,DENUE,NUE,Nuernberg,4926N 01104E,49.4542,11.0775,Europe/Berlin,2019-09-05
@@ -3188,7 +3188,7 @@ Helsingfors (Helsinki),FI,18,FIHEL,HEL,Helsinki,,60.1695,24.9354,Europe/Helsinki
 Hyvinge (Hyvinkää),FI,18,FIHYV,HYV,Hyvinkaa Airport,6038N 02452E,60.6544,24.8811,Europe/Helsinki,2014-09-25
 Ivalo,FI,10,FIIVL,IVL,Ivalo,6839N 02736E,68.6599,27.5389,Europe/Helsinki,2014-09-25
 Joensuu,FI,13,FIJOE,JOE,Joensuu Airport,6236N 02946E,62.6629,29.6075,Europe/Helsinki,2016-10-22
-Jyväskylä,FI,08,FIJYV,JYV,Jyvaeskylae,6215N 02544E,62.2415,25.7209,Europe/Helsinki,2019-09-05
+Jyväskylä,FI,08,FIJYV,JYV,Jyvaeskylae,6215N 02544E,62.2415,25.7209,Europe/Helsinki,2020-07-23
 Kajaani (Kajana),FI,05,FIKAJ,KAJ,Kajaani,6414N 02741E,64.2273,27.7285,Europe/Helsinki,2014-09-25
 Kuusamo,FI,14,FIKAO,KAO,Kuusamo,6558N 02911E,65.9645,29.1888,Europe/Helsinki,2020-05-18
 Kauhava,FI,03,FIKAU,KAU,Kauhava,6306N 02305E,63.1030,23.0713,Europe/Helsinki,2014-09-25
@@ -5855,18 +5855,18 @@ Tranóvalton,GR,,GRTRA,TRA,Loutraki,4003N 02152E,37.9783,22.9778,Europe/Athens,2
 Vólos,GR,,GRVOL,VOL,Volos,3922N 02257E,39.3610,22.9425,Europe/Athens,2016-12-11
 Zákynthos,GR,21,GRZTH,ZTH,Zakynthos International Airport,3747N 02054E,37.7508,20.8843,Europe/Athens,2016-04-10
 Quetzaltenango,GT,,GTAAZ,AAZ,Quetzaltenango,,14.8347,-91.5181,America/Guatemala,2012-12-05
-Amatitlán,GT,GU,GTAMA,AMA,Granjas Avicolas AMA,1429N 09037W,14.7535,-90.6142,America/Guatemala,2019-04-13
+Amatitlán,GT,GU,GTAMA,AMA,Granjas Avicolas AMA,1429N 09037W,14.7535,-90.6142,America/Guatemala,2020-07-15
 Quiché,GT,QC,GTAQB,AQB,Santa Cruz del Quiche,1522N 08948W,15.0308,-91.1487,America/Guatemala,2017-03-04
-Coban,GT,,GTCBV,CBV,Coban,,15.4708,-90.3708,America/Guatemala,2017-09-09
+Coban,GT,,GTCBV,CBV,Coban,,15.4708,-90.3708,America/Guatemala,2020-07-15
 Chiquimula,GT,,GTCIQ,CIQ,Chiquimula,,14.8000,-89.5458,America/Guatemala,2020-07-12
 Carmelita,GT,,GTCMM,CMM,Carmelita,,17.4622,-90.0563,America/Guatemala,2012-05-06
 Coatepeque,GT,QZ,GTCTF,CTF,Coatepeque,1442N 09152W,14.7041,-91.8643,America/Guatemala,2019-01-09
 Dos Lagunas,GT,,GTDON,DON,Dos Lagunas,1741N 08932W,17.6938,-89.5349,America/Guatemala,2015-04-08
-El Naranjo,GT,,GTENJ,ENJ,El Naranjo,,14.1075,-90.8113,America/Guatemala,2017-08-19
+El Naranjo,GT,,GTENJ,ENJ,El Naranjo,,14.1075,-90.8113,America/Guatemala,2020-07-15
 Flores,GT,,GTFRS,FRS,Santa Elena,,16.9180,-89.8929,America/Guatemala,2015-03-28
-Guatemala City,GT,,GTGUA,GUA,La Aurora,,14.5833,-90.5000,America/Guatemala,2014-01-11
+Guatemala City,GT,,GTGUA,GUA,La Aurora,,14.5833,-90.5000,America/Guatemala,2020-07-15
 Huehuetenango,GT,,GTHUG,HUG,Huehuetenango,,15.3192,-91.4724,America/Guatemala,2020-07-12
-Los Tablones,GT,CM,GTLOX,LOX,Los Tablones,1445N 09047W,14.9649,-90.1620,America/Guatemala,2014-04-21
+Los Tablones,GT,CM,GTLOX,LOX,Los Tablones,1445N 09047W,14.9649,-90.1620,America/Guatemala,2020-07-15
 Melchor de Mencos,GT,,GTMCR,MCR,Melchor de Mencos,1704N 08909W,17.0661,-89.1523,America/Guatemala,2013-12-15
 Puerto Barrios,GT,,GTPBR,PBR,Puerto Barrios,,15.7278,-88.5944,America/Guatemala,2020-07-12
 Paso Caballos,GT,,GTPCG,PCG,Paso Caballos,,17.2610,-90.2367,America/Guatemala,2013-12-15
@@ -7300,7 +7300,7 @@ Amamioshima,JP,46,JPASJ,ASJ,Amami Oshima,,28.2500,129.3333,Asia/Tokyo,2020-06-11
 Akita,JP,05,JPAXT,AXT,Akita Airport,,39.6156,140.2186,Asia/Tokyo,2017-04-09
 Beppu", Oita,JP,44,JPBPU,BPU,Beppu,,33.2794,131.4975,Asia/Tokyo,2017-07-22
 Chitose Apt/Sapporo,JP,01,JPCTS,CTS,New Chitose Airport,,42.7752,141.6923,Asia/Tokyo,2017-04-09
-Kadena,JP,47,JPDNA,DNA,Kadena Air Base,,26.3565,127.7670,Asia/Tokyo,2020-07-09
+Kadena,JP,47,JPDNA,DNA,Kadena Air Base,,26.3565,127.7670,Asia/Tokyo,2020-07-19
 Fukui,JP,18,JPFKJ,FKJ,Fukui Airport,,36.1429,136.2239,Asia/Tokyo,2017-04-09
 Fukushima Apt,JP,07,JPFKS,FKS,Fukushima,3713N 14025E,37.7500,140.4667,Asia/Tokyo,2017-04-09
 Shizuoka Apt,JP,22,JPFSZ,FSZ,Mt. Fuji Shizuoka Airport,3447N 13811E,34.7970,138.1815,Asia/Tokyo,2015-10-25
@@ -7644,7 +7644,7 @@ Misurata,LY,,LYMRA,MRA,Misratah,,32.3753,15.0925,Africa/Tripoli,2020-06-10
 Nafoora,LY,,LYNFR,NFR,Nafoora,,29.2200,21.5800,Africa/Tripoli,2012-04-29
 Bani Walid,LY,MI,LYQBL,QBL,Bani Walid,3446N 01358E,31.7455,13.9835,Africa/Tripoli,2019-09-05
 Ajdabiya,LY,WA,LYQGG,QGG,Ajdabiya,3045N 02013E,30.7554,20.2263,Africa/Tripoli,2019-09-05
-Sebha,LY,,LYSEB,SEB,Sebha,2702N 01426E,26.9870,14.4725,Africa/Tripoli,2007-01-03
+Sebha,LY,,LYSEB,SEB,Sebha,2702N 01426E,26.9870,14.4725,Africa/Tripoli,2020-07-16
 Sert,LY,,LYSRX,SRX,Sirte,,31.2089,16.5887,Africa/Tripoli,2019-09-05
 Tripoli,LY,,LYTIP,TIP,Tripoli International Airport,,32.6635,13.1590,Africa/Tripoli,2016-11-29
 Tobruk,LY,,LYTOB,TOB,Tobruk,,32.0896,23.9538,Africa/Tripoli,2019-09-05
@@ -7679,8 +7679,8 @@ Berane (Yvangrad),ME,,MEIVG,IVG,Dolac Airport,4251N 01952E,42.8386,19.8622,Europ
 Podgorica,ME,,METGD,TGD,Podgorica Airport,4226N 01915E,42.3594,19.2519,Europe/Podgorica,2014-05-31
 Tivat,ME,19,METIV,TIV,Tivat Airport,4226N 01842E,42.4047,18.7228,Europe/Podgorica,2011-03-28
 Zabljak,ME,21,MEZBK,ZBK,Zabljak Airport,4309N 01907E,43.1167,19.2333,Europe/Podgorica,2011-03-18
-Grand-Case,MF,,MFCCE,CCE,Grand Case - L'Esperance Airport,1806N 06304W,18.1002,-63.0476,America/Marigot,2017-04-02
-L'Espérance Apt/St Martin,MF,,MFSFG,SFG,Grand Case - L'Esperance Airport,1806N 06303W,18.1002,-63.0476,America/Marigot,2017-04-02
+Grand-Case,MF,,MFCCE,CCE,Grand Case-Esperance Airport,1806N 06304W,18.1002,-63.0476,America/Marigot,2020-07-27
+L'Espérance Apt/St Martin,MF,,MFSFG,SFG,Grand Case-Esperance Airport,1806N 06303W,18.1002,-63.0476,America/Marigot,2020-07-27
 Ambatolahy,MG,,MGAHY,AHY,Ambatolahy,,-20.0110,45.5381,Indian/Antananarivo,2018-09-10
 Ambilobe,MG,,MGAMB,AMB,Ambilobe Airport,,-13.1886,48.9876,Indian/Antananarivo,2018-09-11
 Ampanihy,MG,,MGAMP,AMP,Ampanihy,,-24.6937,44.7458,Indian/Antananarivo,2018-09-28
@@ -8087,7 +8087,7 @@ Sepulot,MY,,MYSPE,SPE,Sepulot Airport,,4.7330,116.4670,Asia/Kuching,2011-03-18
 Sipitang", Sabah,MY,,MYSPT,SPT,Sipitang,,5.0790,115.5496,Asia/Kuching,2017-09-12
 Sitiawan,MY,,MYSWY,SWY,Sitiawan,,4.2168,100.6996,Asia/Kuala_Lumpur,2018-04-11
 Taman Negara,MY,,MYSXT,SXT,Taman Negara,,4.7670,102.4438,Asia/Kuala_Lumpur,2017-09-18
-Subang Kuala Lumpur Apt,MY,10,MYSZB,SZB,Sultan Abdul Aziz Shah Airport,0308N 10133E,3.1306,101.5493,Asia/Kuala_Lumpur,2020-07-10
+Subang Kuala Lumpur Apt,MY,10,MYSZB,SZB,Sultan Abdul Aziz Shah Airport,0308N 10133E,3.1306,101.5493,Asia/Kuala_Lumpur,2020-07-14
 Telupid,MY,,MYTEL,TEL,Telupid,0534N 11707E,5.6500,117.1167,Asia/Kuching,2012-01-17
 Kuala Terengganu,MY,,MYTGG,TGG,Kuala Terengganu,,5.3302,103.1408,Asia/Kuala_Lumpur,2012-01-17
 Tomanggong,MY,,MYTMG,TMG,Tomanggong,,5.4018,118.6634,Asia/Kuching,2012-01-17
@@ -8112,7 +8112,7 @@ Magaruque,MZ,,MZMFW,MFW,Magaruque Island,,-21.9704,35.4261,Africa/Maputo,2018-01
 Maganja Da Costa,MZ,,MZMJS,MJS,Maganja,,-17.3120,37.5078,Africa/Maputo,2017-08-30
 Moma,MZ,,MZMMW,MMW,Moma,,-16.7594,39.2222,Africa/Maputo,2012-01-19
 Nacala,MZ,,MZMNC,MNC,Nacala Airport,,-14.4795,40.7128,Africa/Maputo,2014-02-01
-Maputo,MZ,,MZMPM,MPM,Maputo,,-25.9655,32.5832,Africa/Maputo,2019-09-05
+Maputo,MZ,,MZMPM,MPM,Maputo,,-25.9655,32.5832,Africa/Maputo,2020-07-30
 Montepuez,MZ,,MZMTU,MTU,Montepuez,,-13.1256,38.9997,Africa/Maputo,2012-01-19
 Mueda,MZ,,MZMUD,MUD,Mueda,,-11.6628,39.5506,Africa/Maputo,2012-02-02
 Mocímboa da Praia,MZ,P,MZMZB,MZB,Mocimboa da Praia,1120S 04021E,-11.3517,40.3516,Africa/Maputo,2013-10-26
@@ -8236,7 +8236,7 @@ Nesseby,NO,20,NONSB,NSB,Reinunga  NSB st,,60.7439,7.1391,Europe/Oslo,2019-12-12
 Notodden,NO,08,NONTB,NTB,Notodden,,59.5594,9.2585,Europe/Oslo,2019-12-12
 Narvik,NO,18,NONVK,NVK,Narvik,6825N 01725E,68.4384,17.4272,Europe/Oslo,2019-12-12
 Ørland,NO,16,NOOLA,OLA,Orland,,63.6857,9.6663,Europe/Oslo,2019-12-13
-Oslo,NO,03,NOOSL,OSL,Oslo,5954N 01044E,59.9127,10.7461,Europe/Oslo,2020-05-28
+Oslo,NO,03,NOOSL,OSL,Oslo,5954N 01044E,59.9127,10.7461,Europe/Oslo,2020-07-24
 Namsos,NO,17,NOOSY,OSY,Namsos,6427N 01130E,64.4662,11.4957,Europe/Oslo,2019-12-12
 Rafnes,NO,08,NORAF,RAF,RAF krigskirkegard,5906N 00934E,63.4126,10.3869,Europe/Oslo,2018-05-08
 Røst,NO,18,NORET,RET,Rost,6731N 01208E,67.5173,12.1156,Europe/Oslo,2017-01-26
@@ -8346,7 +8346,7 @@ Taharoa,NZ,WKO,NZTHH,THH,Taharoa,3809S 17444E,-38.1482,174.7302,Pacific/Auckland
 Timaru,NZ,CAN,NZTIU,TIU,Timaru,4423S 17115E,-44.3967,171.2536,Pacific/Auckland,2015-05-01
 Tokoroa,NZ,WKO,NZTKZ,TKZ,Tokoroa,3814S 17552E,-38.2333,175.8667,Pacific/Auckland,2014-11-03
 Thames,NZ,WKO,NZTMZ,TMZ,Thames,3708S 17532E,-37.1383,175.5401,Pacific/Auckland,2014-09-28
-Tauranga,NZ,BOP,NZTRG,TRG,Tauranga,3741S 17610E,-37.6861,176.1667,Pacific/Auckland,2019-02-27
+Tauranga,NZ,BOP,NZTRG,TRG,Tauranga,3741S 17610E,-37.6861,176.1667,Pacific/Auckland,2020-07-25
 Taupo,NZ,WKO,NZTUO,TUO,Taupo,,-38.6833,176.0833,Pacific/Auckland,2017-09-15
 Twizel,NZ,CAN,NZTWZ,TWZ,Pukaki Airport,4415S 01706E,-44.2404,170.1188,Pacific/Auckland,2014-05-19
 Wanganui,NZ,MWT,NZWAG,WAG,Wanganui,3956S 17459E,-39.9333,175.0500,Pacific/Auckland,2011-08-01
@@ -9555,8 +9555,8 @@ Stoelmans Eiland,SR,,SRSMZ,SMZ,Zorg en Hoop Airport,,5.7695,-55.2223,America/Par
 Totness,SR,,SRTOT,TOT,Totness,,5.8762,-56.3257,America/Paramaribo,2015-08-07
 Washabo,SR,,SRWSO,WSO,Wasjabo,,5.2119,-57.1874,America/Paramaribo,2017-09-06
 Juba,SS,EC,SSJUB,JUB,Juba,0451N 03137E,4.8517,31.5825,Africa/Juba,2020-07-12
-Malakal,SS,NU,SSMAK,MAK,Malakal,0932N 03139E,9.5334,31.6605,Africa/Juba,2017-06-09
-Wau,SS,BW,SSWUU,WUU,Wau,0742N 02800E,7.7011,27.9897,Africa/Juba,2017-06-09
+Malakal,SS,NU,SSMAK,MAK,Malakal,0932N 03139E,9.5334,31.6605,Africa/Juba,2020-07-14
+Wau,SS,BW,SSWUU,WUU,Wau,0742N 02800E,7.7011,27.9897,Africa/Juba,2020-07-14
 Principe,ST,,STPCP,PCP,Principe Island,,1.6174,7.3964,Africa/Sao_Tome,2020-05-18
 Porto Alegre,ST,,STPGP,PGP,Porto Alegre,,0.0333,6.5333,Africa/Sao_Tome,2012-05-06
 Sao Tome Island,ST,,STTMS,TMS,Sao Tome,,0.3365,6.7273,Africa/Sao_Tome,2019-09-05
@@ -9566,7 +9566,7 @@ Sint-Maarten Apt,SX,,SXSXM,SXM,Princess Juliana International Airport,1803N 0630
 Aleppo (Alep),SY,,SYALP,ALP,Aleppo,,36.2012,37.1612,Asia/Damascus,2019-09-05
 Damascus (Damas),SY,,SYDAM,DAM,Damascus,,33.5102,36.2913,Asia/Damascus,2019-09-05
 Deirezzor,SY,,SYDEZ,DEZ,Deir ez-Zor,,35.3359,40.1408,Asia/Damascus,2017-01-10
-Kameshli,SY,,SYKAC,KAC,Al Qamishli,,37.0521,41.2314,Asia/Damascus,2020-06-10
+Kameshli,SY,,SYKAC,KAC,Al Qamishli,,37.0521,41.2314,Asia/Damascus,2020-07-26
 Latakia,SY,,SYLTK,LTK,Latakia,3531N 03547E,35.5317,35.7901,Asia/Damascus,2019-09-05
 Palmyra,SY,,SYPMS,PMS,Tadmur,,34.5624,38.2840,Asia/Damascus,2017-02-09
 Sweida,SY,,SYQSW,QSW,As-Suwayda,,32.7090,36.5695,Asia/Damascus,2019-05-21
@@ -9702,7 +9702,7 @@ Gaziantep,TR,27,TRGZT,GZT,Gaziantep Oguzeli International Airport,,36.9472,37.47
 Igdir,TR,76,TRIGD,IGD,Igdir,,39.9237,44.0450,Europe/Istanbul,2013-05-16
 Isparta,TR,32,TRISE,ISE,Suleyman Demirel,,37.8554,30.3684,Europe/Istanbul,2007-01-03
 Istanbul New Airport,TR,34,TRISL,ISL,Istanbul Atatuerk Airport,4116N 02845E,40.9769,28.8146,Europe/Istanbul,2020-02-22
-Istanbul,TR,34,TRIST,IST,Istanbul,4101N 02858E,41.0138,28.9497,Europe/Istanbul,2020-05-28
+Istanbul,TR,34,TRIST,IST,Istanbul,4101N 02858E,41.0138,28.9497,Europe/Istanbul,2020-07-19
 Kahramanmaras,TR,46,TRKCM,KCM,Kahramanmaras Airport,,37.5384,36.9584,Europe/Istanbul,2020-01-07
 Kocaeli,TR,41,TRKCO,KCO,Kocaeli,,39.6250,27.5114,Europe/Istanbul,2015-07-03
 Kars,TR,36,TRKSY,KSY,Kars Airport,,40.5622,43.1150,Europe/Istanbul,2016-02-10
@@ -9727,7 +9727,7 @@ Tobago,TT,,TTTAB,TAB,Arthur Napoleon Raymond Robinson International Airport,,11.
 Funafuti,TV,,TVFUN,FUN,Funafuti Atoll,,-8.5167,179.1333,Pacific/Funafuti,2018-08-18
 Chi Mei,TW,,TWCMJ,CMJ,Qimei Yu,,23.2078,119.4311,Asia/Taipei,2017-03-11
 Chiayi,TW,,TWCYI,CYI,Chiayi,,23.4772,120.4453,Asia/Taipei,2017-03-11
-Green Island,TW,,TWGNI,GNI,Lyudao Island,,22.6621,121.4904,Asia/Taipei,2016-06-30
+Green Island,TW,,TWGNI,GNI,Lyudao Island,,22.6621,121.4904,Asia/Taipei,2020-07-14
 Hengchun,TW,,TWHCN,HCN,Hengchun,,22.0042,120.7439,Asia/Taipei,2017-09-27
 Hsin-chu,TW,,TWHSZ,HSZ,Hsinchu Air Base,2449N 12058E,24.8244,120.9411,Asia/Taipei,2017-09-27
 Hualien,TW,,TWHUN,HUN,Hualien Airport,,24.0237,121.6169,Asia/Taipei,2017-09-24
@@ -9808,7 +9808,7 @@ Entebbe,UG,,UGEBB,EBB,Entebbe,,0.0562,32.4795,Africa/Kampala,2017-06-06
 Jinja,UG,,UGJIN,JIN,Jinja,,0.4390,33.2032,Africa/Kampala,2016-06-22
 Kabalega Falls,UG,,UGKBG,KBG,Kabalega Falls Airport,,2.3264,31.4978,Africa/Kampala,2016-06-22
 Masindi,UG,,UGKCU,KCU,Masindi,,1.6744,31.7150,Africa/Kampala,2016-06-22
-Kampala,UG,,UGKLA,KLA,Kampala,,0.3163,32.5822,Africa/Kampala,2019-09-05
+Kampala,UG,,UGKLA,KLA,Kampala,,0.3163,32.5822,Africa/Kampala,2020-07-16
 Kasese,UG,,UGKSE,KSE,Kasese Airport,,0.1833,30.1000,Africa/Kampala,2016-06-22
 Mbarara,UG,,UGMBQ,MBQ,Mbarara,,-0.6047,30.6485,Africa/Kampala,2016-06-22
 Moyo,UG,,UGOYG,OYG,Moyo,,3.6609,31.7247,Africa/Kampala,2016-06-22
@@ -9822,7 +9822,7 @@ Johnston Atoll,UM,67,UMJON,JON,Johnston Atoll,,16.7283,-169.5343,,2017-07-20
 Midway Islands,UM,71,UMMDY,MDY,Henderson Field Civil Airport,,28.2017,-177.3806,Pacific/Midway,2015-03-14
 Attalla,US,AL,USAAA,AAA,Logan County Airport,,40.1587,-89.3351,America/Chicago,2017-05-23
 Apalachicola,US,FL,USAAF,AAF,Robinson Army Airfield/National Guard Airport,,34.8413,-92.3046,America/Chicago,2017-05-23
-Summit,US,SC,USAAO,AAO,Colonel James Jabara Airport,,37.7472,-97.2242,America/Chicago,2017-05-23
+Summit,US,SC,USAAO,AAO,Colonel James Jabara Airport,,37.7475,-97.2211,America/Chicago,2020-07-19
 Arlington/Baltimore,US,MD,USAAP,AAP,Andrau Airpark (historical),3920N 07641W,29.7224,-95.5883,America/Chicago,2012-05-12
 Saint Charles,US,MN,USAAS,AAS,Adventist Academy of Santa Fe,4358N 09203W,35.6973,-105.9307,America/Denver,2017-09-19
 Danville,US,WA,USAAT,AAT,Alturas Municipal Airport,4859N 11830W,41.4827,-120.5663,America/Los_Angeles,2011-07-25
@@ -9838,13 +9838,14 @@ Raymond,US,WA,USACC,ACC,District of Columbia General Hospital ACCC Heliport,4641
 Carol Stream,US,IL,USACE,ACE,Ernest F Hollings Ace Basin National Wildlife Refuge,,32.6335,-80.3647,America/New_York,2014-10-08
 Catskill,US,NY,USACG,ACG,Atwater Cosmos Grove City School,,45.1333,-94.7797,America/Chicago,2017-05-23
 Nantucket,US,MA,USACK,ACK,Nantucket,,41.2835,-70.0995,America/New_York,2017-05-23
-Anchor Point,US,AK,USACP,ACP,Allen Parish Airport,,30.7535,-92.6890,America/Chicago,2011-03-13
+Anchor Point,US,AK,USACP,ACP,Allen Parish Airport,,30.7506,-92.6886,America/Chicago,2020-07-22
 Ancram,US,NY,USACQ,ACQ,Waseca Municipal Airport,4203N 07338W,44.0733,-93.5530,America/Chicago,2017-05-23
 Waco,US,TX,USACT,ACT,Waco,,31.5493,-97.1467,America/Chicago,2017-03-09
 Arcata,US,CA,USACV,ACV,Arcata,,40.8665,-124.0828,America/Los_Angeles,2017-03-09
 American Canyon,US,CA,USACY,ACY,Atlantic City,3810N 12215W,39.3642,-74.4231,America/New_York,2019-03-14
 Arkadelphia,US,AR,USADA,ADA,All Dulles Area Muslim Society Center,3407N 09303W,39.0079,-77.3794,America/New_York,2010-02-20
 Camphill,US,PA,USADC,ADC,Wadena Municipal Airport,,46.4481,-95.2109,America/Chicago,2017-05-23
+Cordele,US,GA,USADF,ADF,Dexter B. Florence Memorial Field,,34.0997,-93.0661,America/Chicago,2020-07-21
 Adrian,US,MI,USADG,ADG,Adrian,,41.8976,-84.0372,America/Detroit,2017-05-23
 Adams Center,US,NY,USADH,ADH,Ada Municipal Airport,4349N 07601W,34.8031,-96.6714,America/Chicago,2013-06-22
 Adak Island/Adak Apt,US,AK,USADK,ADK,Adak Island,,51.7844,-176.6403,America/Adak,2017-02-20
@@ -9861,7 +9862,7 @@ Marengo,US,IN,USAEG,AEG,Double Eagle II Airport,3822N 08620W,35.1450,-106.7950,A
 Albert Lea,US,MN,USAEL,AEL,Albert Lea Municipal Airport,,43.6814,-93.3674,America/Chicago,2017-05-23
 Allakaket,US,AK,USAET,AET,Allakaket Airport,,66.5496,-152.6314,America/Anchorage,2011-12-12
 Alexander,US,IA,USAEX,AEX,Alexandria,4248N 09328W,31.3113,-92.4451,America/Chicago,2017-03-09
-Avondale,US,PA,USAFB,AFB,Albany Naval Air Station (historical),3949N 07547W,31.5978,-84.0892,America/New_York,2013-06-10
+Avondale,US,PA,USAFB,AFB,Bolling Air Force Base (historical),3949N 07547W,38.8596,-77.0055,America/New_York,2020-07-17
 Alfred,US,ME,USAFE,AFE,Kake Airport,4329N 07043W,56.9621,-133.9119,America/Sitka,2017-06-08
 Affton,US,MO,USAFF,AFF,United States Air Force Academy Airstrip,3833N 09019W,38.9694,-104.8133,America/Denver,2006-10-29
 Brandon,US,SD,USAFI,AFI,AFI Silver Theatre and Cultural Center,4336N 09634W,38.9965,-77.0272,America/New_York,2019-10-16
@@ -10039,7 +10040,7 @@ Altadena,US,CA,USAZA,AZA,Phoenix-Mesa Gateway Airport,,33.3066,-111.6679,America
 Alvin,US,TX,USAZC,AZC,Colorado City Municipal Airport,,36.9522,-113.0172,America/Phoenix,2012-04-21
 Shannock,US,RI,USAZK,AZK,Skelton Airport,4126N 07138W,61.9369,-147.1686,America/Anchorage,2014-10-08
 Kalamazoo,US,MI,USAZO,AZO,Kalamazoo,,42.2917,-85.5872,America/Detroit,2017-05-23
-Baldwin,US,NY,USBAD,BAD,Louisiana State Police Troop G Headquarters Facilities Heliport,,32.5313,-93.6602,America/Chicago,2011-03-10
+Baldwin,US,NY,USBAD,BAD,Louisiana State Police Troop G Headquarters Facilities Heliport,,32.5313,-93.6602,America/Chicago,2020-07-14
 Westfield,US,MA,USBAF,BAF,Westfield-Barnes Regional Airport,4207N 07244W,42.1576,-72.7151,America/New_York,2017-06-18
 Babcock,US,WI,USBAK,BAK,Columbus Bakalar Municipal Airport,,39.2623,-85.8956,America/Indiana/Indianapolis,2017-05-23
 Battle Mountain,US,NV,USBAM,BAM,Battle Mountain Airport,,40.6070,-116.8743,America/Los_Angeles,2014-10-08
@@ -10048,7 +10049,7 @@ Baker Island,US,AK,USBAR,BAR,United States Department of Agriculture Research Ce
 Baldwin,US,FL,USBAX,BAX,Huron County Memorial Airport,,43.7828,-82.9858,America/Detroit,2017-05-23
 Balboa,US,CA,USBAZ,BAZ,New Braunfels Municipal Airport,3335N 11754W,29.7030,-98.0411,America/Chicago,2014-04-24
 Benson,US,MN,USBBB,BBB,Benson Municipal Airport,,45.3316,-95.6509,America/Chicago,2019-09-29
-Bay City,US,TX,USBBC,BBC,Bay City Municipal Airport,,28.9733,-95.8636,America/Chicago,2012-04-21
+Bay City,US,TX,USBBC,BBC,Bay City Municipal Airport,,28.9733,-95.8636,America/Chicago,2020-07-19
 Brady,US,TX,USBBD,BBD,Brady,,31.1352,-99.3351,America/Chicago,2017-03-09
 Burlington,US,MA,USBBF,BBF,Burlington,,42.5048,-71.1956,America/New_York,2020-04-03
 Batesburg,US,SC,USBBG,BBG,Branson Airport,,36.5376,-93.2001,America/Chicago,2017-05-23
@@ -10066,7 +10067,7 @@ Brevard,US,NC,USBCV,BCV,Birchwood Airport,,61.4161,-149.5086,America/Anchorage,2
 Baudette,US,MN,USBDE,BDE,Baudette,,48.7125,-94.5999,America/Chicago,2017-05-23
 Bradford,US,IL,USBDF,BDF,Bradford,,41.1773,-89.6576,America/Chicago,2017-05-23
 Blanding,US,UT,USBDG,BDG,Blanding,,37.6243,-109.4797,America/Denver,2017-03-09
-Bedford Heights,US,OH,USBDH,BDH,Willmar Municipal Airport-John L Rice Field,,45.1148,-95.1313,America/Chicago,2017-05-23
+Bedford Heights,US,OH,USBDH,BDH,Willmar Municipal Airport,,45.1148,-95.1313,America/Chicago,2020-07-30
 Windsor Locks-Hartford Apt,US,CT,USBDL,BDL,Windsor Locks,,41.9293,-72.6273,America/New_York,2017-05-23
 Bridgeport,US,CT,USBDR,BDR,Igor I Sikorsky Memorial Airport,,41.1634,-73.1257,America/New_York,2017-05-23
 Broadus,US,MT,USBDX,BDX,Broadus Airport (historical),,45.4310,-105.4152,America/Denver,2016-10-30
@@ -10120,7 +10121,7 @@ Baker,US,FL,USBKG,BKG,Branson,,36.6437,-93.2185,America/Chicago,2017-09-03
 Kekaha,US,HI,USBKH,BKH,Kekaha,,21.9669,-159.7119,Pacific/Honolulu,2017-09-05
 Berkley,US,MI,USBKL,BKL,Burke Lakefront Airport,4230N 08310W,41.5173,-81.6832,America/New_York,2017-05-23
 Brookhaven,US,MS,USBKN,BKN,Blackwell-Tonkawa Municipal Airport,,36.7490,-97.3481,America/Chicago,2013-06-04
-Brockton,US,MA,USBKS,BKS,Brooks County Airport,,27.2070,-98.1214,America/Chicago,2006-10-29
+Brockton,US,MA,USBKS,BKS,Brooks County Airport,,27.2067,-98.1211,America/Chicago,2020-07-24
 Blackstone,US,VA,USBKT,BKT,Allen C Perkinson Municipal Airport,3704N 07759W,37.0746,-77.9628,America/New_York,2006-10-29
 Brecksville,US,OH,USBKV,BKV,Hernando County Airport,,28.4736,-82.4551,America/New_York,2012-04-21
 Beckley,US,WV,USBKW,BKW,Beckley,,37.7782,-81.1882,America/New_York,2017-03-09
@@ -10148,7 +10149,7 @@ Burnham,US,ME,USBNH,BNH,Boston Harbour Seaplane Base,4441N 06926W,42.3548,-71.04
 Barnwell,US,SC,USBNL,BNL,Barnwell,,33.2449,-81.3587,America/New_York,2017-03-09
 Burns,US,OR,USBNO,BNO,Burns,,43.5863,-119.0541,America/Los_Angeles,2017-03-09
 Boone,US,IA,USBNW,BNW,Boone Municipal Airport,,42.0494,-93.8474,America/Chicago,2017-05-23
-Botsford,US,CT,USBOF,BOF,Joint Base Anacostia-Bolling Heliport,,38.8429,-77.0155,America/New_York,2017-11-05
+Botsford,US,CT,USBOF,BOF,Joint Base Anacostia-Bolling Heliport,,38.8429,-77.0155,America/New_York,2020-07-17
 Boise,US,ID,USBOI,BOI,Boise,,43.6135,-116.2035,America/Boise,2019-09-05
 Brookings,US,OR,USBOK,BOK,Brookings,,42.0526,-124.2840,America/Los_Angeles,2017-03-09
 Boston,US,MA,USBOS,BOS,Boston,,42.3584,-71.0598,America/New_York,2019-09-05
@@ -10161,6 +10162,7 @@ Belton,US,KY,USBPL,BPL,Boston Public Library,3709N 08700W,42.3493,-71.0784,Ameri
 Bellport,US,NY,USBPP,BPP,Bowman Municipal Airport,4045N 07256W,46.1875,-103.4288,America/Denver,2017-05-23
 Beaumont,US,TX,USBPT,BPT,Beaumont,,30.0861,-94.1018,America/Chicago,2017-03-09
 Bunkie,US,LA,USBQK,BQK,Brunswick Golden Isles Airport,3057N 09211W,31.2588,-81.4662,America/New_York,2012-06-30
+Brooklyn Park,US,MN,USBQP,BQP,Morehouse Memorial Airport,,32.7561,-91.8806,America/Chicago,2020-07-14
 Bacova,US,VA,USBQV,BQV,Bartlett Cove Seaplane Base,3803N 07950W,58.4553,-135.8850,America/Juneau,2014-11-02
 Brainerd,US,MN,USBRD,BRD,Brainerd,,46.3580,-94.2008,America/Chicago,2017-05-23
 Whitesburg,US,KY,USBRG,BRG,Whitesburg,,37.1184,-82.8268,America/New_York,2020-04-03
@@ -10216,7 +10218,7 @@ Burley-Rupert Apt,US,ID,USBYI,BYI,Burley Municipal Airport,,42.5424,-113.7714,Am
 Bradley,US,IL,USBYL,BYL,Williamsburg-Whitley County Airport,,36.8010,-84.1971,America/New_York,2018-06-26
 Fort Irwin,US,CA,USBYS,BYS,Bicycle Lake Army Airfield,,35.2822,-116.6309,America/Los_Angeles,2006-10-29
 Blakely Island,US,WA,USBYW,BYW,Blakely Island,,48.5620,-122.8016,America/Los_Angeles,2017-07-23
-Breckenridge,US,MN,USBYY,BYY,Bay City Municipal Airport,,28.9733,-95.8636,America/Chicago,2012-04-21
+Breckenridge,US,MN,USBYY,BYY,Bay City Municipal Airport,,28.9733,-95.8636,America/Chicago,2020-07-19
 Bozeman,US,MT,USBZN,BZN,Gallatin Field Airport,4540N 11102W,45.7766,-111.1536,America/Denver,2014-04-15
 Boswell,US,IN,USBZS,BZS,Buzzard Point Heliport,4031N 08723W,38.8651,-77.0131,America/New_York,2020-04-03
 Brazoria,US,TX,USBZT,BZT,Brazoria,,29.0444,-95.5691,America/Chicago,2017-03-09
@@ -10272,6 +10274,7 @@ Murray,US,KY,USCEY,CEY,Murray-Calloway County Airport,,36.6646,-88.3728,America/
 Cortez,US,CO,USCEZ,CEZ,Cortez,,37.3489,-108.5859,America/Denver,2017-03-09
 Coffee Point,US,AK,USCFA,CFA,Coffee Point Airport (historical),,58.2100,-157.4332,America/Anchorage,2017-05-07
 Bryan,US,TX,USCFD,CFD,Coulter Field,,30.7171,-96.3358,America/Chicago,2016-12-07
+Chesterfield,US,MO,USCFE,CFE,Buffalo Municipal Airport,,45.1589,-93.8433,America/Chicago,2020-07-16
 Cresco,US,IA,USCFK,CFK,Chefornak Airport,,60.1571,-164.2858,America/Nome,2015-02-11
 Cannon Falls,US,MN,USCFS,CFS,Caro", Tuscola Area Airport,,43.4586,-83.4453,America/Detroit,2017-05-23
 Clifton,US,AZ,USCFT,CFT,Clifton,,33.0509,-109.2962,America/Phoenix,2017-08-29
@@ -10341,6 +10344,7 @@ Charlotte,US,NC,USCLT,CLT,Charlotte,,35.2271,-80.8431,America/New_York,2019-09-0
 Columbus,US,IN,USCLU,CLU,Columbus,,39.2014,-85.9214,America/Indiana/Indianapolis,2017-05-23
 Clearwater,US,FL,USCLW,CLW,Clearwater,,27.9658,-82.8001,America/New_York,2017-03-09
 Coleman,US,MI,USCMA,CMA,Camarillo Airport,,34.2136,-119.0951,America/Los_Angeles,2006-10-29
+Chelmsford,US,MA,USCMD,CMD,Cullman Regional Airport-Folsom Field,,34.2679,-86.8597,America/Chicago,2020-07-14
 Clayton,US,NC,USCME,CME,Mount Carmel Christian Methodist Episcopal Church,,41.7814,-87.6581,America/Chicago,2017-05-23
 Columbus,US,OH,USCMH,CMH,Columbus,,39.9612,-82.9988,America/New_York,2019-09-05
 Champaign,US,IL,USCMI,CMI,Champaign,,40.1164,-88.2434,America/Chicago,2017-05-23
@@ -10350,6 +10354,7 @@ Sparta,US,WI,USCMY,CMY,Sparta,,43.9441,-90.8129,America/Chicago,2017-05-23
 Clinton,US,MD,USCNB,CNB,CNB Heliport,,40.2626,-76.8039,America/New_York,2017-05-23
 Canon City,US,CO,USCNE,CNE,Canon City,,38.4410,-105.2425,America/Denver,2013-07-21
 Claremont,US,NH,USCNH,CNH,Claremont,,43.3767,-72.3468,America/New_York,2017-09-10
+Chilton,US,WI,USCNI,CNI,Cherokee County Airport,,34.3100,-84.4234,America/New_York,2020-07-14
 Concordia,US,KS,USCNK,CNK,Blosser Municipal Airport,,39.5431,-97.6534,America/Chicago,2017-05-23
 Carlsbad,US,NM,USCNM,CNM,Carlsbad,3225N 10413W,32.4207,-104.2288,America/Denver,2017-03-09
 Canonsburg,US,PA,USCNN,CNN,CNN Center,,33.7581,-84.3947,America/New_York,2007-02-16
@@ -10413,12 +10418,13 @@ Columbia,US,NC,USCUB,CUB,Jim Hamilton-L.B. Owens Airport,3554N 07615W,33.9707,-8
 Cushing,US,OK,USCUH,CUH,Cushing,,35.9851,-96.7670,America/Chicago,2017-03-09
 Cullman,US,AL,USCUL,CUL,Carmi Municipal Airport,,38.0895,-88.1228,America/Chicago,2017-05-23
 Columbus,US,NM,USCUS,CUS,Columbus,3149N 10738W,31.8276,-107.6400,America/Denver,2017-03-09
+Chestnut,US,CA,USCUT,CUT,Custer County Airport,,43.7333,-103.6185,America/Denver,2020-07-16
 Cube Cove,US,AK,USCUW,CUW,Cube Cove Airport (historical),,57.9285,-134.7138,America/Juneau,2017-06-27
 Cincinnati,US,OH,USCVG,CVG,Cincinnati/Northern Kentucky International Airport,,39.0461,-84.6622,America/New_York,2014-10-07
 Clovis,US,NM,USCVN,CVN,Clovis,,34.4048,-103.2052,America/Denver,2017-03-09
 Albany-Corvallis Apt,US,OR,USCVO,CVO,Corvallis,,44.5646,-123.2620,America/Los_Angeles,2017-03-09
 Culver City,US,CA,USCVR,CVR,Culver City,,34.0211,-118.3965,America/Los_Angeles,2020-04-20
-Clovis,US,CA,USCVS,CVS,Cannon Air Force Base,,34.3920,-103.3207,America/Denver,2013-06-22
+Clovis,US,CA,USCVS,CVS,Cannon Air Force Base,,34.3920,-103.3207,America/Denver,2020-07-19
 Cavendish,US,VT,USCVX,CVX,Charlevoix Municipal Airport,,45.3042,-85.2720,America/Detroit,2017-05-23
 Coldwater,US,MI,USCWA,CWA,Central Wisconsin Airport,,44.7783,-89.6662,America/Chicago,2017-05-23
 Centerville,US,MN,USCWF,CWF,Chennault International Airport,4509N 09303W,30.2143,-93.1483,America/Chicago,2014-10-08
@@ -10445,7 +10451,7 @@ Chistochina,US,AK,USCZO,CZO,Chistochina,,62.5718,-144.6542,America/Anchorage,201
 Cape Pole,US,AK,USCZP,CZP,Cape Pole Seaplane Base,,55.9665,-133.7962,America/Metlakatla,2017-09-21
 Carrizo Springs,US,TX,USCZT,CZT,Carrizo Springs,,28.5219,-99.8606,America/Chicago,2017-08-28
 Cottonwood,US,CA,USCZV,CZV,George H.W. Bush Center for Central Intelligence,,38.9522,-77.1444,America/New_York,2006-07-13
-Fort Belvoir,US,VA,USDAA,DAA,Mount Vernon Hospital Heliport,,38.7404,-77.0772,America/New_York,2011-03-10
+Fort Belvoir,US,VA,USDAA,DAA,Fort Belvoir,,38.7119,-77.1459,America/New_York,2020-07-21
 Daytona Beach,US,FL,USDAB,DAB,Daytona Beach,,29.2108,-81.0228,America/New_York,2017-03-09
 Dallas,US,NC,USDAC,DAC,DAC Center for Learning,,36.8399,-76.3501,America/New_York,2010-02-05
 Dania Beach,US,FL,USDAD,DAD,Dicks Creek - Amonate - Dry Fork Volunteer Fire Department,2603N 08008W,37.1817,-81.6187,America/New_York,2012-09-11
@@ -10489,6 +10495,7 @@ Bodega Bay,US,CA,USDHB,DHB,Deer Harbor Bay,3820N 12303W,48.6170,-123.0050,Americ
 Windham Hill,US,ME,USDHM,DHM,Dartmouth Hitchcock Medical Center,4348N 07026W,43.6760,-72.2736,America/New_York,2017-05-23
 Dothan,US,AL,USDHN,DHN,Dothan,,31.2232,-85.3905,America/Chicago,2017-03-09
 Dalhart,US,TX,USDHT,DHT,Dalhart,,36.0595,-102.5132,America/Chicago,2019-02-18
+Delhi,US,OH,USDIJ,DIJ,Driggs-Reed Memorial Airport,3906N 08436W,43.7417,-111.0978,America/Boise,2020-07-23
 Dickinson,US,ND,USDIK,DIK,Dickinson Municipal Airport,,46.7958,-102.8005,America/Denver,2017-05-23
 Medina,US,TX,USDIN,DIN,Skis Landing Area,2947N 09914W,41.5731,-72.3017,America/New_York,2017-05-23
 Diomede Island,US,AK,USDIO,DIO,Diomede,,65.7581,-168.9520,America/Nome,2017-03-09
@@ -10497,7 +10504,7 @@ Delta Junction,US,AK,USDJN,DJN,Delta Junction,,64.0378,-145.7322,America/Anchora
 Dennis,US,MA,USDJS,DJS,DJs Airport,4144N 07011W,34.5207,-98.3252,America/Chicago,2016-12-07
 De Kalb,US,TX,USDKB,DKB,DeKalb Taylor Municipal Airport,3330N 09436W,41.9297,-88.7134,America/Chicago,2017-05-23
 Dunkirk,US,NY,USDKK,DKK,Chautauqua County-Dunkirk Airport,4229N 07916W,42.4934,-79.2717,America/New_York,2017-05-23
-Decker,US,IN,USDKR,DKR,Houston County Airport,3831N 08731W,31.3085,-95.4044,America/Chicago,2012-02-21
+Decker,US,IN,USDKR,DKR,Houston County Airport,3831N 08731W,31.3069,-95.4036,America/Chicago,2020-07-25
 De Land,US,FL,USDLD,DLD,DLD State Recreation Area,,40.5820,-98.2895,America/Chicago,2006-01-15
 De Leon Springs,US,FL,USDLF,DLF,Laughlin Air Force Base,,29.3600,-100.7779,America/Chicago,2013-06-16
 Dillingham,US,AK,USDLG,DLG,Dillingham,,59.0397,-158.4575,America/Anchorage,2017-03-09
@@ -10509,6 +10516,7 @@ The Dalles,US,OR,USDLS,DLS,The Dalles,,45.5946,-121.1787,America/Los_Angeles,201
 Del Mar,US,CA,USDMA,DMA,D M A D Reservoir,,39.4107,-112.4661,America/Denver,2011-12-12
 Deming,US,NM,USDMN,DMN,Deming Municipal Airport,,32.2623,-107.7206,America/Denver,2006-10-29
 Sedalia,US,MO,USDMO,DMO,Sedalia Memorial Airport,,38.7042,-93.1835,America/Chicago,2017-05-23
+Donaldsonville,US,LA,USDNA,DNA,Dona Ana County International Jetport at Santa Teresa,,31.8808,-106.7047,America/Denver,2020-07-20
 Dane,US,WI,USDNE,DNE,Dallas North Airport (historical),4315N 08930W,33.0800,-96.7390,America/Chicago,2016-04-02
 Denville,US,NJ,USDNL,DNL,Daniel Field Airport,,33.4665,-82.0393,America/New_York,2015-06-07
 Dalton,US,GA,USDNN,DNN,Dalton Municipal Airport,,34.7218,-84.8691,America/New_York,2006-10-29
@@ -10570,6 +10578,7 @@ Wheatland,US,WY,USEAN,EAN,Phifer Airfield,,42.0545,-104.9383,America/Denver,2015
 Kearney,US,NE,USEAR,EAR,Kearney Municipal Airport,,40.7270,-99.0070,America/Chicago,2006-10-29
 Wenatchee,US,WA,USEAT,EAT,Pangborn Field,,47.3987,-120.2067,America/Los_Angeles,2006-10-29
 Eau Claire,US,WI,USEAU,EAU,Chippewa Valley Regional Airport,,44.8652,-91.4849,America/Chicago,2017-05-23
+Elba,US,AL,USEBA,EBA,Elbert County Airport-Patz Field,3124N 08604W,34.0950,-82.8158,America/New_York,2020-07-19
 East Brunswick,US,NJ,USEBR,EBR,Baton Rouge Downtown Airport (historical),,30.4586,-91.1890,America/Chicago,2020-03-14
 Webster City,US,IA,USEBS,EBS,Webster City Municipal Airport,4228N 09348W,42.4358,-93.8688,America/Chicago,2017-05-23
 East Tawas,US,MI,USECA,ECA,East Tawas,,44.2795,-83.4903,America/Detroit,2017-05-23
@@ -10746,7 +10755,7 @@ Franklin,US,IN,USFKA,FKA,Fillmore County Airport,,43.6763,-92.1796,America/Chica
 Fackler,US,AL,USFKK,FKK,Farewell Lake Seaplane Base,3447N 08554W,62.5422,-153.6225,America/Anchorage,2017-08-24
 Franklin,US,PA,USFKL,FKL,Venango Regional Airport,,41.3778,-79.8603,America/New_York,2017-05-23
 Franklin,US,VA,USFKN,FKN,Franklin Municipal-John Beverly Rose Airport,,36.6985,-76.9030,America/New_York,2014-04-18
-Fort Atkinson,US,IA,USFKS,FKS,Frankfort City-Benzie County Airport,4308N 09155W,44.6258,-86.2006,America/Detroit,2017-05-23
+Fort Atkinson,US,IA,USFKS,FKS,Frankfort Dow Memorial Field,4308N 09155W,44.6250,-86.2006,America/Detroit,2020-07-24
 Fond du Lac,US,WI,USFLD,FLD,Fond du Lac,,43.7750,-88.4388,America/Chicago,2017-07-16
 Flemington,US,NJ,USFLE,FLE,Fort Lee Heliport,,37.2417,-77.3426,America/New_York,2016-08-28
 Flagstaff,US,AZ,USFLG,FLG,Flagstaff,,35.1981,-111.6513,America/Phoenix,2017-03-09
@@ -10772,12 +10781,12 @@ Funter Bay,US,AK,USFNR,FNR,Funter Bay Seaplane Base,,58.2542,-134.8978,America/J
 Flint,US,MI,USFNT,FNT,Bishop International Airport,,42.9653,-83.7433,America/Detroit,2017-05-23
 Fort Bragg,US,CA,USFOB,FOB,Fort Bragg,,39.4457,-123.8053,America/Los_Angeles,2017-03-09
 Fort Dodge,US,IA,USFOD,FOD,Fort Dodge,,42.4975,-94.1680,America/Chicago,2017-12-24
-Forestville,US,CT,USFOE,FOE,Topeka Regional Airport,,38.9472,-95.6739,America/Chicago,2020-07-08
+Forestville,US,CT,USFOE,FOE,Topeka Regional Airport,,38.9472,-95.6739,America/Chicago,2020-07-28
 Westhampton,US,NY,USFOK,FOK,The Francis S Gabreski Airport,,40.8437,-72.6312,America/New_York,2017-05-23
 Forest Park,US,GA,USFOP,FOP,Forest Park,,33.6221,-84.3691,America/New_York,2017-03-09
 Fox River Grove,US,IL,USFOZ,FOZ,Bigfork Municipal Airport,,47.7803,-93.6481,America/Chicago,2017-09-24
 Forest Park,US,IL,USFPA,FPA,Deschutes National Forest Crescent Ranger District,,43.4608,-121.6971,America/Los_Angeles,2014-10-08
-Forest Park,US,OH,USFPK,FPK,Fitch H. Beach Airport,3917N 08430W,42.5745,-84.8114,America/Detroit,2017-09-10
+Forest Park,US,OH,USFPK,FPK,Fitch H. Beach Airport,3917N 08430W,42.5745,-84.8114,America/Detroit,2020-07-18
 Flippin,US,AR,USFPP,FPP,Lake Fayette,3617N 09236W,29.9301,-96.7343,America/Chicago,2016-12-07
 Fort Pierce,US,FL,USFPR,FPR,Fort Pierce,,27.4467,-80.3256,America/New_York,2017-03-09
 Perry,US,FL,USFPY,FPY,Perry,,30.1177,-83.5827,America/New_York,2017-03-09
@@ -10831,7 +10840,7 @@ Gaithersburg,US,MD,USGAI,GAI,Gaithersburg,,39.1434,-77.2014,America/New_York,201
 Gakona,US,AK,USGAK,GAK,Gakona,,62.3014,-145.3027,America/Anchorage,2017-09-27
 Galena,US,AK,USGAL,GAL,Gallup Farm,,41.5355,-71.8351,America/New_York,2017-05-23
 Gambell,US,AK,USGAM,GAM,Gambell,,63.7792,-171.7346,America/Adak,2017-03-09
-Grafton,US,WV,USGAO,GAO,Galliano", South Lafourche Airport,3920N 08001W,29.4447,-90.2611,America/Chicago,2014-04-25
+Grafton,US,WV,USGAO,GAO,Galliano", South Lafourche Airport,3920N 08001W,29.4447,-90.2611,America/Chicago,2020-07-19
 Garden City,US,NJ,USGAR,GAR,Grand Army of the Republic Cemetery,,36.4915,-94.4433,America/Chicago,2017-05-23
 Great Bend,US,KS,USGBD,GBD,Great Bend,,38.3645,-98.7648,America/Chicago,2017-05-23
 Galesburg,US,IL,USGBG,GBG,Galesburg,,40.9478,-90.3712,America/Chicago,2017-05-23
@@ -10845,6 +10854,7 @@ Grand Canyon,US,AZ,USGCN,GCN,Grand Canyon,,36.0544,-112.1393,America/Phoenix,201
 Gilcrest,US,CO,USGCT,GCT,Grand Canyon Bar 10 Airport,,36.2602,-113.2312,America/Phoenix,2017-05-04
 Grand Canyon West Apt,US,AZ,USGCW,GCW,Grand Canyon West Airport,3559N 11349W,35.9856,-113.8195,America/Phoenix,2016-01-30
 Greenville,US,TN,USGCY,GCY,Greeneville,3617N 08653W,36.1632,-82.8310,America/New_York,2017-03-09
+Grand Bay,US,AL,USGDB,GDB,Granite Falls Municipal Airport,3028N 08822W,44.7531,-95.5558,America/Chicago,2020-07-16
 Garden City,US,MN,USGDC,GDC,Donaldson Center Airport,4402N 09410W,34.7566,-82.3756,America/New_York,2016-05-16
 Golden Horn,US,AK,USGDH,GDH,Golden Horn Lodge Seaplane Base,,59.7492,-158.8733,America/Anchorage,2011-12-12
 Gardner,US,MA,USGDM,GDM,Gardner,,42.5751,-71.9981,America/New_York,2017-05-23
@@ -10861,7 +10871,7 @@ Glens Falls,US,NY,USGFL,GFL,GFL Lakeside School,,44.9011,-94.1958,America/Chicag
 Georgetown,US,SC,USGGE,GGE,Georgetown,,33.3768,-79.2945,America/New_York,2017-03-09
 Gladewater-Longview-Kilgore Apt,US,TX,USGGG,GGG,Gregg County Airport,,32.3849,-94.7119,America/Chicago,2006-10-29
 Glasgow,US,DE,USGGW,GGW,Glasgow,,48.1970,-106.6367,America/Denver,2018-01-02
-Gothenburg,US,NE,USGHG,GHG,Marshfield Airport,4055N 10009W,42.0982,-70.6714,America/New_York,2017-05-23
+Gothenburg,US,NE,USGHG,GHG,Marshfield Airport,4055N 10009W,42.0982,-70.6714,America/New_York,2020-07-15
 Centerville,US,TN,USGHM,GHM,Centerville,,35.7790,-87.4670,America/Chicago,2017-03-09
 Gibbstown,US,NJ,USGIB,GIB,Gibson Point,3949N 07517W,47.3808,-115.8557,America/Los_Angeles,2006-01-15
 Winter Haven,US,FL,USGIF,GIF,GIF Clarke Grant,,30.1316,-81.4592,America/New_York,2006-01-15
@@ -10892,6 +10902,8 @@ Grover,US,NC,USGOF,GOF,Goodfellow Air Force Base,3510N 08127W,31.4314,-100.4021,
 Guthrie,US,OK,USGOK,GOK,Guthrie,,35.8789,-97.4253,America/Chicago,2017-03-09
 Gold Beach,US,OR,USGOL,GOL,Gold Beach Municipal Airport,,42.4185,-124.4241,America/Los_Angeles,2014-10-08
 Groton-New London Apt,US,CT,USGON,GON,Groton,,41.3501,-72.0784,America/New_York,2018-09-11
+Good Hope,US,LA,USGOP,GOP,Gatesville Municipal Airport,2959N 09024W,31.4211,-97.7969,America/Chicago,2020-07-17
+Gordonsville,US,TN,USGOV,GOV,Grayling Army Airfield,,44.6805,-84.7304,America/Detroit,2020-07-16
 Grapevine,US,CA,USGPI,GPI,Glacier Park International Airport,3456N 11855W,48.3113,-114.2560,America/Denver,2014-08-14
 Gulfport,US,MS,USGPT,GPT,Gulfport,,30.3674,-89.0928,America/Chicago,2017-03-09
 Grand Rapids,US,MN,USGPZ,GPZ,Grand Rapids,,47.2372,-93.5302,America/Chicago,2017-05-23
@@ -10912,7 +10924,7 @@ Goshen,US,IN,USGSH,GSH,Goshen Municipal Airport,,41.5231,-85.7943,America/Indian
 Greensboro-High Point Apt,US,NC,USGSO,GSO,Greensboro,,36.0726,-79.7920,America/New_York,2019-09-05
 Greenville-Greer Apt,US,SC,USGSP,GSP,Greenville,,34.8526,-82.3940,America/New_York,2017-03-09
 Gustavus,US,AK,USGST,GST,Gustavus,,58.4133,-135.7369,America/Juneau,2017-03-09
-Granite Bay,US,CA,USGTB,GTB,Fort Drum / Wheeler-Sack U. S. Army Airfield,3846N 12110W,44.0556,-75.7195,America/New_York,2017-05-23
+Granite Bay,US,CA,USGTB,GTB,Wheeler-Sack Army Airfield,3846N 12110W,44.0556,-75.7195,America/New_York,2020-07-27
 Great Falls,US,MT,USGTF,GTF,Great Falls,,47.5002,-111.3008,America/Denver,2017-03-09
 Grovetown,US,GA,USGTG,GTG,Grantsburg,3327N 08209W,45.7763,-92.6827,America/Chicago,2017-05-23
 Guntown,US,MS,USGTO,GTO,Stonington Airpark,,41.3477,-71.8859,America/New_York,2017-05-23
@@ -10936,6 +10948,7 @@ Glenwood Springs,US,CO,USGWS,GWS,Glenwood Springs,,39.5505,-107.3248,America/Den
 Guin,US,AL,USGWU,GWU,Foggy Bottom-GWU Metro Station,,38.9007,-77.0503,America/New_York,2019-06-19
 Glendale,US,WV,USGWV,GWV,Glendale Fokker Field Airport,,39.9487,-80.7595,America/New_York,2015-10-24
 Greeley,US,CO,USGXY,GXY,Greeley,,40.4233,-104.7091,America/Denver,2017-03-09
+Gridley,US,KS,USGYB,GYB,Giddings", Giddings-Lee County Airport,3805N 09553W,30.1692,-96.9800,America/Chicago,2020-07-20
 Gayville", Yankton,US,SD,USGYH,GYH,Donaldson Center Airport,4253N 09710W,34.7566,-82.3756,America/New_York,2016-05-16
 Gaylordsville,US,CT,USGYI,GYI,North Texas Regional Airport,4138N 07329W,33.7151,-96.6711,America/Chicago,2017-01-11
 Goodyear,US,AZ,USGYR,GYR,Goodyear,,33.4353,-112.3582,America/Phoenix,2017-03-09
@@ -10953,6 +10966,7 @@ Haycock,US,AK,USHAY,HAY,Haycock Airport (historical),,65.2008,-161.1567,America/
 Hanus Bay,US,AK,USHBC,HBC,Harvest Bible Chapel Decatur,,39.8203,-88.9145,America/Chicago,2017-05-23
 Hattiesburg,US,MS,USHBG,HBG,Hattiesburg,,31.3271,-89.2903,America/Chicago,2017-03-09
 Hobart Bay,US,AK,USHBH,HBH,Entrance Island Seaplane Base,,57.4128,-133.4400,America/Juneau,2017-09-27
+Hubbard,US,OR,USHBI,HBI,Asheboro Regional Airport,,35.6544,-79.8947,America/New_York,2020-07-14
 Hoboken,US,NJ,USHBK,HBK,Holbrook,,34.9023,-110.1582,America/Phoenix,2017-07-06
 Hansboro,US,ND,USHBO,HBO,Humboldt,4857N 09922W,40.1639,-95.9450,America/Chicago,2017-05-23
 Hobart,US,OK,USHBR,HBR,Hobart,,35.0295,-99.0931,America/Chicago,2017-09-09
@@ -11030,9 +11044,11 @@ Hope Valley,US,RI,USHPV,HPV,Princeville Airport,4130N 07143W,22.2114,-159.4426,P
 Baytown,US,TX,USHPY,HPY,Baytown,,29.7355,-94.9774,America/Chicago,2017-03-09
 Hoquiam,US,WA,USHQM,HQM,Bowerman Airport,,46.9712,-123.9366,America/Los_Angeles,2006-10-29
 Harriman,US,NY,USHRI,HRI,Hermiston Municipal Airport,,45.8279,-119.2603,America/Los_Angeles,2013-01-18
+Harahan,US,LA,USHRJ,HRJ,Erwin", Harnett County Airport,,35.3786,-78.7336,America/New_York,2020-07-19
 Harlingen,US,TX,USHRL,HRL,Harlingen,,26.1906,-97.6961,America/Chicago,2017-03-09
 Harrison,US,AR,USHRO,HRO,Boone County Airport,,36.2615,-93.1546,America/Chicago,2017-05-23
 Harrington,US,DE,USHRR,HRR,Healy River Airport,,63.8661,-148.9689,America/Anchorage,2013-06-01
+Hart,US,MI,USHRT,HRT,Hurlburt Field,,30.4260,-86.6888,America/Chicago,2020-07-19
 Hinsdale,US,IL,USHSA,HSA,Stennis International Airport,,30.3710,-89.4545,America/Chicago,2017-02-25
 Harrisburg,US,IL,USHSB,HSB,Harrisburg,,37.7384,-88.5406,America/Chicago,2019-09-19
 Harmony,US,SC,USHSC,HSC,The HSC Pediatric Center,,38.9414,-76.9811,America/New_York,2016-12-07
@@ -11082,6 +11098,7 @@ Hazelwood,US,NC,USHZD,HZD,Carroll County Airport,3528N 08300W,36.0867,-88.4659,A
 Hazlet,US,NJ,USHZE,HZE,Mercer County Regional Airport,4024N 07411W,47.2904,-101.5785,America/North_Dakota/Beulah,2017-06-05
 Hazleton,US,PA,USHZL,HZL,Hazleton,,40.9584,-75.9746,America/New_York,2017-05-23
 Hales Corners,US,WI,USHZR,HZR,False River Regional Airport,,30.7116,-91.4803,America/Chicago,2014-10-08
+Hayfield,US,MN,USHZX,HZX,Isedor Iverson Airport,4353N 09250W,46.6186,-93.3097,America/Chicago,2020-07-16
 Addison,US,ME,USIAB,IAB,Mc Connell Air Force Base,4437N 06745W,37.6305,-97.2606,America/Chicago,2017-05-23
 Dulles Int Apt/Washington,US,VA,USIAD,IAD,Washington Dulles International Airport,,38.9488,-77.4491,America/New_York,2014-10-08
 Niagara Falls,US,NY,USIAG,IAG,Niagara Falls International Airport,,43.1014,-78.9412,America/New_York,2017-05-23
@@ -11128,6 +11145,7 @@ Immokalee,US,FL,USIMM,IMM,Immokalee,,26.4187,-81.4173,America/New_York,2011-05-1
 Iron Mountain,US,MI,USIMT,IMT,Ford Airport,,45.8152,-88.1177,America/Menominee,2017-05-23
 Indianapolis,US,IN,USIND,IND,Indianapolis,3946N 08609W,39.7684,-86.1580,America/Indiana/Indianapolis,2019-09-05
 Inglewood,US,CA,USING,ING,LIMING Reservoir Dam,,45.2133,-107.3106,America/Denver,2006-01-15
+Iselin,US,NJ,USINJ,INJ,Hillsboro Municipal Airport,,32.0833,-97.0972,America/Chicago,2020-07-24
 Wink,US,TX,USINK,INK,Wink,,31.7512,-103.1599,America/Chicago,2017-03-09
 International Falls,US,MN,USINL,INL,Falls International Airport-Einarson Field,,48.5662,-93.3988,America/Chicago,2017-05-23
 Inman,US,SC,USINM,INM,INM Springs,,34.4620,-107.6892,America/Denver,2006-01-15
@@ -11191,6 +11209,7 @@ Junction,US,TX,USJCT,JCT,Junction,,30.4894,-99.7720,America/Chicago,2017-09-26
 Johnson City,US,TX,USJCY,JCY,Johnson City,3016N 09824W,30.2769,-98.4120,America/Chicago,2017-09-21
 John Day,US,OR,USJDA,JDA,John Day,,44.4160,-118.9530,America/Los_Angeles,2017-03-09
 Lowndesboro,US,AL,USJDB,JDB,Dallas CBD Vertiport,3216N 08636W,32.7717,-96.8022,America/Chicago,2016-05-14
+Middletown,US,IN,USJDD,JDD,Wood County Airport,4003N 08532W,32.7419,-95.4964,America/Chicago,2020-07-24
 Miami Downtown Heliport Airport,US,FL,USJDM,JDM,International Place Heliport,1001N 07339W,25.7725,-80.1910,America/New_York,2017-12-10
 Jordan,US,MT,USJDN,JDN,Jordan,,47.3208,-106.9101,America/Denver,2017-03-09
 Port Laudania,US,FL,USJDT,JDT,Minneapolis Downtown Heliport (historical),2603N 08007W,44.9747,-93.2754,America/Chicago,2020-03-14
@@ -11202,6 +11221,7 @@ Jerome,US,ID,USJER,JER,Jerome County Airport,,42.7255,-114.4553,America/Boise,20
 Jeffersontown,US,KY,USJET,JET,JET Mine,,35.4978,-114.9114,America/Los_Angeles,2006-01-15
 John F. Kennedy Apt/New York,US,NY,USJFK,JFK,John F Kennedy High School,4038N 07346W,39.0659,-77.0387,America/New_York,2019-03-03
 Jefferson,US,OH,USJFN,JFN,Ashtabula,,41.8650,-80.7898,America/New_York,2017-08-17
+Jefferson,US,NC,USJFZ,JFZ,Tazewell County Airport,3625N 08128W,37.0621,-81.7986,America/New_York,2020-07-14
 Glendale,US,CA,USJGX,JGX,Glendale,,34.1425,-118.2551,America/Los_Angeles,2019-09-05
 Garden City,US,NY,USJHC,JHC,Garden City,,40.7268,-73.6343,America/New_York,2017-05-23
 Kapalua,US,HI,USJHM,JHM,Kapalua Airport,,20.9626,-156.6742,Pacific/Honolulu,2011-12-11
@@ -11239,6 +11259,8 @@ Justice,US,IL,USJTC,JTC,Springerville Municipal Airport,4145N 08750W,34.1311,-10
 Manville,US,NJ,USJVI,JVI,Central Jersey Regional Airport,,40.5245,-74.5982,America/New_York,2017-05-23
 Janesville,US,WI,USJVL,JVL,Janesville,4240N 08901W,42.6828,-89.0187,America/Chicago,2017-05-23
 Jamestown,US,OH,USJWN,JWN,John C Tune Airport,3939N 08344W,36.1768,-86.8857,America/Chicago,2014-10-08
+Frenchtown,US,NJ,USJWY,JWY,Mid-Way Regional Airport,4031N 07503W,32.4558,-96.9122,America/Chicago,2020-07-18
+James Island,US,SC,USJXI,JXI,Fox Stephens Field - Gilmer Municipal Airport,3245N 07958W,32.6989,-94.9489,America/Chicago,2020-07-16
 Jackson,US,MI,USJXN,JXN,Jackson,,42.2459,-84.4013,America/Detroit,2017-05-23
 Jay,US,OK,USJYO,JYO,Leesburg Executive Airport,3625N 09447W,39.0785,-77.5551,America/New_York,2017-08-15
 Argyle,US,NY,USJYR,JYR,York Municipal Airport,,40.8950,-97.6245,America/Chicago,2017-05-23
@@ -11278,7 +11300,7 @@ Klag Bay,US,AK,USKBK,KBK,Hernando County Airport,,28.4736,-82.4551,America/New_Y
 Kimberly,US,WI,USKBL,KBL,Mercer County Airport,,37.2957,-81.2076,America/New_York,2018-06-22
 Blue Mound,US,TX,USKBM,KBM,Monroe County Airport,3251N 09720W,39.1383,-86.6173,America/Indiana/Indianapolis,2017-05-23
 Kennebunk,US,ME,USKBN,KBN,Barnwell Regional Airport,,33.2595,-81.3808,America/New_York,2014-10-08
-Lake Barrington,US,IL,USKBO,KBO,Joint Base Anacostia-Bolling Heliport,4212N 08809W,38.8429,-77.0155,America/New_York,2017-11-05
+Lake Barrington,US,IL,USKBO,KBO,Joint Base Anacostia-Bolling Heliport,4212N 08809W,38.8429,-77.0155,America/New_York,2020-07-17
 Kennebunkport,US,ME,USKBP,KBP,Ozark Regional Airport,4321N 07028W,36.3687,-92.4704,America/Chicago,2017-05-23
 Hackberry,US,LA,USKBR,KBR,Samuels Field,2959N 09320W,37.8143,-85.4996,America/New_York,2016-12-06
 Key Biscayne,US,FL,USKBS,KBS,Belfast Municipal Airport,,44.4091,-69.0087,America/New_York,2017-05-23
@@ -11296,8 +11318,8 @@ Koloa,US,HI,USKCI,KCI,Cairo Airport,2154N 15928W,37.0642,-89.2192,America/Chicag
 Callaway,US,MN,USKCJ,KCJ,Culpeper County Airport,4659N 09554W,38.5265,-77.8586,America/New_York,2012-04-21
 Kansas City,US,KS,USKCK,KCK,Crisp County-Cordele Airport,,31.9855,-83.7740,America/New_York,2012-04-21
 Chignik,US,AK,USKCL,KCL,Clearwater Air Park,,27.9759,-82.7581,America/New_York,2016-06-05
-Chatom,US,AL,USKCM,KCM,John Glenn Columbus International Airport,3128N 08815W,39.9980,-82.8835,America/New_York,2017-12-11
-Chernofski,US,AK,USKCN,KCN,Blosser Municipal Airport,,39.5431,-97.6534,America/Chicago,2017-05-23
+Chatom,US,AL,USKCM,KCM,Cullman Regional Airport-Folsom Field,3128N 08815W,34.2679,-86.8597,America/Chicago,2020-07-14
+Chernofski,US,AK,USKCN,KCN,Cherokee County Airport,,34.3100,-84.4234,America/New_York,2020-07-14
 East Stockton,US,CA,USKCO,KCO,Merritt Island Airport,3758N 12115W,28.3417,-80.6851,America/New_York,2016-06-05
 Kirtland,US,OH,USKCQ,KCQ,H L Sonny Callahan Airport,4137N 08121W,30.4610,-87.8777,America/Chicago,2016-01-16
 Colorado Creek,US,AK,USKCR,KCR,Z M Jack Stell Field,,33.1727,-91.8850,America/Chicago,2017-05-23
@@ -11377,7 +11399,7 @@ New Koliganek,US,AK,USKGK,KGK,Gatlinburg-Pigeon Forge Airport,,35.8585,-83.5270,
 Kingsland,US,TX,USKGL,KGL,Glasgow Municipal Airport,3039N 09826W,37.0321,-85.9526,America/Chicago,2011-12-11
 Kings Mills,US,OH,USKGM,KGM,Grove Municipal Airport,3921N 08415W,36.5998,-94.7369,America/Chicago,2011-12-11
 Kingston,US,MA,USKGN,KGN,Gainesville Regional Airport,,29.6902,-82.2715,America/New_York,2006-10-29
-Kingstown,US,NC,USKGO,KGO,Gatesville City-County Airport,3521N 08137W,31.4163,-97.7967,America/Chicago,2006-10-29
+Kingstown,US,NC,USKGO,KGO,Guthrie-Edmond Regional Airport,3521N 08137W,35.8509,-97.4160,America/Chicago,2014-11-02
 Kilgore,US,TX,USKGR,KGR,Greenville Airport,3223N 09452W,38.8345,-89.3740,America/Chicago,2017-05-23
 Kingstree,US,SC,USKGS,KGS,Piedmont Triad International Airport,,36.1061,-79.9370,America/New_York,2017-05-23
 Kingston,US,NY,USKGT,KGT,Golden Triangle Regional Airport,,33.4501,-88.5912,America/Chicago,2013-03-19
@@ -11430,7 +11452,7 @@ Kingwood,US,TX,USKIW,KIW,West Houston Airport,3002N 09515W,29.8169,-95.6731,Amer
 Kimberly,US,ID,USKIY,KIY,Abbeville Chris Crusta Memorial Airport,,29.9716,-92.0847,America/Chicago,2014-10-08
 Kittitas,US,WA,USKIZ,KIZ,Fryeburg/Eastern Slopes Regional Airport,4659N 12024W,43.9906,-70.9465,America/New_York,2017-05-23
 Lake Ariel,US,PA,USKJA,KJA,Jacksonville International Airport,4127N 07522W,30.4919,-81.6857,America/New_York,2013-03-07
-Enterprise,US,KS,USKJF,KJF,John F. Kennedy International Airport,3854N 09707W,40.6398,-73.7787,America/New_York,2016-02-14
+Enterprise,US,KS,USKJF,KJF,Tazewell County Airport,3854N 09707W,37.0621,-81.7986,America/New_York,2020-07-14
 Washington,US,CT,USKJH,KJH,Stanton County Municipal Airport,4139N 07319W,37.5833,-101.7338,America/Chicago,2017-05-23
 Keota,US,IA,USKJO,KJO,KJOK-FM (Yuma),4121N 09157W,32.7153,-114.6494,America/Phoenix,2006-01-15
 Carrollton,US,MI,USKJR,KJR,Downtown Manhattan Heliport,4327N 08355W,40.7015,-74.0091,America/New_York,2016-06-07
@@ -11473,7 +11495,7 @@ Oakley,US,IL,USKLY,KLY,Lyons-Rice County Municipal Airport,3952N 08848W,38.3455,
 Mattoon,US,WI,USKMA,KMA,Marianna Municipal Airport,4500N 08903W,30.8356,-85.1858,America/Chicago,2015-01-21
 Kimball,US,MI,USKMB,KMB,Omar N Bradley Airport,4256N 08233W,39.4643,-92.4308,America/Chicago,2017-05-23
 Mecca,US,IN,USKMC,KMC,Orlando International Airport,3943N 08719W,28.4310,-81.3077,America/New_York,2019-11-14
-Mckean,US,PA,USKMD,KMD,Huntsville Airport North,4149N 07833W,34.8570,-86.5561,America/Chicago,2006-10-29
+Mckean,US,PA,USKMD,KMD,Southern Illinois Airport,4149N 07833W,37.7772,-89.2518,America/Chicago,2017-05-23
 Milford,US,NE,USKMF,KMF,McAllen Miller International Airport,4046N 09703W,26.1759,-98.2386,America/Chicago,2006-10-29
 Michigantown,US,IN,USKMH,KMH,Metter Municipal Airport,4019N 08624W,32.3727,-82.0793,America/New_York,2011-03-10
 Lake Mills,US,IA,USKMI,KMI,Miami International Airport,4325N 09332W,25.7934,-80.2900,America/New_York,2019-12-15
@@ -11547,7 +11569,7 @@ King of Prussia,US,PA,USKPD,KPD,Dekalb-Peachtree Airport,4005N 07524W,33.8774,-8
 Lampe,US,MO,USKPE,KPE,Pleasanton Municipal Airport,3633N 09326W,28.9543,-98.5195,America/Chicago,2011-12-11
 Pauloff Harbor,US,AK,USKPH,KPH,Palm Beach County Glades Airport,,26.7882,-80.6925,America/New_York,2011-12-11
 Kapolei,US,HI,USKPI,KPI,Harris County Airport,2120N 15805W,32.8422,-84.8792,America/New_York,2011-03-10
-Parks,US,AK,USKPK,KPK,Calhoun County Airport,,28.6521,-96.6818,America/Chicago,2011-12-11
+Parks,US,AK,USKPK,KPK,Wood County Airport,,39.3451,-81.4390,America/New_York,2006-10-29
 Kaplan,US,LA,USKPL,KPL,St Clair County Airport,,33.5565,-86.2491,America/Chicago,2014-10-07
 Kipnuk,US,AK,USKPN,KPN,Pensacola International Airport,,30.4735,-87.1866,America/Chicago,2014-06-02
 Koppel,US,PA,USKPP,KPP,Pittsfield Penstone Municipal Airport,4050N 08019W,39.6396,-90.7823,America/Chicago,2017-05-23
@@ -11703,6 +11725,7 @@ Latrobe,US,PA,USLBE,LBE,Arnold Palmer Regional Airport,,40.2722,-79.4068,America
 North Platte,US,NE,USLBF,LBF,North Platte,,41.1239,-100.7654,America/Chicago,2017-03-09
 Calabasas,US,CA,USLBJ,LBJ,Lyndon Baines Johnson Memorial Grove on the Potomac,3409N 11838W,38.8786,-77.0515,America/New_York,2016-12-06
 Liberal,US,KS,USLBL,LBL,Liberal,,37.0431,-100.9210,America/Chicago,2017-05-23
+Lewisberry,US,PA,USLBR,LBR,Clarksville/Red River County Airport,4008N 07651W,33.5931,-95.0633,America/Chicago,2020-07-20
 Lumberton,US,NC,USLBT,LBT,Lumberton,,34.6183,-79.0105,America/New_York,2017-05-23
 Liberty,US,TX,USLBX,LBX,Texas Gulf Coast Regional Airport,,29.1103,-95.4599,America/Chicago,2011-12-11
 Le Compte,US,LA,USLCG,LCG,Wayne Municipal Airport,,42.2400,-96.9837,America/Chicago,2012-05-13
@@ -11768,10 +11791,12 @@ Lonely,US,AK,USLNI,LNI,Lonely Air Station,,70.9107,-153.2422,America/Anchorage,2
 Lincoln,US,NE,USLNK,LNK,Lincoln Municipal Airport,,40.8506,-96.7595,America/Chicago,2011-09-15
 Willoughby,US,OH,USLNN,LNN,Willoughby Lost Nation Municipal Airport,,41.6848,-81.3970,America/New_York,2017-09-15
 Wise,US,VA,USLNP,LNP,Lonesome Pine Airport,,36.9862,-82.5295,America/New_York,2011-12-12
+Lena,US,LA,USLNQ,LNQ,Boothville Heliport,3128N 09246W,29.3541,-89.4359,America/Chicago,2020-07-16
 Lone Rock,US,WI,USLNR,LNR,Tri-County Regional Airport,,43.2116,-90.1896,America/Chicago,2017-05-23
 Lancaster,US,PA,USLNS,LNS,Lancaster,,40.0379,-76.3055,America/New_York,2019-02-27
 Lanai City,US,HI,USLNY,LNY,Lanai Airport,,20.7891,-156.9496,Pacific/Honolulu,2016-10-22
 Lovelock,US,NV,USLOL,LOL,Derby Field,,40.0680,-118.5627,America/Los_Angeles,2006-10-29
+Lombard,US,IL,USLOM,LOM,Wings Field,,40.1375,-75.2650,America/New_York,2020-07-24
 Lebanon,US,OR,USLON,LON,Groton-New London Airport,,41.3301,-72.0445,America/New_York,2017-05-23
 Lorain,US,OH,USLOR,LOR,Casco Cove Coast Guard Station,,52.8326,173.1796,America/Adak,2020-07-06
 Lockport,US,IL,USLOT,LOT,Lewis University Airport,,41.6058,-88.0940,America/Chicago,2017-05-23
@@ -11804,8 +11829,10 @@ Lathrop Wells,US,NV,USLTH,LTH,Amargosa Valley,,36.6438,-116.4003,America/Los_Ang
 Altus,US,OK,USLTS,LTS,Altus,,34.6381,-99.3340,America/Chicago,2017-03-09
 Leonardtown,US,MD,USLTW,LTW,Leonardtown,3817N 07638W,38.2912,-76.6358,America/New_York,2017-03-09
 Luck,US,WI,USLUC,LUC,LUCHA Elementary School,,37.3377,-121.8400,America/Los_Angeles,2010-02-14
+Lukeville,US,AZ,USLUD,LUD,Decatur Municipal Airport,3153N 11249W,33.2544,-97.5806,America/Chicago,2020-07-20
 Luke,US,MD,USLUK,LUK,Cincinnati Municipal Lunken Airport,,39.1033,-84.4186,America/New_York,2019-11-01
 Laurel,US,MS,USLUL,LUL,Hesler-Noble Field,,31.6673,-89.1699,America/Chicago,2014-10-07
+Lumberton,US,NJ,USLUM,LUM,Menomonie Municipal Airport,3957N 07448W,44.8922,-91.8678,America/Chicago,2020-07-25
 Kalaupapa,US,HI,USLUP,LUP,Gallup Farm,,41.5355,-71.8351,America/New_York,2017-05-23
 Cape Lisburne,US,AK,USLUR,LUR,Cape Lisburne LRRS Airport,,68.8751,-166.1100,America/Nome,2011-12-12
 Lime Village,US,AK,USLVD,LVD,Lime Village Airport,,61.3590,-155.4405,America/Anchorage,2017-09-19
@@ -11826,6 +11853,7 @@ Leadville,US,CO,USLXV,LXV,Lake County Airport,,39.2250,-106.3162,America/Denver,
 Lynchburg,US,VA,USLYH,LYH,Lynchburg,,37.4138,-79.1423,America/New_York,2017-03-09
 Lyons,US,KS,USLYO,LYO,Lyons,,38.3450,-98.2017,America/Chicago,2017-05-23
 Ely,US,MN,USLYU,LYU,Ely,,47.9032,-91.8671,America/Chicago,2017-05-23
+Livingston,US,TN,USLYV,LYV,Luverne Municipal Airport,,43.6167,-96.2178,America/Chicago,2020-07-21
 Mayo,US,FL,USMAA,MAA,Spotted Eagle High MAAIC School,,43.0427,-87.9541,America/Chicago,2017-05-23
 Macon,US,MO,USMAC,MAC,Macon Downtown Airport,,32.8257,-83.5661,America/New_York,2011-03-10
 Madera,US,CA,USMAE,MAE,Madera,,36.9613,-120.0607,America/Los_Angeles,2017-03-09
@@ -11866,7 +11894,7 @@ Madison-Madras Apt,US,OR,USMDJ,MDJ,Madras Municipal Airport,,44.6654,-121.1506,A
 Madras,US,OR,USMDM,MDM,Marshall Don Hunter Sr. Airport,4438N 12107W,61.8646,-162.0314,America/Nome,2020-06-04
 Madison,US,IN,USMDN,MDN,Madison,,38.7359,-85.3800,America/Indiana/Indianapolis,2017-05-23
 Middleton Island,US,AK,USMDO,MDO,Middleton Island Airport,,59.4497,-146.3086,America/Anchorage,2006-10-29
-Medina,US,OH,USMDQ,MDQ,Huntsville Airport North,,34.8570,-86.5561,America/Chicago,2006-10-29
+Medina,US,OH,USMDQ,MDQ,Madison County Executive Airport,,34.8614,-86.5572,America/Chicago,2020-07-22
 Medfra,US,AK,USMDR,MDR,Medfra,,63.1067,-154.7142,America/Anchorage,2017-09-15
 McDermott,US,OH,USMDT,MDT,Harrisburg International Airport,,40.1934,-76.7633,America/New_York,2017-09-02
 Middleton,US,WI,USMDW,MDW,Chicago Midway International Airport,,41.7868,-87.7455,America/Chicago,2018-07-15
@@ -11892,6 +11920,7 @@ Matagorda Island,US,TX,USMGI,MGI,Aransas National Wildlife Refuge Airport (histo
 Montgomery,US,NY,USMGJ,MGJ,Montgomery,,41.5276,-74.2368,America/New_York,2017-05-23
 Middle Granville,US,NY,USMGL,MGL,M G L Mines,,40.0346,-119.2649,America/Los_Angeles,2006-01-15
 Montgomery,US,AL,USMGM,MGM,Dannelly Field,,32.3001,-86.3933,America/Chicago,2019-04-04
+Morgan City,US,AL,USMGN,MGN,Harbor Springs Municipal Airport,,45.4256,-84.9133,America/Detroit,2020-07-22
 Moultrie,US,GA,USMGR,MGR,Moultrie Municipal Airport,,31.0863,-83.8064,America/New_York,2011-03-10
 Morgantown,US,WV,USMGW,MGW,Morgantown,,39.6295,-79.9559,America/New_York,2019-09-19
 Millington,US,NJ,USMGY,MGY,Dayton-Wright Brothers Airport,,39.5913,-84.2284,America/New_York,2017-05-23
@@ -12025,7 +12054,7 @@ Manila,US,AR,USMXA,MXA,Manila Municipal Airport,,35.8897,-90.1559,America/Chicag
 Monticello,US,UT,USMXC,MXC,Monticello,,37.8714,-109.3429,America/Denver,2017-07-16
 Maxton,US,NC,USMXE,MXE,Laurinburg-Maxton Airport,,34.7953,-79.3694,America/New_York,2017-05-23
 Mount Vernon,US,IA,USMXF,MXF,Maxwell Air Force Base / Montgomery,,32.3833,-86.3667,America/Chicago,2006-10-29
-Marlboro (Marlborough),US,MA,USMXG,MXG,Marlborough,4243N 07058W,42.3459,-71.5523,America/New_York,2017-05-23
+Marlboro (Marlborough),US,MA,USMXG,MXG,Marlboro Airport,4243N 07058W,42.3433,-71.5113,America/New_York,2020-07-15
 Monticello,US,IA,USMXO,MXO,Monticello,,42.2383,-91.1871,America/Chicago,2017-05-23
 McCarthy,US,AK,USMXY,MXY,McCarthy Airport,,61.4286,-142.9267,America/Anchorage,2006-10-29
 Midway,US,FL,USMYF,MYF,Montgomery Field Airport,,32.8159,-117.1411,America/Los_Angeles,2013-11-16
@@ -12305,6 +12334,7 @@ Pemberville,US,OH,USPEM,PEM,Pemi Valley Church,,43.9770,-71.6837,America/New_Yor
 Pecos,US,TX,USPEQ,PEQ,Pecos,3125N 10329W,31.4229,-103.4932,America/Chicago,2017-09-03
 Perris,US,CA,USPER,PER,Indiana State Police DISTRICT 34 - JASPER,,38.4084,-86.9386,America/Indiana/Vincennes,2017-05-23
 Pipersville,US,PA,USPEV,PEV,Perryville Airport,,55.9090,-159.1585,America/Anchorage,2015-03-29
+Pelham Manor,US,NY,USPEX,PEX,Paynesville Municipal Airport,,45.3722,-94.7464,America/Chicago,2020-07-20
 Paf Warren,US,AK,USPFA,PFA,Paf Warren Airport (historical),,58.7279,-156.9466,America/Anchorage,2017-08-24
 Pacific City,US,OR,USPFC,PFC,Pacific City,,45.2023,-123.9629,America/Los_Angeles,2011-05-14
 Port Frederick,US,AK,USPFD,PFD,Port Frederick,,58.0678,-135.5561,America/Juneau,2017-08-16
@@ -12323,7 +12353,7 @@ Pascagoula,US,MS,USPGL,PGL,Pascagoula,,30.3658,-88.5561,America/Chicago,2017-03-
 Port Graham,US,AK,USPGM,PGM,Port Graham Airport,,59.3509,-151.8322,America/Anchorage,2011-12-12
 Pagosa Springs,US,CO,USPGO,PGO,Pagosa Springs,,37.2694,-107.0098,America/Denver,2017-03-09
 Paragould,US,AR,USPGR,PGR,Kirk Field,,36.0621,-90.5108,America/Chicago,2017-08-28
-Peach Springs,US,AZ,USPGS,PGS,Grand Canyon Caverns Airport,,35.5296,-113.2411,America/Phoenix,2014-10-07
+Peach Springs,US,AZ,USPGS,PGS,Grand Canyon Caverns Airport,,35.5296,-113.2411,America/Phoenix,2020-07-19
 Greenville,US,NC,USPGV,PGV,Greenville,,35.6127,-77.3663,America/New_York,2017-05-23
 Peoria Heights,US,IL,USPHB,PHB,Kekaha", Pacific Missile Test Facility Barking Sands,4044N 08934W,22.0228,-159.7850,Pacific/Honolulu,2007-01-03
 New Philadelphia,US,OH,USPHD,PHD,Harry Clever Field Airport,,40.4715,-81.4187,America/New_York,2017-05-23
@@ -12357,6 +12387,7 @@ Napaskiak,US,AK,USPKA,PKA,Napaskiak Airport,,60.7069,-161.7732,America/Anchorage
 Parkersburg,US,WV,USPKB,PKB,Parkersburg,3915N 08133W,39.2667,-81.5615,America/New_York,2017-03-09
 Park Rapids,US,MN,USPKD,PKD,Park Rapids,,46.9222,-95.0586,America/Chicago,2017-08-18
 Park Falls,US,WI,USPKF,PKF,Park Falls,,45.9344,-90.4416,America/Chicago,2017-05-23
+Spokane Valley,US,WA,USPKV,PKV,Calhoun County Airport,4740N 11714W,28.6539,-96.6811,America/Chicago,2020-07-25
 Plattsburgh,US,NY,USPLB,PLB,Clinton County Airport,,44.6875,-73.5240,America/New_York,2017-05-23
 Branson,US,MO,USPLK,PLK,M. Graham Clark Downtown Airport,,36.6234,-93.2265,America/Chicago,2017-05-23
 Pineland,US,FL,USPLN,PLN,Pellston,,45.5528,-84.7854,America/Detroit,2017-05-23
@@ -12476,6 +12507,7 @@ Brooks Lodge,US,AK,USRBH,RBH,Brooks Lodge Seaplane Base,,58.5491,-155.8065,Ameri
 Rancho,US,CA,USRBK,RBK,French Valley Airport,,33.5755,-117.1292,America/Los_Angeles,2017-06-26
 Red Bluff,US,CA,USRBL,RBL,Red Bluff Municipal Airport,,40.1507,-122.2533,America/Los_Angeles,2006-10-29
 Fort Jefferson,US,FL,USRBN,RBN,Fort Jefferson,,24.6279,-82.8729,America/New_York,2017-09-17
+Rancho Bernardo,US,CA,USRBO,RBO,Nueces County Airport,3301N 11703W,27.7783,-97.6903,America/Chicago,2020-07-24
 Walterboro,US,SC,USRBW,RBW,Walterboro,,32.9052,-80.6668,America/New_York,2017-03-09
 Ruby,US,AK,USRBY,RBY,Ruby,,64.7394,-155.4869,America/Anchorage,2017-03-09
 Rockland,US,MA,USRCA,RCA,RCA Dome (historical),,39.7639,-86.1633,America/Indiana/Indianapolis,2010-02-20
@@ -12485,6 +12517,7 @@ Rockdale,US,TX,USRCK,RCK,H. H. Coffield Regional Airport,,30.6336,-96.9894,Ameri
 Rocky Point,US,NC,USRCP,RCP,Rooks County Regional Airport,,39.3454,-99.3031,America/Chicago,2017-05-23
 Rochester,US,IN,USRCR,RCR,Fulton County Airport,,41.0657,-86.1902,America/Indiana/Indianapolis,2017-05-23
 Reed City,US,MI,USRCT,RCT,Nartron Field,,43.8997,-85.5157,America/Detroit,2017-05-23
+Rochester,US,MI,USRCZ,RCZ,Richmond County Airport,,34.8914,-79.7597,America/New_York,2020-07-14
 Red Dog,US,AK,USRDB,RDB,Red Dog Airport,,68.0288,-162.9085,America/Nome,2011-12-12
 Redding,US,CA,USRDD,RDD,Redding,,40.5865,-122.3917,America/Los_Angeles,2017-03-09
 Reading,US,PA,USRDG,RDG,Reading,,40.3357,-75.9269,America/New_York,2019-09-05
@@ -12511,7 +12544,7 @@ Riddle,US,OR,USRIR,RIR,Flabob Airport,,33.9894,-117.4100,America/Los_Angeles,201
 Ridgeville,US,SC,USRIS,RIS,Museum of Art Rhode Island School of Design,,41.8262,-71.4067,America/New_York,2017-05-23
 Reidsville,US,NC,USRIV,RIV,West Fork Big Blue River,,40.6970,-96.9898,America/Chicago,2006-01-15
 Riverton,US,WY,USRIW,RIW,Riverton,,43.0250,-108.3801,America/Denver,2017-03-09
-Yreka,US,CA,USRKC,RKC,Montague Airport-Yreka Rohrer Field,,41.7304,-122.5435,America/Los_Angeles,2020-03-15
+Yreka,US,CA,USRKC,RKC,Montague Airport-Yreka Rohrer Field,,41.7304,-122.5435,America/Los_Angeles,2020-07-13
 Rockland,US,ME,USRKD,RKD,Rockland,,44.1037,-69.1089,America/New_York,2017-05-23
 Rock Hill,US,SC,USRKH,RKH,Rock Hill", Rock Hill - York County Airport,,34.9839,-81.0558,America/New_York,2011-02-16
 Rockport,US,NJ,USRKO,RKO,RKO Ranch,,34.1767,-118.5065,America/Los_Angeles,2010-02-14
@@ -12542,12 +12575,13 @@ Renton,US,WA,USRNT,RNT,Renton,,47.4829,-122.2171,America/Los_Angeles,2017-03-09
 Rensselaer,US,IN,USRNZ,RNZ,Jasper County Airport,,40.9413,-87.1823,America/Chicago,2017-05-23
 Roanoke,US,VA,USROA,ROA,Roanoke,,37.2710,-79.9414,America/New_York,2017-03-09
 Rochester,US,NY,USROC,ROC,Rochester,,43.1548,-77.6156,America/New_York,2017-05-23
-Rockford,US,TN,USROF,ROF,Montague Airport-Yreka Rohrer Field,3549N 08356W,41.7304,-122.5435,America/Los_Angeles,2020-03-15
+Rockford,US,TN,USROF,ROF,Montague Airport-Yreka Rohrer Field,3549N 08356W,41.7304,-122.5435,America/Los_Angeles,2020-07-13
 Rogers,US,AR,USROG,ROG,Rogers,,36.3320,-94.1185,America/Chicago,2017-05-23
 Roosevelt,US,UT,USROL,ROL,Roosevelt,,40.2994,-109.9888,America/Denver,2017-03-09
 Ronceverte,US,WV,USROT,ROT,Varsity Hall,3745N 08027W,38.0331,-78.5028,America/New_York,2007-02-16
 Roswell,US,NM,USROW,ROW,Fleamarket Colonia,,26.2915,-98.0183,America/Chicago,2006-01-15
 Roseau,US,MN,USROX,ROX,Roseau,4850N 09546W,48.8461,-95.7628,America/Chicago,2017-05-23
+Richton Park,US,IL,USRPJ,RPJ,Rochelle Municipal Airport,4129N 08742W,41.8931,-89.0783,America/Chicago,2020-07-16
 Roundup,US,MT,USRPX,RPX,Roundup,,46.4452,-108.5418,America/Denver,2017-03-09
 Rodeo,US,NM,USRQE,RQE,Window Rock Airport,3150N 10901W,35.6536,-109.0661,America/Denver,2017-09-17
 Merrill,US,WI,USRRL,RRL,Merrill,,45.1805,-89.6835,America/Chicago,2017-09-18
@@ -12661,6 +12695,7 @@ Shelton,US,WA,USSHN,SHN,Sanderson Field,,47.2334,-123.1474,America/Los_Angeles,2
 Sheridan,US,WY,USSHR,SHR,Sheridan,,44.7972,-106.9562,America/Denver,2017-03-09
 Shreveport,US,LA,USSHV,SHV,Shreveport,,32.5251,-93.7502,America/Chicago,2017-03-09
 Shageluk,US,AK,USSHX,SHX,Shageluk,,62.6822,-159.5619,America/Anchorage,2011-05-14
+Silverdale,US,WA,USSIF,SIF,Rockingham County NC Shiloh Airport,,36.4372,-79.8510,America/New_York,2020-07-20
 Sikeston,US,MO,USSIK,SIK,Sikeston,,36.8767,-89.5879,America/Chicago,2017-05-23
 Silver Spring,US,MD,USSIS,SIS,School of International Service,,38.9361,-77.0889,America/New_York,2020-01-07
 Sitka,US,AK,USSIT,SIT,Sitka,,57.0532,-135.3309,America/Sitka,2019-09-05
@@ -12669,7 +12704,7 @@ Montague,US,CA,USSIY,SIY,Montague,,41.7282,-122.5278,America/Los_Angeles,2020-03
 San Jose,US,CA,USSJC,SJC,Norman Y. Mineta San Jose International Airport,,37.3619,-121.9288,America/Los_Angeles,2016-05-08
 Saint Johns,US,AZ,USSJN,SJN,Saint Johns,,34.5059,-109.3609,America/Phoenix,2017-07-12
 San Angelo,US,TX,USSJT,SJT,Mathis Field,,31.3585,-100.5029,America/Chicago,2013-06-01
-Sterling,US,MI,USSKA,SKA,Fairchild Air Force Base,4402N 08401W,47.6151,-117.6558,America/Los_Angeles,2019-04-04
+Sterling,US,MI,USSKA,SKA,Fairchild Air Force Base,4402N 08401W,47.6151,-117.6558,America/Los_Angeles,2020-07-19
 Shinnston,US,WV,USSKF,SKF,Kelly Field Annex,3923N 08018W,29.3800,-98.5865,America/Chicago,2013-08-16
 Selkirk,US,NY,USSKI,SKI,Skis Landing Area,,41.5731,-72.3017,America/New_York,2017-05-23
 Shaktoolik,US,AK,USSKK,SKK,Shaktoolik,,64.3537,-161.1932,America/Anchorage,2017-03-09
@@ -12679,6 +12714,7 @@ Storm Lake,US,IA,USSLB,SLB,Storm Lake Municipal Airport,,42.6017,-95.2411,Americ
 Salt Lake City,US,UT,USSLC,SLC,Salt Lake City,,40.7608,-111.8911,America/Denver,2019-09-05
 Salem,US,OR,USSLE,SLE,McNary Field,,44.9098,-123.0018,America/Los_Angeles,2017-01-14
 Siloam Springs,US,AR,USSLG,SLG,Siloam Springs,,36.1881,-94.5405,America/Chicago,2017-05-23
+Seal Beach,US,CA,USSLH,SLH,Cheboygan City-County Airport,3344N 11806W,45.6536,-84.5192,America/Detroit,2020-07-15
 San Luis,US,AZ,USSLI,SLI,McDonnell Douglas Space Systems Heliport,3229N 11446W,33.7472,-118.0353,America/Los_Angeles,2011-03-10
 Saranac Lake,US,NY,USSLK,SLK,Adirondack Regional Airport,,44.3802,-74.2048,America/New_York,2017-05-23
 Salina,US,KS,USSLN,SLN,Salina,,38.8403,-97.6114,America/Chicago,2017-05-23
@@ -12698,6 +12734,7 @@ Sutter,US,CA,USSMS,SMS,Swenson Building,3909N 12145W,32.9451,-99.8018,America/Ch
 Sheep Mountain,US,AK,USSMU,SMU,Sheep Mountain Airport,,61.8119,-147.5067,America/Anchorage,2017-06-20
 Santa Maria,US,CA,USSMX,SMX,Santa Maria Airport,3457N 12026W,34.8989,-120.4582,America/Los_Angeles,2006-10-29
 Santa Ana,US,CA,USSNA,SNA,John Wayne Airport-Orange County,3344N 11752W,33.6780,-117.8637,America/Los_Angeles,2014-10-08
+Sunset,US,CA,USSNC,SNC,Chester", Chester Airport,3915N 12139W,41.3839,-72.5058,America/New_York,2020-07-19
 Snyder,US,TX,USSNK,SNK,Winston Field,,32.7009,-100.9471,America/Chicago,2017-11-29
 Shawnee,US,OK,USSNL,SNL,Shawnee,,35.3273,-96.9253,America/Chicago,2017-03-09
 Saint Paul Island,US,AK,USSNP,SNP,Saint Paul Island Airport,,57.1581,-170.2299,America/Adak,2017-10-01
@@ -12728,6 +12765,7 @@ Sterling-Rockfalls Apt,US,IL,USSQI,SQI,Sterling,4144N 08940W,41.7886,-89.6962,Am
 San Carlos,US,CA,USSQL,SQL,San Carlos,,37.5072,-122.2605,America/Los_Angeles,2017-03-09
 Sequim,US,WA,USSQV,SQV,Sequim Valley Airport,,48.0987,-123.1869,America/Los_Angeles,2014-10-08
 Searcy,US,AR,USSRC,SRC,Searcy,,35.2506,-91.7362,America/Chicago,2017-05-23
+Saint Rose,US,LA,USSRE,SRE,Seminole", Seminole Municipal Airport,2957N 09019W,35.2744,-96.6750,America/Chicago,2020-07-22
 San Rafael,US,CA,USSRF,SRF,San Rafael Airport,,38.0158,-122.5225,America/Los_Angeles,2014-10-08
 Bradenton-Sarasota Apt,US,FL,USSRQ,SRQ,Sarasota,,27.3364,-82.5306,America/New_York,2020-05-30
 Sherburne,US,NY,USSRR,SRR,Sierra Blanca Regional Airport,,33.4629,-105.5347,America/Denver,2013-04-27
@@ -12802,7 +12840,7 @@ Fort Leonard Wood,US,MO,USTBN,TBN,Waynesville-St. Robert Regional Airport,,37.74
 Statesboro,US,GA,USTBR,TBR,Statesboro,,32.4488,-81.7832,America/New_York,2017-03-09
 Tucumcari,US,NM,USTCC,TCC,Saint Margaret Mary Elementary School,,44.1788,-88.4564,America/Chicago,2017-05-23
 Tuscaloosa,US,AL,USTCL,TCL,Tuscaloosa,,33.2098,-87.5692,America/Chicago,2017-03-09
-Santa Clara,US,NM,USTCM,TCM,McChord Field Airport (Joint Base Lewis-McChord),3558N 10605W,47.1374,-122.4818,America/Los_Angeles,2013-05-20
+Santa Clara,US,NM,USTCM,TCM,McChord Field Airport (Joint Base Lewis-McChord),3558N 10605W,47.1374,-122.4818,America/Los_Angeles,2020-07-19
 Canton,US,TX,USTCN,TCN,TCN Behavioral Health Services - Xenia,3233N 09553W,39.6860,-83.9373,America/New_York,2017-05-23
 Truth Or Consequences,US,NM,USTCS,TCS,Truth or Consequences,,33.1284,-107.2528,America/Denver,2017-07-15
 Takotna,US,AK,USTCT,TCT,Takotna Airport,,62.9931,-156.0660,America/Anchorage,2011-12-12
@@ -12821,6 +12859,7 @@ Tullahoma,US,TN,USTHA,THA,Tullahoma Regional Airport,,35.3796,-86.2409,America/C
 Thompsonfield,US,MO,USTHM,THM,Thompson Falls Airport,,47.5742,-115.2847,America/Denver,2016-11-02
 Thermopolis,US,WY,USTHP,THP,Hot Springs County-Thermopolis Municipal Airport,,43.6638,-108.2110,America/Denver,2017-09-17
 York,US,PA,USTHV,THV,York,,39.9626,-76.7277,America/New_York,2017-05-23
+Tripp,US,SD,USTIP,TIP,Rantoul National Aviation Center,4313N 09757W,40.2936,-88.1425,America/Chicago,2020-07-17
 Trinity,US,NC,USTIR,TIR,The Institute for Rehabilitation and Research Memorial Hermann,3451N 08032W,29.7089,-95.3944,America/Chicago,2013-03-08
 Tacoma,US,WA,USTIW,TIW,Tacoma,,47.2529,-122.4443,America/Los_Angeles,2019-09-05
 Titusville,US,FL,USTIX,TIX,Space Coast Regional Airport,,28.5110,-80.8006,America/New_York,2017-07-16
@@ -12963,7 +13002,7 @@ Floyd,US,VA,USVAF,VAF,Allan Hancock College - Vandenberg Air Force Base Center,3
 Chevak,US,AK,USVAK,VAK,Chevak,,61.5278,-165.5864,America/Nome,2017-03-09
 Van Buren,US,IN,USVAM,VAM,Hampton National Cemetery VAMC Cemetery,,37.0185,-76.3310,America/New_York,2014-10-10
 Valley,US,AL,USVAY,VAY,South Jersey Regional Airport,3247N 08510W,39.9438,-74.8421,America/New_York,2017-05-23
-Viborg,US,SD,USVBG,VBG,Lompoc", Vandenberg Air Force Base,4310N 09704W,34.7373,-120.5843,America/Los_Angeles,2009-11-14
+Viborg,US,SD,USVBG,VBG,Vandenberg Air Force Base,4310N 09704W,34.7373,-120.5843,America/Los_Angeles,2020-07-19
 Van Buren Township,US,MI,USVBM,VBM,Blue Mountain Airport,4212N 08328W,57.7845,-157.1084,America/Anchorage,2017-09-03
 Beloit,US,KS,USVBT,VBT,Bentonville Municipal Airport,3927N 09806W,36.3456,-94.2191,America/Chicago,2017-05-23
 Columbus,US,TX,USVCB,VCB,Nut Tree Airport,2942N 09632W,38.3766,-121.9633,America/Los_Angeles,2017-04-10
@@ -13014,7 +13053,7 @@ Wardensville,US,WV,USWAE,WAE,WAEI-AM (Bangor),,44.7809,-68.7473,America/New_York
 Wahpeton,US,ND,USWAH,WAH,Breckenridge-Wahpeton Interstate Airport,,46.2463,-96.6067,America/Chicago,2017-05-23
 Chincoteague,US,VA,USWAL,WAL,Chincoteague,,37.9332,-75.3788,America/New_York,2017-03-09
 Warne,US,NC,USWAR,WAR,WARX-FM (Lewiston),3500N 08353W,44.1452,-70.0196,America/New_York,2017-05-23
-Washington,US,DC,USWAS,WAS,Washington,,38.8951,-77.0364,America/New_York,2020-04-30
+Washington,US,DC,USWAS,WAS,Washington,,38.8951,-77.0364,America/New_York,2020-07-23
 Waverly,US,OH,USWAV,WAV,WBQX-FM(Thomaston),,44.1081,-69.1572,America/New_York,2017-05-23
 Waynesburg,US,PA,USWAY,WAY,Greene County Airport,,39.8992,-80.1327,America/New_York,2017-05-23
 Wabasso,US,MN,USWBA,WBA,WBAE-AM (Portland),,43.6634,-70.2708,America/New_York,2017-05-23
@@ -13177,7 +13216,7 @@ Prairie Hill", Washington,US,TX,USXPH,XPH,Ipiutak Archeological District,3015N 0
 Pine Ridge,US,SD,USXPR,XPR,Pine Ridge,,43.0255,-102.5563,America/Denver,2017-05-23
 West Kuparuk,US,AK,USXPU,XPU,West Kuparuk,,70.3333,-149.3330,America/Anchorage,2017-09-16
 Castle Island,US,AK,USXSD,XSD,Tonopah Test Range Airport,5665N 17768W,37.7930,-116.7787,America/Los_Angeles,2006-10-29
-Saint Marys City,US,MD,USXSM,XSM,St Mary's County Regional Airport,3811N 07626W,38.3142,-76.5509,America/New_York,2020-03-15
+Saint Marys City,US,MD,USXSM,XSM,St Mary's County Regional Airport,3811N 07626W,38.3142,-76.5509,America/New_York,2020-07-13
 Waterloo,US,NE,USXWA,XWA,Williston Basin International Airport,4117N 09617W,48.2426,-103.6862,America/Chicago,2019-12-08
 Mexico,US,ME,USXXX,XXX,Fritz Ranch,4439N 07032W,33.3226,-109.1898,America/Phoenix,2010-02-14
 Yakutat,US,AK,USYAK,YAK,Yakutat,5933N 13946W,59.5469,-139.7272,America/Yakutat,2014-10-08
@@ -13404,7 +13443,7 @@ Raudha,YE,,YERXA,RXA,Rawdah,,14.4500,47.2833,Asia/Aden,2012-05-18
 Sana'a,YE,,YESAH,SAH,Sana'a International Airport,,15.4763,44.2197,Asia/Aden,2013-05-12
 Suqutrá,YE,,YESCT,SCT,Socotra,1230N 05400E,12.4983,53.9168,Asia/Aden,2020-07-01
 Sadah,YE,,YESYE,SYE,Sa'dah,,16.9402,43.7639,Asia/Aden,2013-11-02
-Taiz,YE,,YETAI,TAI,Ta`izz,,13.5795,44.0209,Asia/Aden,2020-07-08
+Taiz,YE,,YETAI,TAI,Taiz,,13.5795,44.0209,Asia/Aden,2020-07-28
 Mukeiras,YE,,YEUKR,UKR,Mukayras,,13.9443,45.6707,Asia/Aden,2020-06-10
 Wadi Ain,YE,,YEWDA,WDA,Wadi Ain Airport,1452N 04532E,14.8670,45.5500,Asia/Aden,2011-03-18
 Dzaoudzi-Pamandzi Apt,YT,,YTDZA,DZA,Pamandzi,1248S 04517E,-12.7967,45.2794,Indian/Mayotte,2014-01-05
