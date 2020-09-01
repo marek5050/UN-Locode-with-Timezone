@@ -22,7 +22,7 @@ Abilene,US,KS,USABZ,ABZ,Abilene,,38.9172,-97.2139,America/Chicago,2019-09-05
 Abingdon,US,IL,USABG,ABG,Abingdon,,40.8045,-90.4018,America/Chicago,2017-05-23
 Abingdon,US,MD,USNGD,NGD,Abingdon,3927N 07616W,39.4623,-76.2791,America/New_York,2010-09-05
 Abington,US,MA,USUUM,UUM,Abington,4207N 07056W,42.1048,-70.9453,America/New_York,2017-05-23
-Abington,US,PA,USAP3,AP3,Abington,4007N 07507W,40.1207,-75.1179,America/New_York,2017-05-23
+Abington,US,PA,USAP3,AP3,Abington,4007N 07507W,40.1207,-75.1179,America/New_York,2020-08-28
 Abiquiu,US,NM,USAQ2,AQ2,Abiquiu,3612N 10619W,36.2072,-106.3186,America/Denver,2011-05-14
 Abita Springs,US,LA,USTPG,TPG,Abita Springs,3028N 09002W,30.4786,-90.0401,America/Chicago,2017-03-09
 Aboa,AQ,,AQABA,ABA,Aboa,7303S 01325W,-73.0500,-13.4167,Antarctica/McMurdo,2008-01-02
@@ -871,7 +871,7 @@ Bainbridge,US,OH,USB8G,B8G,Bainbridge,3913N 08316W,39.2276,-83.2705,America/New_
 Bainbridge,US,PA,USB9G,B9G,Bainbridge,4005N 07640W,40.0909,-76.6675,America/New_York,2017-05-23
 Bainbridge Island,US,WA,USBII,BII,Bainbridge Island,4737N 12230W,47.6429,-122.5424,America/Los_Angeles,2010-02-18
 Bairdsville,US,NJ,USBJ2,BJ2,Bairdsville,4015N 07423W,40.2421,-74.3838,America/New_York,2017-05-23
-Bais,FR,53,FRBMQ,BMQ,Bais,4815N 00022W,48.0096,-1.2898,Europe/Paris,2016-02-18
+Bais,FR,53,FRBMQ,BMQ,Bais,4815N 00022W,48.0107,-1.2905,Europe/Paris,2020-08-12
 Baishan,CN,22,CNBSH,BSH,Baishan,4606N 12805E,40.1661,116.3229,Asia/Shanghai,2012-09-06
 Baiting Hollow,US,NY,USNGH,NGH,Baiting Hollow,4057N 07245W,40.9562,-72.7443,America/New_York,2017-05-23
 Baker,US,CA,USBA5,BA5,Baker,3515N 11604W,35.0422,-117.6676,America/Los_Angeles,2006-01-15
@@ -890,7 +890,7 @@ Baldwin,US,GA,USBBJ,BBJ,Baldwin,,34.4918,-83.5374,America/New_York,2017-03-09
 Baldwin,US,IL,USZBN,ZBN,Baldwin,3810N 08950W,38.1831,-89.8426,America/Chicago,2017-03-09
 Baldwin,US,LA,USLDK,LDK,Baldwin,2950N 09133W,29.8380,-91.5443,America/Chicago,2017-03-09
 Baldwin,US,MI,USAWI,AWI,Baldwin,4353N 08551W,43.9011,-85.8517,America/Detroit,2017-05-23
-Baldwin,US,ND,USBZQ,BZQ,Baldwin,4701N 10044W,47.0267,-100.7496,America/Chicago,2017-05-23
+Baldwin,US,ND,USBZQ,BZQ,Baldwin,4701N 10044W,47.0267,-100.7496,America/Chicago,2020-08-28
 Baldwin,US,SC,USBAQ,BAQ,Baldwin,,34.3812,-82.1465,America/New_York,2006-01-15
 Baldwin,US,WI,USZBW,ZBW,Baldwin,4458N 09222W,44.9666,-92.3744,America/Chicago,2017-05-23
 Baldwin City,US,KS,USBZI,BZI,Baldwin City,3846N 09511W,38.7750,-95.1864,America/Chicago,2017-05-23
@@ -1013,7 +1013,7 @@ Bascom,US,OH,USBSC,BSC,Bascom,,41.1328,-83.2852,America/New_York,2017-05-23
 Basin,US,WY,USXBR,XBR,Basin,,44.3800,-108.0390,America/Denver,2017-03-09
 Basin City,US,WA,USBBS,BBS,Basin City,4636N 11909W,46.5940,-119.1522,America/Los_Angeles,2011-05-14
 Baskin,US,LA,USQBA,QBA,Baskin,3215N 09145W,32.2590,-91.7476,America/Chicago,2017-03-09
-Basking Ridge,US,NJ,USBSK,BSK,Basking Ridge,,40.7062,-74.5493,America/New_York,2006-01-15
+Basking Ridge,US,NJ,USBSK,BSK,Basking Ridge,,40.7062,-74.5493,America/New_York,2020-08-28
 Basom,US,NY,USB6M,B6M,Basom,4304N 07823W,43.0673,-78.3914,America/New_York,2017-05-23
 Bass Harbor,US,ME,US9HA,9HA,Bass Harbor,4414N 06820W,44.2401,-68.3439,America/New_York,2017-05-23
 Basse-Allaine,CH,JU,CHBSA,BSA,Basse-Allaine,4727N 00702E,47.4705,7.0424,Europe/Zurich,2017-07-26
@@ -1030,7 +1030,7 @@ Basye,US,VA,US8AS,8AS,Basye,3849N 07845W,38.8071,-78.7922,America/New_York,2011-
 Batavia,US,IL,USBTA,BTA,Batavia,4151N 08818W,41.8500,-88.3126,America/Chicago,2017-05-23
 Batavia,US,NY,USBIA,BIA,Batavia,,42.9981,-78.1875,America/New_York,2017-05-23
 Batavia,US,OH,USBUX,BUX,Batavia,,39.0770,-84.1769,America/New_York,2017-05-23
-Batchelor,US,LA,USBC9,BC9,Batchelor,3050N 09139W,30.8405,-91.6615,America/Chicago,2006-01-15
+Batchelor,US,LA,USBC9,BC9,Batchelor,3050N 09139W,30.8405,-91.6615,America/Chicago,2020-08-28
 Bates City,US,MO,USB3C,B3C,Bates City,3900N 09404W,39.0061,-94.0725,America/Chicago,2017-05-23
 Batesville,US,MS,USBVZ,BVZ,Batesville,,34.3115,-89.9443,America/Chicago,2017-03-09
 Batesville,US,TX,US8BT,8BT,Batesville,2857N 09937W,33.6084,-95.1119,America/Chicago,2006-01-15
@@ -1135,7 +1135,7 @@ Beaver Creek,US,OR,USQBJ,QBJ,Beaver Creek,4517N 12239W,44.4443,-117.4294,America
 Beaver Crossing,US,NE,USB9C,B9C,Beaver Crossing,4046N 09716W,40.7786,-97.2823,America/Chicago,2017-03-09
 Beaver Dam,US,KY,USBD3,BD3,Beaver Dam,3724N 08453W,37.4020,-86.8758,America/Chicago,2017-03-09
 Beaver Dam,US,WI,USBVA,BVA,Beaver Dam,4327N 08850W,43.4578,-88.8373,America/Chicago,2017-05-23
-Beaver Falls,US,NY,USBVF,BVF,Beaver Falls,,43.8870,-75.4274,America/New_York,2017-05-23
+Beaver Falls,US,NY,USBVF,BVF,Beaver Falls,,43.8870,-75.4274,America/New_York,2020-08-28
 Beaver Island,US,MI,USBI2,BI2,Beaver Island,4539N 08533W,45.6647,-85.5573,America/Detroit,2006-01-15
 Beavercreek,US,OH,USVCR,VCR,Beavercreek,3944N 08403W,39.7092,-84.0633,America/New_York,2017-05-23
 Beaverdam,US,VA,USBR2,BR2,Beaverdam,3756N 07739W,37.9412,-77.6544,America/New_York,2010-02-18
@@ -1253,7 +1253,7 @@ Belmond,US,IA,USBMK,BMK,Belmond,4251N 09338W,42.8444,-93.6210,America/Chicago,20
 Belmont,US,CA,USBVT,BVT,Belmont,,37.5202,-122.2758,America/Los_Angeles,2017-03-09
 Belmont,US,FL,USFQJ,FQJ,Belmont,3029N 08245W,30.4983,-82.7507,America/New_York,2006-01-15
 Belmont,US,MA,USJGT,JGT,Belmont,4223N 07110W,42.3959,-71.1787,America/New_York,2017-05-23
-Belmont,US,MI,USBMJ,BMJ,Belmont,4304N 08536W,43.0756,-85.6092,America/Detroit,2017-05-23
+Belmont,US,MI,USBMJ,BMJ,Belmont,4304N 08536W,43.0756,-85.6092,America/Detroit,2020-08-28
 Belmont,US,MS,USBMM,BMM,Belmont,,31.5688,-88.4839,America/Chicago,2006-01-17
 Belmont,US,NC,USBMQ,BMQ,Belmont,,35.2429,-81.0373,America/New_York,2017-05-23
 Belmont,US,NH,USBM8,BM8,Belmont,4326N 07128W,43.4454,-71.4779,America/New_York,2017-05-23
@@ -1291,7 +1291,7 @@ Bennington,US,NE,USB96,B96,Bennington,4121N 09609W,41.3647,-96.1578,America/Chic
 Bennington,US,NH,USGGT,GGT,Bennington,4300N 07155W,43.0031,-71.9245,America/New_York,2017-05-23
 Bennington,US,VT,USBGN,BGN,Bennington,,42.8781,-73.1968,America/New_York,2017-05-23
 Bens Run,US,WV,USB5R,B5R,Bens Run,3927N 08106W,38.6643,-80.6190,America/New_York,2006-01-15
-Bensalem,US,PA,USBNM,BNM,Bensalem,,40.1046,-74.9513,America/New_York,2017-05-23
+Bensalem,US,PA,USBNM,BNM,Bensalem,,40.1046,-74.9513,America/New_York,2020-08-28
 Bensenville,US,IL,USBNV,BNV,Bensenville,,41.9550,-87.9401,America/Chicago,2017-05-23
 Benson,US,AZ,USBN6,BN6,Benson,3158N 11018W,31.9679,-110.2945,America/Phoenix,2017-03-09
 Benson,US,IL,USQES,QES,Benson,4051N 08907W,40.8506,-89.1223,America/Chicago,2017-05-23
@@ -1803,7 +1803,7 @@ Bowling Green,US,OH,USBWO,BWO,Bowling Green,,41.3748,-83.6513,America/New_York,2
 Bowman,US,GA,USOWM,OWM,Bowman,3412N 08301W,34.2048,-83.0307,America/New_York,2017-03-09
 Bowman,US,SC,USQWM,QWM,Bowman,3320N 08040W,33.3488,-80.6829,America/New_York,2017-03-09
 Bowmanstown,US,PA,USBMW,BMW,Bowmanstown,,40.7998,-75.6619,America/New_York,2017-05-23
-Bowmansville,US,NY,USOQI,OQI,Bowmansville,4256N 07841W,42.9384,-78.6847,America/New_York,2017-05-23
+Bowmansville,US,NY,USOQI,OQI,Bowmansville,4256N 07841W,42.9384,-78.6847,America/New_York,2020-08-28
 Bowmansville,US,PA,USBWV,BWV,Bowmansville,,40.1968,-76.0174,America/New_York,2017-05-23
 Box Elder,US,SD,USB2X,B2X,Box Elder,4406N 10304W,44.1125,-103.0682,America/Denver,2017-05-23
 Box Springs,US,CA,USBXP,BXP,Box Springs,,33.9467,-117.2964,America/Los_Angeles,2018-04-18
@@ -2070,7 +2070,7 @@ Brookline,US,NH,USUBT,UBT,Brookline,,42.7348,-71.6581,America/New_York,2017-05-2
 Brooklyn,US,CT,USBOC,BOC,Brooklyn,4147N 07157W,41.7882,-71.9498,America/New_York,2017-05-23
 Brooklyn,US,IA,USOYN,OYN,Brooklyn,4144N 09226W,41.7283,-92.4455,America/Chicago,2017-05-23
 Brooklyn,US,KY,USOYK,OYK,Brooklyn,3717N 08635W,37.2898,-86.5764,America/Chicago,2006-01-15
-Brooklyn,US,MD,USBN5,BN5,Brooklyn,3914N 07637W,39.2304,-76.6022,America/New_York,2010-02-15
+Brooklyn,US,MD,USBN5,BN5,Brooklyn,3914N 07637W,39.2304,-76.6022,America/New_York,2020-08-28
 Brooklyn,US,MI,USBK8,BK8,Brooklyn,4206N 08414W,42.1059,-84.2483,America/Detroit,2017-05-23
 Brooklyn,US,MS,USVBJ,VBJ,Brooklyn,3310N 09029W,31.0563,-89.1862,America/Chicago,2006-01-15
 Brooklyn,US,OH,USBKU,BKU,Brooklyn,,41.4398,-81.7354,America/New_York,2017-05-23
@@ -2341,7 +2341,7 @@ Byron,US,GA,USBY8,BY8,Byron,3239N 08345W,32.6538,-83.7596,America/New_York,2017-
 Byron,US,IL,USXYB,XYB,Byron,4207N 08915W,42.1270,-89.2557,America/Chicago,2017-05-23
 Byron,US,MI,USB7Y,B7Y,Byron,4249N 08356W,42.8228,-83.9444,America/Detroit,2017-05-23
 Byron,US,MN,USYBO,YBO,Byron,4401N 09238W,44.0327,-92.6455,America/Chicago,2017-05-23
-Byron,US,NY,USBY7,BY7,Byron,4304N 07803W,43.0798,-78.0639,America/New_York,2017-05-23
+Byron,US,NY,USBY7,BY7,Byron,4304N 07803W,43.0798,-78.0639,America/New_York,2020-08-28
 Byron Center,US,MI,USBYK,BYK,Byron Center,,42.8122,-85.7228,America/Detroit,2017-05-23
 Byron Hills Estates,US,IL,US7BY,7BY,Byron Hills Estates,4208N 08916W,42.1414,-89.2698,America/Chicago,2017-05-23
 Bärau,CH,BE,CHBAU,BAU,Barau,4645N 00749E,46.9301,7.8114,Europe/Zurich,2013-03-05
@@ -2552,7 +2552,7 @@ Canyon,US,CA,USCJU,CJU,Canyon,4300N 08902W,37.8307,-122.1660,America/Los_Angeles
 Canyon,US,CA,USNYO,NYO,Canyon,3750N 12211W,37.8307,-122.1660,America/Los_Angeles,2016-04-25
 Canyon,US,TX,USAYO,AYO,Canyon,3458N 10155W,33.5929,-101.7315,America/Chicago,2006-01-15
 Canyon City,US,TX,USCY3,CY3,Canyon City,2952N 09811W,29.8738,-98.1878,America/Chicago,2006-01-15
-Canyon Country,US,CA,USAYC,AYC,Canyon Country,3425N 11828W,34.4233,-118.4720,America/Los_Angeles,2018-04-18
+Canyon Country,US,CA,USAYC,AYC,Canyon Country,3425N 11828W,34.4233,-118.4720,America/Los_Angeles,2020-08-28
 Canyon Lake,US,CA,USC5L,C5L,Canyon Lake,3341N 11716W,33.6761,-117.2734,America/Los_Angeles,2006-01-15
 Canyon Lake,US,TX,USZHX,ZHX,Canyon Lake,2952N 09815W,32.0962,-97.8400,America/Chicago,2013-03-08
 Canyonville,US,OR,USYLL,YLL,Canyonville,4256N 12316W,42.9273,-123.2812,America/Los_Angeles,2017-03-09
@@ -3153,7 +3153,7 @@ Chrome,US,NJ,USHYM,HYM,Chrome,4035N 07413W,40.5765,-74.2163,America/New_York,201
 Chualar,US,CA,USCL3,CL3,Chualar,3634N 12132W,36.5705,-121.5186,America/Los_Angeles,2011-05-14
 Chubbuck,US,ID,USUCK,UCK,Chubbuck,4255N 11227W,42.9207,-112.4661,America/Boise,2017-03-09
 Chuckatuck,US,VA,USCCK,CCK,Chuckatuck,3651N 07634W,36.8618,-76.5802,America/New_York,2006-01-15
-Chuckey,US,TN,USZCF,ZCF,Chuckey,3613N 08241W,36.2159,-82.6882,America/New_York,2006-01-15
+Chuckey,US,TN,USZCF,ZCF,Chuckey,3613N 08241W,36.2159,-82.6882,America/New_York,2020-08-28
 Chula Vista,US,CA,USCUV,CUV,Chula Vista,,32.6401,-117.0842,America/Los_Angeles,2017-03-09
 Chunchula,US,AL,USCU4,CU4,Chunchula,3055N 08812W,30.9218,-88.2006,America/Chicago,2011-05-14
 Chuo,JP,19,JPCZO,CZO,Chuo,3535N 13838E,35.5705,139.3710,Asia/Tokyo,2018-01-02
@@ -3255,7 +3255,7 @@ Claxton,US,GA,USCXT,CXT,Claxton,,32.1616,-81.9040,America/New_York,2017-03-09
 Claxton Bay,TT,CTT,TTCLA,CLA,Claxton Bay,1021N 06128W,10.3664,-61.4599,America/Port_of_Spain,2012-08-04
 Clay,US,AL,US8CY,8CY,Clay,3342N 08637W,33.7026,-86.5997,America/Chicago,2017-03-09
 Clay,US,KY,USUKY,UKY,Clay,3728N 08748W,37.4767,-87.8200,America/Chicago,2017-03-09
-Clay,US,NY,USCY6,CY6,Clay,,43.1859,-76.1724,America/New_York,2017-05-23
+Clay,US,NY,USCY6,CY6,Clay,,43.1859,-76.1724,America/New_York,2020-08-28
 Clay Center,US,KS,USCYK,CYK,Clay Center,,37.5195,-96.7711,America/Chicago,2017-05-23
 Clay Center,US,NE,USZCI,ZCI,Clay Center,4031N 09803W,40.5217,-98.0553,America/Chicago,2017-05-23
 Clay City,US,IL,US5CT,5CT,Clay City,3841N 08821W,38.6887,-88.3542,America/Chicago,2017-05-23
@@ -3336,7 +3336,7 @@ Clifton,US,UT,USUCF,UCF,Clifton,4006N 11349W,40.1044,-113.8172,America/Denver,20
 Clifton,US,VA,USCF4,CF4,Clifton,3702N 08151W,38.2835,-78.0280,America/New_York,2006-01-15
 Clifton Forge,US,VA,USFTF,FTF,Clifton Forge,3748N 07949W,37.8162,-79.8245,America/New_York,2017-03-09
 Clifton Heights,US,PA,USCFH,CFH,Clifton Heights,,39.9293,-75.2963,America/New_York,2017-05-23
-Clifton Park,US,NY,USCFP,CFP,Clifton Park,,42.8656,-73.7709,America/New_York,2017-05-23
+Clifton Park,US,NY,USCFP,CFP,Clifton Park,,42.8656,-73.7709,America/New_York,2020-08-28
 Clifton Springs,US,NY,USCSS,CSS,Clifton Springs,,42.9617,-77.1400,America/New_York,2017-05-23
 Climax,US,GA,USIMX,IMX,Climax,3052N 08425W,30.8760,-84.4313,America/New_York,2017-03-09
 Climax,US,NC,USXRR,XRR,Climax,3554N 07943W,35.9129,-79.7175,America/New_York,2017-05-23
@@ -3518,7 +3518,7 @@ Colstrip,US,MT,USCS8,CS8,Colstrip,4553N 10637W,45.8842,-106.6236,America/Denver,
 Colt,US,AR,USRLR,RLR,Colt,3507N 09048W,35.1315,-90.8112,America/Chicago,2017-05-23
 Colton,US,CA,USRTO,RTO,Colton,3404N 11718W,34.0739,-117.3136,America/Los_Angeles,2017-03-09
 Colton,US,OR,USZXX,ZXX,Colton,4510N 12226W,45.1721,-122.4379,America/Los_Angeles,2006-01-15
-Colts Neck,US,NJ,USCTN,CTN,Colts Neck,,40.2876,-74.1724,America/New_York,2017-05-23
+Colts Neck,US,NJ,USCTN,CTN,Colts Neck,,40.2876,-74.1724,America/New_York,2020-08-28
 Columbia,US,AL,USCOZ,COZ,Columbia,,31.2927,-85.1127,America/Chicago,2017-03-09
 Columbia,US,CT,USCX2,CX2,Columbia,4142N 07218W,41.7020,-72.3012,America/New_York,2017-05-23
 Columbia,US,IL,USCL6,CL6,Columbia,3827N 09012W,38.4437,-90.2012,America/Chicago,2017-03-09
@@ -3532,7 +3532,7 @@ Columbia,US,VA,USCB5,CB5,Columbia,3745N 07810W,37.7529,-78.1625,America/New_York
 Columbia,US,WI,USCOV,COV,Columbia,4430N 09043W,44.5164,-90.7199,America/Chicago,2017-05-23
 Columbia City,US,IN,USCAJ,CAJ,Columbia City,,41.1573,-85.4883,America/Indiana/Indianapolis,2017-05-23
 Columbia City,US,OR,US8OL,8OL,Columbia City,4553N 12248W,45.8901,-122.8071,America/Los_Angeles,2017-03-09
-Columbia Cross Roads,US,PA,USICD,ICD,Columbia Cross Roads,4150N 07648W,41.8359,-76.8019,America/New_York,2017-05-23
+Columbia Cross Roads,US,PA,USICD,ICD,Columbia Cross Roads,4150N 07648W,41.8359,-76.8019,America/New_York,2020-08-28
 Columbia Falls,US,ME,USCF9,CF9,Columbia Falls,4439N 06743W,44.6537,-67.7275,America/New_York,2017-05-23
 Columbia Falls,US,MT,USYCU,YCU,Columbia Falls,4822N 11410W,48.3800,-114.1804,America/Denver,2010-02-19
 Columbia Heights,US,MN,USUBQ,UBQ,Columbia Heights,4502N 09317W,45.0408,-93.2630,America/Chicago,2017-05-23
@@ -3548,7 +3548,7 @@ Columbus,US,MO,USOLP,OLP,Columbus,3852N 09354W,38.8586,-93.8908,America/Chicago,
 Columbus,US,MT,USCB8,CB8,Columbus,4539N 10916W,45.6366,-109.2521,America/Denver,2017-03-09
 Columbus,US,NC,USCZX,CZX,Columbus,3515N 08211W,35.2532,-82.1971,America/New_York,2017-05-23
 Columbus,US,ND,USOD6,OD6,Columbus,4854N 10246W,48.9042,-102.7805,America/Chicago,2017-05-23
-Columbus,US,NJ,USYBC,YBC,Columbus,4004N 07443W,40.0726,-74.7207,America/New_York,2017-05-23
+Columbus,US,NJ,USYBC,YBC,Columbus,4004N 07443W,40.0726,-74.7207,America/New_York,2020-08-28
 Columbus,US,WI,USCBW,CBW,Columbus,,43.3381,-89.0154,America/Chicago,2017-05-23
 Columbus City,US,IA,USL9M,L9M,Columbus City,4115N 09122W,41.2586,-91.3743,America/Chicago,2017-05-23
 Columbus Grove,US,OH,USCGQ,CGQ,Columbus Grove,4055N 08404W,40.9195,-84.0569,America/New_York,2017-05-23
@@ -3794,7 +3794,7 @@ Cove Point,US,MD,USCP6,CP6,Cove Point,3822N 07623W,38.3276,-76.2522,America/New_
 Coventry,US,CT,USZCJ,ZCJ,Coventry,4146N 07218W,41.7701,-72.3051,America/New_York,2017-05-23
 Coventry,US,RI,USADO,ADO,Coventry,,41.7001,-71.6828,America/New_York,2017-05-23
 Coventry,US,VT,US7CY,7CY,Coventry,4451N 07215W,44.8656,-72.2648,America/New_York,2017-05-23
-Covesville,US,VA,USCJV,CJV,Covesville,,37.8901,-78.7047,America/New_York,2010-02-18
+Covesville,US,VA,USCJV,CJV,Covesville,,37.8901,-78.7047,America/New_York,2020-08-28
 Covina,US,CA,USCVQ,CVQ,Covina,,34.0900,-117.8903,America/Los_Angeles,2017-03-09
 Covington,US,GA,USCVF,CVF,Covington,,33.5968,-83.8602,America/New_York,2017-03-09
 Covington,US,IN,USOVT,OVT,Covington,4008N 08723W,40.1417,-87.3947,America/Indiana/Indianapolis,2017-05-23
@@ -3857,7 +3857,7 @@ Crescent,US,GA,USECJ,ECJ,Crescent,3130N 08122W,31.5094,-81.3695,America/New_York
 Crescent,US,IA,USCQN,CQN,Crescent,,41.3650,-95.8581,America/Chicago,2017-05-23
 Crescent City,US,FL,USTCJ,TCJ,Crescent City,2926N 08130W,29.4303,-81.5106,America/New_York,2017-03-09
 Crescent Lake,US,OR,US3CL,3CL,Crescent Lake,4328N 12159W,43.4774,-121.9906,America/Los_Angeles,2014-10-08
-Cresco,US,PA,USCTG,CTG,Cresco,,41.1540,-75.2805,America/New_York,2017-05-23
+Cresco,US,PA,USCTG,CTG,Cresco,,41.1540,-75.2805,America/New_York,2020-08-28
 Cressier,CH,FR,CHCRS,CRS,Cressier,4654N 00708E,46.8979,7.1407,Europe/Zurich,2013-02-26
 Cressier,CH,NE,CHCRR,CRR,Cressier,4703N 00702E,47.0491,7.0346,Europe/Zurich,2017-05-07
 Cresskill,US,NJ,USCYJ,CYJ,Cresskill,,40.9415,-73.9593,America/New_York,2017-05-23
@@ -4175,7 +4175,7 @@ DeWitt,US,VA,USVW2,VW2,DeWitt,3702N 07738W,37.0388,-77.6433,America/New_York,201
 Deadwood,US,SD,USDDW,DDW,Deadwood,4422N 10344W,44.3766,-103.7296,America/Denver,2017-05-23
 Deal,US,NJ,USDAF,DAF,Deal,4014N 07400W,40.2432,-74.0007,America/New_York,2017-05-23
 Deans,US,NJ,USDEJ,DEJ,Deans,4024N 07431W,40.4043,-74.5160,America/New_York,2017-05-23
-Deansboro,US,NY,USD2E,D2E,Deansboro,4259N 07525W,42.9951,-75.4285,America/New_York,2017-05-23
+Deansboro,US,NY,USD2E,D2E,Deansboro,4259N 07525W,42.9951,-75.4285,America/New_York,2020-08-29
 Dearborn,US,MI,USDEO,DEO,Dearborn,,42.3223,-83.1763,America/Detroit,2017-05-23
 Dearborn Heights,US,MI,USDHG,DHG,Dearborn Heights,4219N 08318W,42.3370,-83.2733,America/Detroit,2017-05-23
 Dearing,US,GA,USDR4,DR4,Dearing,3325N 08223W,33.4132,-82.3851,America/New_York,2017-03-09
@@ -4708,7 +4708,7 @@ Earth City,US,MO,USETC,ETC,Earth City,,38.7689,-90.4682,America/Chicago,2017-05-
 Easley,US,SC,USEAL,EAL,Easley,,34.8298,-82.6015,America/New_York,2017-03-09
 East Alburg,US,VT,USEBU,EBU,East Alburg,4458N 07313W,44.9731,-73.2296,America/New_York,2017-05-23
 East Alton,US,IL,USEOL,EOL,East Alton,,38.8803,-90.1112,America/Chicago,2017-05-23
-East Amherst,US,NY,USE7T,E7T,East Amherst,4301N 07841W,43.0184,-78.6967,America/New_York,2017-05-23
+East Amherst,US,NY,USE7T,E7T,East Amherst,4301N 07841W,43.0184,-78.6967,America/New_York,2020-08-28
 East Aurora,US,NY,USEAO,EAO,East Aurora,,42.7678,-78.6134,America/New_York,2017-05-23
 East Bangor,US,PA,USEGB,EGB,East Bangor,4052N 07511W,40.8795,-75.1838,America/New_York,2017-05-23
 East Bend,US,NC,USEBD,EBD,East Bend,3612N 08030W,36.2165,-80.5126,America/New_York,2017-05-23
@@ -6536,7 +6536,7 @@ Glouster,US,OH,USGSE,GSE,Glouster,3930N 08205W,39.5031,-82.0846,America/New_York
 Glovelier,CH,JU,CHGLO,GLO,Glovelier,4720N 00712E,47.3353,7.2056,Europe/Zurich,2017-12-07
 Gloversville,US,NY,USGVK,GVK,Gloversville,,43.0528,-74.3438,America/New_York,2017-05-23
 Gluckstadt,US,MS,USGKU,GKU,Gluckstadt,3231N 09006W,32.5165,-90.1009,America/Chicago,2006-01-15
-Glyndon,US,MD,USGYN,GYN,Glyndon,3928N 07648W,39.4770,-76.8150,America/New_York,2015-05-15
+Glyndon,US,MD,USGYN,GYN,Glyndon,3928N 07648W,39.4770,-76.8150,America/New_York,2020-08-19
 Gnadenhutten,US,OH,USGND,GND,Gnadenhutten,,40.3584,-81.4343,America/New_York,2017-05-23
 Gobles,US,MI,USGZZ,GZZ,Gobles,4221N 08552W,42.3609,-85.8795,America/Detroit,2017-05-23
 Godbrange,LU,GR,LUGRE,GRE,Godbrange,4943N 00613E,49.7340,6.2324,Europe/Luxembourg,2017-10-02
@@ -7000,7 +7000,7 @@ Gwatt,CH,BE,CHGWT,GWT,Gwatt,4643N 00737E,46.7204,7.6223,Europe/Zurich,2013-03-05
 Gwinn,US,MI,US3GW,3GW,Gwinn,4616N 08726W,46.2811,-87.4410,America/Detroit,2017-05-23
 Gwinner,US,ND,USGWI,GWI,Gwinner,4612N 09748W,46.2258,-97.6626,America/Chicago,2017-05-23
 Gwynedd,US,PA,USGWY,GWY,Gwynedd,,40.2021,-75.2519,America/New_York,2018-02-20
-Gwynn Oak,US,MD,USG8K,G8K,Gwynn Oak,3919N 07641W,39.3326,-76.6928,America/New_York,2006-01-15
+Gwynn Oak,US,MD,USG8K,G8K,Gwynn Oak,3919N 07641W,39.3326,-76.6928,America/New_York,2020-08-27
 Gypsum,US,CO,USGM2,GM2,Gypsum,3939N 10657W,39.6469,-106.9517,America/Denver,2017-03-09
 Gypsum,US,KS,US6GS,6GS,Gypsum,3842N 09725W,38.7056,-97.4281,America/Chicago,2017-05-23
 Gypsum,US,OH,USGPU,GPU,Gypsum,,41.4934,-82.8757,America/New_York,2017-05-23
@@ -7307,7 +7307,7 @@ Harwood,US,TX,USHKW,HKW,Harwood,2939N 09730W,29.6658,-97.5053,America/Chicago,20
 Harwood Heights,US,IL,USHHT,HHT,Harwood Heights,4158N 08748W,41.9672,-87.8076,America/Chicago,2017-05-23
 Hasbrouck Heights,US,NJ,USZHU,ZHU,Hasbrouck Heights,4051N 07404W,40.8582,-74.0807,America/New_York,2017-05-23
 Haskell,US,AR,USHKU,HKU,Haskell,3430N 09238W,34.5015,-92.6365,America/Chicago,2017-05-23
-Haskell,US,NJ,USQHJ,QHJ,Haskell,4101N 07417W,41.0284,-74.2960,America/New_York,2017-05-23
+Haskell,US,NJ,USQHJ,QHJ,Haskell,4101N 07417W,41.0284,-74.2960,America/New_York,2020-08-27
 Haskell,US,OK,USHAG,HAG,Haskell,3549N 09540W,35.8204,-95.6741,America/Chicago,2017-03-09
 Haskell,US,TX,USHQL,HQL,Haskell,,33.1576,-99.7337,America/Chicago,2017-03-09
 Haskins,US,OH,USHKI,HKI,Haskins,4127N 08342W,41.4648,-83.7061,America/New_York,2017-05-23
@@ -7469,7 +7469,7 @@ Henning,US,MN,USHN5,HN5,Henning,4619N 09526W,46.3216,-95.4453,America/Chicago,20
 Henning,US,TN,USHNJ,HNJ,Henning,3540N 08934W,35.6729,-89.5734,America/Chicago,2017-03-09
 Henrico,US,VA,USIUO,IUO,Henrico,3635N 07836W,36.5926,-78.6161,America/New_York,2006-01-15
 Henrietta,US,MO,USHT9,HT9,Henrietta,3914N 09356W,39.2342,-93.9355,America/Chicago,2017-05-23
-Henrietta,US,NY,USHT8,HT8,Henrietta,4303N 07737W,43.0592,-77.6122,America/New_York,2017-05-23
+Henrietta,US,NY,USHT8,HT8,Henrietta,4303N 07737W,43.0592,-77.6122,America/New_York,2020-08-27
 Henrietta,US,TX,USHTX,HTX,Henrietta,,33.8173,-98.1953,America/Chicago,2017-03-09
 Henry,US,IL,USHYY,HYY,Henry,,41.1114,-89.3565,America/Chicago,2017-05-23
 Henry,US,VA,USHR8,HR8,Henry,3649N 07959W,37.0496,-78.5708,America/New_York,2010-02-18
@@ -7616,7 +7616,7 @@ Hillsboro,US,WI,USZH3,ZH3,Hillsboro,4339N 09020W,43.6522,-90.3440,America/Chicag
 Hillsboro,US,WV,USIQB,IQB,Hillsboro,3808N 08012W,38.1354,-80.2131,America/New_York,2017-03-09
 Hillsboro Beach,US,FL,USHHJ,HHJ,Hillsboro Beach,2617N 08004W,26.2940,-80.0789,America/New_York,2017-03-09
 Hillsborough,US,CA,USHQB,HQB,Hillsborough,,37.5741,-122.3794,America/Los_Angeles,2017-03-09
-Hillsborough,US,NJ,USHSU,HSU,Hillsborough,4028N 07437W,40.4776,-74.6268,America/New_York,2017-05-23
+Hillsborough,US,NJ,USHSU,HSU,Hillsborough,4028N 07437W,40.4776,-74.6268,America/New_York,2020-08-28
 Hillsdale,US,IN,USHAK,HAK,Hillsdale,3947N 08723W,38.0828,-87.5506,America/Chicago,2017-05-23
 Hillsdale,US,IN,USHD5,HD5,Hillsdale,3947N 08723W,38.0828,-87.5506,America/Chicago,2017-05-23
 Hillsdale,US,MI,USHSE,HSE,Hillsdale,,41.9201,-84.6305,America/Detroit,2017-05-23
@@ -8608,7 +8608,7 @@ Kirkland,US,TN,USKL3,KL3,Kirkland,3548N 08639W,35.0623,-86.6292,America/Chicago,
 Kirkland,US,WA,USXHF,XHF,Kirkland,,47.6815,-122.2087,America/Los_Angeles,2017-03-09
 Kirklin,US,IN,USIKL,IKL,Kirklin,,40.1934,-86.3606,America/Indiana/Indianapolis,2017-05-23
 Kirkop,MT,28,MTKIR,KIR,Kirkop,3550N 01429E,35.8422,14.4853,Europe/Malta,2012-07-04
-Kirkville,US,NY,USKR5,KR5,Kirkville,4304N 07557W,43.0751,-75.9519,America/New_York,2017-05-23
+Kirkville,US,NY,USKR5,KR5,Kirkville,4304N 07557W,43.0751,-75.9519,America/New_York,2020-08-28
 Kirkwood,US,DE,USIWJ,IWJ,Kirkwood,3934N 07541W,39.5718,-75.6963,America/New_York,2006-01-15
 Kirkwood,US,MO,USXKW,XKW,Kirkwood,3835N 09024W,38.5834,-90.4068,America/Chicago,2017-05-23
 Kiron,US,IA,USKQN,KQN,Kiron,4211N 09519W,42.1955,-95.3278,America/Chicago,2017-05-23
@@ -8862,7 +8862,7 @@ Lake George,US,CO,USULE,ULE,Lake George,3858N 10521W,38.9797,-105.3575,America/D
 Lake George,US,NY,USLG2,LG2,Lake George,4326N 07343W,43.6019,-73.5795,America/New_York,2013-03-08
 Lake Grove,US,NY,USLK7,LK7,Lake Grove,4051N 07306W,40.8529,-73.1151,America/New_York,2017-05-23
 Lake Harbor,US,FL,USLKH,LKH,Lake Harbor,,26.6931,-80.8145,America/New_York,2011-05-14
-Lake Hopatcong,US,NJ,USK89,K89,Lake Hopatcong,4057N 07438W,40.9484,-74.6171,America/New_York,2017-05-23
+Lake Hopatcong,US,NJ,USK89,K89,Lake Hopatcong,4057N 07438W,40.9484,-74.6171,America/New_York,2020-08-28
 Lake Huntington,US,NY,USLU7,LU7,Lake Huntington,4141N 07459W,41.6830,-74.9903,America/New_York,2013-03-08
 Lake Isabella,US,CA,USIBD,IBD,Lake Isabella,3537N 11828W,35.6180,-118.4731,America/Los_Angeles,2011-05-14
 Lake Katrine,US,NY,USKYQ,KYQ,Lake Katrine,4159N 07359W,41.9931,-73.9777,America/New_York,2011-12-11
@@ -14411,7 +14411,7 @@ Rural Hall,US,NC,USRQH,RQH,Rural Hall,,36.2404,-80.2934,America/New_York,2017-05
 Rural Retreat,US,VA,USRRE,RRE,Rural Retreat,,36.8937,-81.2759,America/New_York,2017-03-09
 Rural Valley,US,PA,USR5V,R5V,Rural Valley,4047N 07918W,40.7992,-79.3145,America/New_York,2017-05-23
 Rush,US,KY,USRQY,RQY,Rush,,38.3354,-82.7815,America/New_York,2006-01-15
-Rush,US,NY,US5US,5US,Rush,4300N 07739W,42.9959,-77.6456,America/New_York,2017-05-23
+Rush,US,NY,US5US,5US,Rush,4300N 07739W,42.9959,-77.6456,America/New_York,2020-08-28
 Rush Center,US,KS,USUEF,UEF,Rush Center,3827N 09918W,38.4653,-99.3101,America/Chicago,2017-05-23
 Rush City,US,MN,USRHZ,RHZ,Rush City,4541N 09257W,45.6855,-92.9655,America/Chicago,2017-05-23
 Rush Springs,US,OK,USRHP,RHP,Rush Springs,3446N 09757W,34.7826,-97.9570,America/Chicago,2017-03-09
@@ -14547,7 +14547,7 @@ Saint Clair,US,MI,USSCL,SCL,Saint Clair,,42.8209,-82.4860,America/Detroit,2017-0
 Saint Clair,US,PA,USSKZ,SKZ,Saint Clair,4043N 07611W,40.4165,-79.9714,America/New_York,2017-05-23
 Saint Clair,US,PA,USST7,ST7,Saint Clair,4041N 08015W,40.4165,-79.9714,America/New_York,2017-05-23
 Saint Clair Shores,US,MI,USCS4,CS4,Saint Clair Shores,4229N 08253W,42.4970,-82.8888,America/Detroit,2017-05-23
-Saint Cloud,US,FL,USSOC,SOC,Saint Cloud,,28.2489,-81.2812,America/New_York,2011-05-14
+Saint Cloud,US,FL,USSOC,SOC,Saint Cloud,,28.2489,-81.2812,America/New_York,2020-08-22
 Saint Cloud,US,WI,USS2C,S2C,Saint Cloud,4349N 08810W,43.8228,-88.1670,America/Chicago,2017-05-23
 Saint Croix,US,IN,USTCX,TCX,Saint Croix,3813N 08635W,38.2240,-86.5864,America/Indiana/Tell_City,2017-05-23
 Saint Croix Falls,US,WI,USTCO,TCO,Saint Croix Falls,4524N 09238W,45.4100,-92.6397,America/Chicago,2017-05-23
@@ -14660,7 +14660,7 @@ Salem,US,IN,USSLF,SLF,Salem,,39.5964,-84.8902,America/Indiana/Indianapolis,2017-
 Salem,US,KY,USK2S,K2S,Salem,3715N 08814W,37.2645,-88.2442,America/Chicago,2017-03-09
 Salem,US,MA,USSLM,SLM,Salem,,42.5195,-70.8967,America/New_York,2019-09-19
 Salem,US,NE,USS9L,S9L,Salem,4004N 09543W,40.0756,-95.7208,America/Chicago,2017-03-09
-Salem,US,NH,USSXA,SXA,Salem,,42.7884,-71.2009,America/New_York,2017-05-23
+Salem,US,NH,USSXA,SXA,Salem,,42.7884,-71.2009,America/New_York,2020-08-19
 Salem,US,NM,USJSM,JSM,Salem,3242N 10712W,32.7076,-107.2131,America/Denver,2011-05-14
 Salem,US,NY,USL7S,L7S,Salem,4310N 07319W,43.1723,-73.3276,America/New_York,2017-05-23
 Salem,US,OH,USSAE,SAE,Salem,,39.6826,-82.3354,America/New_York,2017-05-23
@@ -15118,7 +15118,7 @@ Sevierville,US,TN,USSVU,SVU,Sevierville,,35.8681,-83.5618,America/New_York,2017-
 Seville,US,OH,USZVL,ZVL,Seville,,41.0101,-81.8624,America/New_York,2017-05-23
 Seward,US,IL,USQSR,QSR,Seward,4214N 08921W,42.2389,-89.3579,America/Chicago,2017-05-23
 Seward,US,NE,USNSR,NSR,Seward,4054N 09705W,40.9070,-97.0989,America/Chicago,2017-03-09
-Sewell,US,NJ,USYSW,YSW,Sewell,3945N 07508W,39.7665,-75.1443,America/New_York,2017-05-23
+Sewell,US,NJ,USYSW,YSW,Sewell,3945N 07508W,39.7665,-75.1443,America/New_York,2020-08-27
 Sewickley,US,PA,USEWC,EWC,Sewickley,4032N 08011W,40.5365,-80.1845,America/New_York,2017-05-23
 Seyitgazi,TR,26,TRSYT,SYT,Seyitgazi,,39.4447,30.6947,Europe/Istanbul,2013-07-06
 Seymour,US,CT,USSZK,SZK,Seymour,,41.3968,-73.0759,America/New_York,2017-05-23
@@ -15601,7 +15601,7 @@ South Milwaukee,US,WI,USMK6,MK6,South Milwaukee,4254N 08751W,42.9106,-87.8606,Am
 South Natick,US,MA,USS88,S88,South Natick,4216N 07119W,42.2737,-71.3162,America/New_York,2017-05-23
 South Ogden,US,UT,US2OG,2OG,South Ogden,4111N 11158W,41.1919,-111.9713,America/Denver,2017-03-09
 South Orange,US,NJ,USTHX,THX,South Orange,4045N 07416W,40.7490,-74.2613,America/New_York,2017-05-23
-South Ozone Park,US,NY,USOZN,OZN,South Ozone Park,4040N 07349W,40.6701,-73.8190,America/New_York,2006-01-15
+South Ozone Park,US,NY,USOZN,OZN,South Ozone Park,4040N 07349W,40.6701,-73.8190,America/New_York,2020-08-28
 South Padre Island,US,TX,USPXD,PXD,South Padre Island,2606N 09709W,26.1037,-97.1647,America/Chicago,2017-03-09
 South Pasadena,US,CA,USSSD,SSD,South Pasadena,,34.1161,-118.1504,America/Los_Angeles,2017-03-09
 South Pittsburg,US,TN,USSWU,SWU,South Pittsburg,,35.0123,-85.7044,America/Chicago,2017-03-09
@@ -15671,7 +15671,7 @@ Sparks,US,GA,USSPM,SPM,Sparks,,31.1669,-83.4374,America/New_York,2017-03-09
 Sparks,US,MD,USSRM,SRM,Sparks,,39.5309,-76.6458,America/New_York,2010-01-29
 Sparks,US,NE,USKP3,KP3,Sparks,4256N 10015W,42.9411,-100.2560,America/Chicago,2010-01-29
 Sparks,US,NV,USSPK,SPK,Sparks,,39.5349,-119.7527,America/Los_Angeles,2017-03-09
-Sparrow Bush,US,NY,USPWU,PWU,Sparrow Bush,4124N 07443W,41.4001,-74.7232,America/New_York,2017-05-23
+Sparrow Bush,US,NY,USPWU,PWU,Sparrow Bush,4124N 07443W,41.4001,-74.7232,America/New_York,2020-08-28
 Sparrows Point,US,MD,USPPO,PPO,Sparrows Point,3913N 07628W,39.2014,-76.4922,America/New_York,2020-03-03
 Sparta,US,GA,USAA5,AA5,Sparta,3317N 08259W,33.2757,-82.9763,America/New_York,2017-03-09
 Sparta,US,MI,USSQH,SQH,Sparta,,43.1609,-85.7100,America/Detroit,2017-05-23
@@ -17114,7 +17114,7 @@ Veseli,US,MN,USV2L,V2L,Veseli,4430N 09327W,44.5150,-93.4600,America/Chicago,2017
 Vessy,CH,GE,CHVSY,VSY,Vessy,4610N 00610E,46.1831,6.1668,Europe/Zurich,2013-02-26
 Vesta,US,MN,USVEU,VEU,Vesta,4430N 09524W,44.5077,-95.4164,America/Chicago,2017-05-23
 Vestaburg,US,MI,USVTB,VTB,Vestaburg,,43.3992,-84.9056,America/Detroit,2017-05-23
-Vestal,US,NY,USVJZ,VJZ,Vestal,4205N 07603W,42.0851,-76.0538,America/New_York,2017-05-23
+Vestal,US,NY,USVJZ,VJZ,Vestal,4205N 07603W,42.0851,-76.0538,America/New_York,2020-08-28
 Vestavia Hills,US,AL,USVEH,VEH,Vestavia Hills,3327N 08647W,33.4487,-86.7878,America/Chicago,2017-03-09
 Vevay,US,IN,USVYI,VYI,Vevay,3844N 08504W,38.7478,-85.0672,America/Indiana/Vevay,2017-05-23
 Veyo,US,UT,USVYO,VYO,Veyo,3720N 11341W,37.3380,-113.6930,America/Denver,2011-05-14
@@ -17753,7 +17753,7 @@ West Haven,US,UT,USTVQ,TVQ,West Haven,4112N 11203W,41.2030,-112.0511,America/Den
 West Haven,US,VT,USWE6,WE6,West Haven,4339N 07322W,43.6514,-73.3473,America/New_York,2017-05-23
 West Haverstraw,US,NY,USS8X,S8X,West Haverstraw,4112N 07359W,41.2095,-73.9854,America/New_York,2017-05-23
 West Hempstead,US,NY,USWH4,WH4,West Hempstead,4042N 07339W,40.7048,-73.6501,America/New_York,2017-05-23
-West Henrietta,US,NY,USWEE,WEE,West Henrietta,4302N 07739W,43.0401,-77.6617,America/New_York,2017-05-23
+West Henrietta,US,NY,USWEE,WEE,West Henrietta,4302N 07739W,43.0401,-77.6617,America/New_York,2020-08-28
 West Hills,US,CA,USTLS,TLS,West Hills,3411N 11838W,34.1973,-118.6440,America/Los_Angeles,2018-04-18
 West Hollywood,US,CA,USWWU,WWU,West Hollywood,,34.0900,-118.3617,America/Los_Angeles,2018-04-18
 West Homestead,US,PA,USYWE,YWE,West Homestead,4023N 07954W,40.3940,-79.9120,America/New_York,2017-05-23
@@ -17942,7 +17942,7 @@ Wheaton,US,MN,USW3H,W3H,Wheaton,4548N 09629W,45.8044,-96.4992,America/Chicago,20
 Wheeler,US,MI,USEEE,EEE,Wheeler,4324N 08426W,43.4128,-84.4378,America/Detroit,2017-05-23
 Wheeling,US,IL,USWHE,WHE,Wheeling,,42.1392,-87.9290,America/Chicago,2017-05-23
 Whigham,US,GA,USW5G,W5G,Whigham,3052N 08419W,30.8830,-84.3238,America/New_York,2017-03-09
-Whippany,US,NJ,USWHI,WHI,Whippany,,40.8245,-74.4171,America/New_York,2017-05-23
+Whippany,US,NJ,USWHI,WHI,Whippany,,40.8245,-74.4171,America/New_York,2020-08-27
 Whipple,US,OH,USWZX,WZX,Whipple,3931N 08124W,39.5223,-81.4146,America/New_York,2017-05-23
 Whispering Pines,US,NC,USPW7,PW7,Whispering Pines,3515N 07922W,36.0310,-79.0047,America/New_York,2017-05-23
 Whistler,US,AL,USHTR,HTR,Whistler,3045N 08806W,30.7566,-88.1031,America/Chicago,2010-02-14
