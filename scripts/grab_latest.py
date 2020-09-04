@@ -107,7 +107,6 @@ def get_easy_match():
     easy_match.dropna(subset=["timezone"], inplace=True)
     easy_match["unlocode"] = easy_match["country_code"] + easy_match["location"]
     list_unlocodes = list(easy_match["unlocode"].unique())
-    del easy_match["alternatenames"]
 
     easy_match.drop_duplicates("unlocode", keep="first", inplace=True)
     easy_match = easy_match.set_index(['name', 'country_code', "subdivision", "unlocode"])
