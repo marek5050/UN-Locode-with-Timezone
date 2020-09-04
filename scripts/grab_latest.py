@@ -116,7 +116,7 @@ def get_easy_match():
 
     dcities = dcities[-dcities['unlocode'].isin(list_unlocodes)]
 
-    m.insert_records(easy_match[columns].to_dict('records'))
+    m.insert_records(easy_match.reset_index().to_dict('records'))
     return
 
 
@@ -137,7 +137,7 @@ def get_locations_match():
     perfect_match[columns].to_csv("data/perfect_%s.csv" % name, index=True, quoting=csv.QUOTE_NONE)
 
     dcities = dcities[-dcities['unlocode'].isin(list_unlocodes)]
-    m.insert_records(perfect_match[columns].to_dict('records'))
+    m.insert_records(perfect_match.reset_index().to_dict('records'))
     return
 
 
@@ -156,7 +156,7 @@ def get_good_match():
                "modification date"]
     good_match["subdivision"] = ""
     good_match[columns].to_csv("data/good_%s.csv" % name, index=True, quoting=csv.QUOTE_NONE)
-    m.insert_records(good_match[columns].to_dict('records'))
+    m.insert_records(good_match.reset_index().to_dict('records'))
     return
 
 
