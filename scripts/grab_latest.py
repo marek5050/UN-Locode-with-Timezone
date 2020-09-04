@@ -172,3 +172,4 @@ if __name__ == "__main__":
     dcities = retrieve_all_countries()
     dunlocodes = retrieve_unlocodes()
     process()
+    print("Done")
