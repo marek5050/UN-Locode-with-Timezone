@@ -2,3 +2,4 @@ pandas
 numpy
 xlrd
 pytest
+pymongo==3.8.0

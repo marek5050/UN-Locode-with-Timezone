@@ -24,7 +24,8 @@ jobs:
     - name: Process Data
       run: |
         python scripts/grab_latest.py
-        ./scripts/prepare.sh
+      env:
+        U_P: ${{ secrets.u_p }}
     - name: Deploy Function
       run: ./scripts/deploy.sh
       env:

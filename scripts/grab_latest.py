@@ -7,6 +7,13 @@ import numpy as np
 import pandas as pd
 import urllib.request as request
 from io import BytesIO
+import pymongo
+
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 datadir = "data"
 if not exists(datadir):
@@ -33,6 +40,32 @@ dcities = None
 dunlocodes = None
 
 list_unlocodes = []
+
+
+class MongoQuery:
+    db = None
+    collection = None
+    uri = "mongodb://%s@oceans-shard-00-00.iotwb.mongodb.net:27017,oceans-shard-00-01.iotwb.mongodb.net:27017,oceans-shard-00-02.iotwb.mongodb.net:27017/timezones?ssl=true&replicaSet=atlas-10a87j-shard-0&authSource=admin&retryWrites=true&w=majority"
+
+    def __init__(self, u_p):
+        client = pymongo.MongoClient(self.uri % (u_p))
+        self.db = client.get_database("oceandb")
+        self.collection = self.db["timezones"]
+
+    def query(self, unlocode="NONE", name="NONE"):
+        items = list(self.collection.find({"unlocode": {'$regex': unlocode} },{"_id":0}  ).limit(10))
+        if len(items) == 0:
+            items = list(self.collection.find({"city": {'$regex': name ,'$options': 'i'} }, {"_id":0}  ).limit(10))
+
+        return items
+
+    def insert_records(self, records):
+        for item in records:
+            item["_id"]=item["unlocode"]
+            self.collection.replace_one({"_id":item["unlocode"]}, item,upsert=True)
+
+
+m = MongoQuery(os.environ.get('U_P'))
 
 def retrieve_all_countries():
     z = request.urlopen(cities % name)
@@ -82,6 +115,7 @@ def get_easy_match():
 
     dcities = dcities[-dcities['unlocode'].isin(list_unlocodes)]
 
+    m.insert_records(easy_match[columns].to_dict('records'))
     return
 
 
@@ -102,6 +136,7 @@ def get_locations_match():
     perfect_match[columns].to_csv("data/perfect_%s.csv" % name, index=True, quoting=csv.QUOTE_NONE)
 
     dcities = dcities[-dcities['unlocode'].isin(list_unlocodes)]
+    m.insert_records(perfect_match[columns].to_dict('records'))
     return
 
 
@@ -120,6 +155,7 @@ def get_good_match():
                "modification date"]
     good_match["subdivision"] = ""
     good_match[columns].to_csv("data/good_%s.csv" % name, index=True, quoting=csv.QUOTE_NONE)
+    m.insert_records(good_match[columns].to_dict('records'))
     return
 
 

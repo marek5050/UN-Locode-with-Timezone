@@ -1,8 +1,12 @@
 import endpoint.main as e
+import os
 
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def test_main():
-    d = {"unlocode": "USWAT"}
+    d = {"unlocode": "USWAT", "u_p":  os.environ.get('U_P')  }
     r = e.main(d)
     a = {'result': [{'asciiname': 'Waterbury',
                      'city': 'Waterbury',
