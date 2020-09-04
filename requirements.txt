@@ -3,3 +3,4 @@ numpy
 xlrd
 pytest
 pymongo==3.8.0
+python-dotenv==0.13.0

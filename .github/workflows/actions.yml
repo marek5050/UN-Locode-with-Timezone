@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - master
+      - MongoBranch
 
 jobs:
   update:
