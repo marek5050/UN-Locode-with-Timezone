@@ -32,7 +32,8 @@ cities_use_cols = "name,asciiname,alternatenames,latitude,longitude,country_code
 names_locodes = "change,country_code,location,name,asciiname,subdivision,status,function,date,iata,coordinates,remarks".split(
     ",")
 locodes_use_cols = "country_code,location,name,subdivision,coordinates".split(",")
-name = "allCountries"
+# name = "allCountries"
+name = "cities15000"
 
 global dcities, dunlocodes
 
