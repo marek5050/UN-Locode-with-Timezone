@@ -1,6 +1,6 @@
 name,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date
 Andorra la Vella,AD,,ADALV,ALV,Andorra la Vella,4230N 00131E,42.5078,1.5211,Europe/Andorra,2020-03-03
-Arandis,,,ADI,ADI,Arandis Airport,,-22.4622,14.9800,Africa/Windhoek,2011-02-17
+Arandis,,,ADI,ADI,Arandis Airport,,-22.4622,14.9800,Africa/Windhoek,2020-10-25
 Al Ain,AE,,AEAAN,AAN,Al Ain City,,24.1917,55.7606,Asia/Dubai,2019-05-29
 Abu Dhabi,AE,AZ,AEAUH,AUH,Abu Dhabi,2428N 05422E,24.4512,54.3970,Asia/Dubai,2019-09-05
 Al Dhafra,AE,,AEDHF,DHF,Al Dhafra Air Base,2414N 05432E,24.2484,54.5485,Asia/Dubai,2013-05-18
@@ -222,14 +222,14 @@ Micheldorf am Kienberge,AT,4,ATMAK,MAK,MAK-Austrian Museum of applied arts,4751N
 Wörgl,AT,,ATQXZ,QXZ,Woergl,4729N 01204E,47.4891,12.0617,Europe/Vienna,2018-07-28
 Salzburg,AT,5,ATSZG,SZG,Salzburg Airport,4748N 01302E,47.7933,13.0043,Europe/Vienna,2018-07-29
 Wien,AT,9,ATVIE,VIE,Vienna International Airport,4812N 01622E,48.1221,16.5575,Europe/Vienna,2017-06-16
-Arrabury,AU,QLD,AUAAB,AAB,Arrabury,,-26.7641,141.0285,Australia/Brisbane,2016-06-18
+Arrabury,AU,QLD,AUAAB,AAB,Arrabury,,-26.7641,141.0285,Australia/Brisbane,2020-10-25
 Beulah,AU,VIC,AUABC,ABC,ABC Bore,3556S 14225E,-31.6131,138.6962,Australia/Adelaide,2014-04-09
-Abingdon,AU,QLD,AUABG,ABG,Abingdon Downs,,-17.6044,143.1808,Australia/Brisbane,2019-02-21
+Abingdon,AU,QLD,AUABG,ABG,Abingdon Downs,,-17.6044,143.1808,Australia/Brisbane,2020-10-25
 Alpha,AU,QLD,AUABH,ABH,Alpha,,-23.6491,146.6398,Australia/Brisbane,2019-07-18
 Bamaga,AU,QLD,AUABM,ABM,Bamaga,,-10.8920,142.3893,Australia/Brisbane,2019-07-18
-Albury,AU,NSW,AUABX,ABX,Albury,3605S 14655E,-36.0748,146.9240,Australia/Sydney,2019-07-18
+Albury,AU,NSW,AUABX,ABX,Albury,3605S 14655E,-36.0748,146.9240,Australia/Sydney,2020-10-25
 Adelaide,AU,SA,AUADL,ADL,Adelaide,3455S 13835E,-34.9287,138.5986,Australia/Adelaide,2020-06-19
-Andamooka,AU,SA,AUADO,ADO,Andamooka Airport,,-30.4383,137.1370,Australia/Adelaide,2011-03-17
+Andamooka,AU,SA,AUADO,ADO,Andamooka Airport,,-30.4383,137.1370,Australia/Adelaide,2020-10-25
 Agnew,AU,QLD,AUAGW,AGW,Agnew Airport,,-12.1456,142.1490,Australia/Brisbane,2013-12-15
 Albany,AU,WA,AUALH,ALH,Albany,,-35.0269,117.8837,Australia/Perth,2019-07-21
 Amata,AU,NT,AUAMT,AMT,Amata,,-26.1581,131.1483,Australia/Adelaide,2019-07-18
@@ -238,7 +238,7 @@ Angus Downs,AU,NT,AUANZ,ANZ,Angus Downs Stn,,-25.0833,132.1670,Australia/Darwin,
 Armidale,AU,NSW,AUARM,ARM,Armidale,,-30.5012,151.6655,Australia/Sydney,2019-07-18
 Ararat,AU,VIC,AUARY,ARY,Ararat,,-37.2854,142.9273,Australia/Melbourne,2019-07-18
 Alice Springs,AU,NT,AUASP,ASP,Alice Springs,,-23.6975,133.8836,Australia/Darwin,2019-07-20
-Augustus Downs,AU,QLD,AUAUD,AUD,Augustus Downs,,-18.5500,139.8667,Australia/Brisbane,2017-09-09
+Augustus Downs,AU,QLD,AUAUD,AUD,Augustus Downs,,-18.5447,139.8705,Australia/Brisbane,2020-09-17
 Aurukun Mission,AU,QLD,AUAUU,AUU,Aurukun,,-13.3558,141.7271,Australia/Brisbane,2019-07-18
 Auvergne,AU,NT,AUAVG,AVG,Auvergne Station,,-15.6836,130.0097,Australia/Darwin,2019-05-22
 Avalon,AU,VIC,AUAVV,AVV,Avalon Airport,,-38.0394,144.4694,Australia/Melbourne,2017-09-02
@@ -817,7 +817,7 @@ Tara,AU,QLD,AUXTR,XTR,Tara,,-27.2761,150.4568,Australia/Brisbane,2019-07-18
 Yampi,AU,WA,AUYAM,YAM,RAAF Base Amberley,,-27.6406,152.7119,Australia/Brisbane,2020-07-26
 Yagoona,AU,NSW,AUYAN,YAN,Anthony Lagoon Airport,3354S 15101E,-18.0217,135.5420,Australia/Darwin,2017-08-19
 Yarra Glen,AU,VIC,AUYAR,YAR,Ararat Airport,3738S 14522E,-37.3094,142.9890,Australia/Melbourne,2011-06-04
-Yamba,AU,NSW,AUYBA,YBA,Archerfield Aerodrome,,-27.5703,153.0081,Australia/Brisbane,2017-10-28
+Yamba,AU,NSW,AUYBA,YBA,Archerfield Aerodrome,,-27.5703,153.0081,Australia/Brisbane,2020-10-25
 Yabulu,AU,QLD,AUYBU,YBU,Bundaberg Airport,1913S 14636E,-24.9039,152.3190,Australia/Brisbane,2011-06-04
 Yenda,AU,NSW,AUYDA,YDA,Dalby Airport,3416S 14611E,-27.1585,151.2634,Australia/Brisbane,2014-08-16
 Yandina,AU,QLD,AUYDN,YDN,Darnley Island Airport,2634S 15257E,-9.5799,143.7806,Pacific/Port_Moresby,2014-06-16
@@ -864,7 +864,7 @@ Jashore,BD,,BDJSR,JSR,Jessore,,23.1697,89.2137,Asia/Dhaka,2016-11-09
 Rangpur,BD,,BDRAU,RAU,Rangpur,,25.7466,89.2517,Asia/Dhaka,2016-11-09
 Rajshahi,BD,,BDRJH,RJH,Rajshahi,,24.3740,88.6011,Asia/Dhaka,2020-06-10
 Sirajganj,BD,,BDSAJ,SAJ,Sirajganj,,24.4577,89.7080,Asia/Dhaka,2017-05-04
-Saidpur,BD,,BDSPD,SPD,Saidpur Airport,,25.7592,88.9089,Asia/Dhaka,2016-11-09
+Saidpur,BD,,BDSPD,SPD,Saidpur Airport,,25.7592,88.9089,Asia/Dhaka,2020-09-17
 Thakurgaon,BD,,BDTKR,TKR,Thakurgaon,,26.0310,88.4699,Asia/Dhaka,2020-06-10
 Shamshernagar,BD,,BDZHM,ZHM,Shamshernagar,,24.3825,91.9019,Asia/Dhaka,2016-11-09
 Sylhet,BD,,BDZYL,ZYL,Sylhet,,24.8990,91.8720,Asia/Dhaka,2016-11-09
@@ -950,7 +950,7 @@ Roboré,BO,S,BORBO,RBO,Robore,1820S 05945W,-18.3347,-59.7614,America/La_Paz,2017
 Rurrenabaque,BO,B,BORBQ,RBQ,Rurrenabaque,1428S 06734W,-14.4413,-67.5278,America/La_Paz,2008-03-22
 Reyes,BO,B,BOREY,REY,Reyes,1419S 06723W,-14.2952,-67.3362,America/La_Paz,2015-06-13
 Riberalta,BO,B,BORIB,RIB,Riberalta,1059S 06606W,-11.0065,-66.0631,America/La_Paz,2016-12-21
-Santa Ana,BO,B,BOSBL,SBL,Santa Ana de Yacuma,1345S 06526W,-13.7441,-65.4269,America/La_Paz,2017-09-12
+Santa Ana,BO,B,BOSBL,SBL,Santa Ana de Yacuma,1345S 06526W,-13.7441,-65.4269,America/La_Paz,2020-10-04
 San Joaquín,BO,B,BOSJB,SJB,San Joaquin Airport,1304S 06449W,-13.0670,-64.6750,America/La_Paz,2017-07-16
 San José,BO,S,BOSJS,SJS,San Jose de Chiquitos,1751S 06045W,-17.8500,-60.7500,America/La_Paz,2017-05-09
 San Javier,BO,S,BOSJV,SJV,San Javier Airport,1620S 06238W,-16.2659,-62.4705,America/La_Paz,2013-05-09
@@ -1460,7 +1460,7 @@ Chute-a-Blondeau,CA,ON,CACAB,CAB,Bedwell Harbour Water Aerodrome,4531N 07428W,48
 Cap-Chat,CA,QC,CACAC,CAC,Nanaimo Harbour Water Airport,4905N 06641W,49.1694,-123.9355,America/Vancouver,2013-10-27
 Caledonia,CA,ON,CACAD,CAD,Trail Airport,4304N 07957W,49.0568,-117.6079,America/Vancouver,2017-10-29
 Camrose,CA,AB,CACAE,CAE,Whistler Green Lake Water Aerodrome,,50.1449,-122.9502,America/Vancouver,2017-10-29
-Canning,CA,NS,CACAG,CAG,Tsylos Park Lodge Aerodrome,4509N 06425W,51.6275,-124.1441,America/Vancouver,2013-11-02
+Canning,CA,NS,CACAG,CAG,Tsylos Park Lodge Aerodrome,4509N 06425W,51.6275,-124.1441,America/Vancouver,2020-10-04
 Canso,CA,NS,CACAH,CAH,Ocean Falls Seaplane Base,4520N 06100W,52.3518,-127.6981,America/Vancouver,2017-11-03
 Calgary,CA,AB,CACAL,CAL,Fort MacKay/Albian Aerodrome,5102N 11404W,57.2278,-111.4190,America/Edmonton,2013-04-16
 Campbell River,CA,BC,CACAM,CAM,Duncan Airport,5001N 12515W,48.7546,-123.7100,America/Vancouver,2013-07-21
@@ -1565,7 +1565,7 @@ Maple Bay,CA,BC,CAYAQ,YAQ,Maple Bay Seaplane Base,,48.8027,-123.6004,America/Van
 Lagrande 3,CA,QC,CAYAR,YAR,La Grande-3 generating station,,53.7296,-75.9681,America/Toronto,2019-11-24
 Attawapiskat,CA,ON,CAYAT,YAT,Attawapiskat,,52.9277,-82.4167,America/Toronto,2019-08-10
 Kattiniq/Donaldson Lake,CA,QC,CAYAU,YAU,Kattiniq,,61.7173,-73.6988,America/Toronto,2013-06-01
-Miners Bay,CA,BC,CAYAV,YAV,Mayne Island,,48.8496,-123.2859,America/Vancouver,2013-06-01
+Miners Bay,CA,BC,CAYAV,YAV,Mayne Island,,48.8426,-123.2855,America/Vancouver,2020-09-29
 Shearwater,CA,NS,CAYAW,YAW,Shearwater Airport,,44.6397,-63.4994,America/Halifax,2013-08-05
 Angling Lake,CA,ON,CAYAX,YAX,Angling Lake,,53.8448,-89.5300,America/Winnipeg,2006-01-18
 Tofino,CA,BC,CAYAZ,YAZ,Tofino/Long Beach Airport,,49.0798,-125.7777,America/Vancouver,2014-04-15
@@ -1678,7 +1678,7 @@ Klemtu,CA,BC,CAYKT,YKT,Klemtu,,52.5885,-128.5213,America/Vancouver,2013-10-01
 Chisasibi,CA,QC,CAYKU,YKU,Chisasibi Airport,,53.8056,-78.9169,America/Toronto,2019-02-26
 Kirkland Lake,CA,ON,CAYKX,YKX,Kirkland Lake,,48.1446,-80.0377,America/Toronto,2012-01-07
 Kindersley,CA,SK,CAYKY,YKY,Kindersley,,51.4668,-109.1682,America/Regina,2013-09-22
-Buttonville,CA,ON,CAYKZ,YKZ,Toronto/Buttonville Municipal Airport,4351N 07922W,43.8622,-79.3700,America/Toronto,2018-01-20
+Buttonville,CA,ON,CAYKZ,YKZ,Toronto/Buttonville Municipal Airport,4351N 07922W,43.8622,-79.3700,America/Toronto,2020-10-29
 Langara,CA,BC,CAYLA,YLA,Langara Island,,54.2349,-133.0209,America/Vancouver,2014-02-08
 Lac Biche,CA,AB,CAYLB,YLB,Lac La Biche,,54.7669,-111.9686,America/Edmonton,2013-04-27
 Kimmirut/Lake Harbour,CA,NT,CAYLC,YLC,Kimmirut,,62.8473,-69.8701,America/Iqaluit,2013-08-17
@@ -2203,12 +2203,12 @@ Batouri,CM,,CMOUR,OUR,Batouri,,4.4333,14.3667,Africa/Douala,2012-01-16
 Tiko,CM,,CMTKC,TKC,Tiko,,4.0750,9.3600,Africa/Douala,2014-10-06
 Yaoundé,CM,CE,CMYAO,YAO,Yaounde,0352N 01131E,3.8667,11.5167,Africa/Douala,2019-09-05
 Altay,CN,XJ,CNAAT,AAT,Altay,4752N 08807E,47.8486,88.1336,Asia/Urumqi,2015-01-03
-Xingyi,CN,YN,CNACX,ACX,Xingyi,2503N 10459E,25.0962,104.9064,Asia/Shanghai,2013-03-30
+Xingyi,CN,YN,CNACX,ACX,Xingyi,2503N 10459E,25.0962,104.9064,Asia/Shanghai,2020-10-25
 Ankang Wulipu Apt,CN,SN,CNAKA,AKA,Ankang,,32.6800,109.0172,Asia/Shanghai,2019-02-11
 Aksu,CN,XJ,CNAKU,AKU,Aksu Airport,3840N 07540E,41.2625,80.2917,Asia/Urumqi,2013-07-07
 Anshan Teng'ao Apt,CN,LN,CNAOG,AOG,Anshan,4110N 12302E,41.1236,122.9900,Asia/Shanghai,2018-12-06
 Anqing Pt,CN,AH,CNAQG,AQG,Anqing,3031N 11702E,30.5136,117.0472,Asia/Shanghai,2016-04-08
-Beihai Fucheng Apt,CN,GX,CNBHY,BHY,Beihai,2132N 10917E,21.4833,109.1000,Asia/Shanghai,2012-01-18
+Beihai Fucheng Apt,CN,GX,CNBHY,BHY,Beihai,2132N 10917E,21.4833,109.1000,Asia/Shanghai,2020-10-24
 Beijing,CN,BJ,CNBJS,BJS,Beijing,3955N 11624E,39.9075,116.3972,Asia/Shanghai,2019-09-05
 Bangda,CN,XZ,CNBPX,BPX,Qamdo,3033N 09707E,31.1304,97.1798,Asia/Shanghai,2013-04-03
 Baoshan Pt,CN,SH,CNBSD,BSD,Baoshan,3125N 12129E,25.1163,99.1637,Asia/Shanghai,2018-12-06
@@ -2245,13 +2245,13 @@ Fushan,CN,JS,CNFSA,FSA,Foshan Bus Station,,23.0394,113.1081,Asia/Shanghai,2012-1
 Foshan Apt,CN,GD,CNFUO,FUO,Foshan,,23.0268,113.1315,Asia/Shanghai,2014-08-17
 Fuyong,CN,YN,CNFYG,FYG,Shenzhen Fuyong Ferry Terminal,2253N 09948E,22.6055,113.8094,Asia/Shanghai,2012-09-29
 Fuyun,CN,XJ,CNFYN,FYN,Fuyun,4702N 08929E,46.9919,89.5212,Asia/Urumqi,2016-04-28
-Guanghan,CN,SC,CNGHN,GHN,Guanghan Xian,3028N 10639E,30.9938,104.2726,Asia/Shanghai,2017-02-25
+Guanghan,CN,SC,CNGHN,GHN,Guanghan Shi,3028N 10639E,30.9938,104.2726,Asia/Shanghai,2020-10-09
 Golmud,CN,QH,CNGOQ,GOQ,Golmud,3438N 09852E,36.4067,94.9006,Asia/Shanghai,2017-07-21
 Guangyuan Panlong Apt,CN,SC,CNGYS,GYS,Guangyuan,,32.4420,105.8230,Asia/Shanghai,2013-11-24
 Gaoyou,CN,JS,CNGYU,GYU,Guyuan,3247N 11925E,36.0067,106.2808,Asia/Shanghai,2013-11-24
 Guangzhou Pt,CN,GD,CNGZG,GZG,Garze County,,32.0452,99.8402,Asia/Shanghai,2019-12-08
 Haikou Meilan International Apt,CN,HI,CNHAK,HAK,Haikou,,20.0458,110.3417,Asia/Shanghai,2019-09-05
-Huadu Pt,CN,GD,CNHDG,HDG,Handan,,36.6006,114.4678,Asia/Shanghai,2012-01-18
+Huadu Pt,CN,GD,CNHDG,HDG,Handan,,36.6100,114.4876,Asia/Shanghai,2020-10-14
 Heihe,CN,HL,CNHEK,HEK,Heihe,5014N 12729E,50.2441,127.4902,Asia/Shanghai,2017-07-21
 Hohhot Baita International Apt,CN,NM,CNHET,HET,Hohhot,,40.8106,111.6522,Asia/Shanghai,2017-07-21
 Hefei Xinqiao International Apt,CN,AH,CNHFE,HFE,Hefei,,31.8639,117.2808,Asia/Shanghai,2019-02-26
@@ -2297,12 +2297,12 @@ Jian Railway Station,CN,JL,CNKNC,KNC,Ji'an Railway Station,4108N 12611E,41.1335,
 Ganzhou Huangjin Apt,CN,JX,CNKOW,KOW,Ganzhou Huangjin Airport,,25.8509,114.7754,Asia/Shanghai,2013-04-13
 Karamay,CN,XJ,CNKRY,KRY,Karamay,4530N 08455E,45.5847,84.8872,Asia/Urumqi,2018-12-06
 Guiyang Longdongbao International Apt,CN,GZ,CNKWE,KWE,Guiyang,,26.5833,106.7167,Asia/Shanghai,2018-12-06
-Guilin Liangjiang International Apt,CN,GX,CNKWL,KWL,Guilin,,25.2819,110.2864,Asia/Shanghai,2012-01-18
+Guilin Liangjiang International Apt,CN,GX,CNKWL,KWL,Guilin,,25.2819,110.2864,Asia/Shanghai,2020-10-24
 Liancheng Apt,CN,FJ,CNLCX,LCX,Longyan,,25.1072,117.0225,Asia/Shanghai,2017-07-21
 Guanghua,CN,HB,CNLHK,LHK,Laohekou,,32.3858,111.6678,Asia/Shanghai,2018-12-06
 Lanzhou Zhongchuan Apt,CN,GS,CNLHW,LHW,Lanzhou,,36.0570,103.8399,Asia/Shanghai,2019-02-26
 Lijiang Sanyi Apt,CN,YN,CNLJG,LJG,Lijiang Sanyi Airport,,26.6720,100.2472,Asia/Shanghai,2014-01-05
-Lingling Apt/Yongzhou,CN,HN,CNLLF,LLF,Yongzhou,,26.4239,111.6131,Asia/Shanghai,2018-12-06
+Lingling Apt/Yongzhou,CN,HN,CNLLF,LLF,Yongzhou,,26.4239,111.6131,Asia/Shanghai,2020-10-07
 Lianjiang,CN,JX,CNLNJ,LNJ,Lincang,2620N 11521E,23.8797,100.0945,Asia/Shanghai,2013-03-31
 Luxi Apt/Dehong,CN,YN,CNLUM,LUM,Mangshi,,24.4533,98.5704,Asia/Shanghai,2012-01-18
 Lhasa Gongga Apt,CN,XZ,CNLXA,LXA,Lhasa,,29.6500,91.1000,Asia/Shanghai,2017-07-21
@@ -2324,7 +2324,7 @@ Nanning Wuxu International Apt,CN,GX,CNNNG,NNG,Nanning,,22.8167,108.3167,Asia/Sh
 Nantong Pt,CN,JS,CNNTG,NTG,Nantong,3201N 12051E,32.0303,120.8747,Asia/Shanghai,2014-10-08
 Manzhouli Xijiao Apt,CN,NM,CNNZH,NZH,Manzhouli,,49.6000,117.4333,Asia/Shanghai,2012-01-18
 Beijing Shoudu International Apt,CN,BJ,CNPEK,PEK,Beijing Capital International Airport,,40.0801,116.5846,Asia/Shanghai,2019-02-06
-Daxing,CN,BJ,CNPKX,PKX,Beijing Daxing International Airport,3930N 11625E,39.5100,116.4098,Asia/Shanghai,2019-03-08
+Daxing,CN,BJ,CNPKX,PKX,Beijing Daxing International Airport,3930N 11625E,39.5100,116.4098,Asia/Shanghai,2020-10-29
 Shanghai Pudong International Apt,CN,SH,CNPVG,PVG,Shanghai Pudong International Airport,,31.1434,121.8052,Asia/Shanghai,2014-07-29
 Panzhihua Apt,CN,SC,CNPZI,PZI,Panzhihua,,26.5851,101.7128,Asia/Shanghai,2013-03-31
 Rikaze,CN,XZ,CNRKZ,RKZ,Rikaze,,29.2500,88.8833,Asia/Shanghai,2014-05-29
@@ -2413,10 +2413,10 @@ Zhuhai Pt,CN,GD,CNZUH,ZUH,Zhuhai,2217N 11334E,22.2769,113.5678,Asia/Shanghai,202
 Zhutan,CN,32,CNZUT,ZUT,Tengchong Airport,3146N 12024E,24.9393,98.4837,Asia/Shanghai,2018-12-06
 Zhuyang,CN,CQ,CNZUY,ZUY,Yibin Caiba Airport,,28.8014,104.5516,Asia/Shanghai,2019-12-09
 Zunyi Xinzhou Apt,CN,GZ,CNZYI,ZYI,Zunyi,,27.6867,106.9072,Asia/Shanghai,2012-01-18
-Acandi,CO,ANT,COACD,ACD,Acandi,0832N 07714W,8.5116,-77.2772,America/Bogota,2020-06-11
-Aguaclara,CO,NAR,COACL,ACL,Aguaclara,0143N 07847W,4.7482,-72.9977,America/Bogota,2016-01-28
+Acandi,CO,ANT,COACD,ACD,Acandi,0832N 07714W,8.5116,-77.2772,America/Bogota,2020-10-25
+Aguaclara,CO,NAR,COACL,ACL,Aguaclara,0143N 07847W,4.7482,-72.9977,America/Bogota,2020-10-25
 Arica,CO,,COACM,ACM,Puerto Arica,0207S 07144W,-2.1485,-71.7548,America/Bogota,2016-01-30
-Araracuara,CO,MET,COACR,ACR,Aracuara,0410N 07258W,-0.6070,-72.3892,America/Bogota,2016-01-28
+Araracuara,CO,MET,COACR,ACR,Aracuara,0410N 07258W,-0.6070,-72.3892,America/Bogota,2020-10-25
 Andes,CO,ANT,COADN,ADN,Andes,0539N 07552W,5.6561,-75.8788,America/Bogota,2016-01-30
 San Andres Island,CO,,COADZ,ADZ,San Andres,,12.5832,-81.7064,America/Bogota,2018-08-08
 Amalfi,CO,ANT,COAFI,AFI,Amalfi,0655N 07504W,6.9102,-75.0776,America/Bogota,2018-06-08
@@ -2759,7 +2759,7 @@ Juist,DE,NI,DEJUI,JUI,Juist,5341N 00700E,53.6779,6.9958,Europe/Berlin,2017-04-26
 Kiel,DE,SH,DEKEL,KEL,Kiel / Holtenau Civilian,5420N 01008E,54.3795,10.1452,Europe/Berlin,2015-09-04
 Krausnick,DE,BB,DEKGS,KGS,Kooperative Gesamtschule Schneverdingen,5202N 01350E,53.1208,9.8005,Europe/Berlin,2016-12-07
 Kaiserslautern,DE,RP,DEKLT,KLT,Kaiserslautern,,49.4430,7.7716,Europe/Berlin,2017-08-02
-Karlsdorf,DE,TH,DEKSF,KSF,Kassel,5048N 01148E,51.3167,9.5000,Europe/Berlin,2019-09-05
+Karlsdorf,DE,TH,DEKSF,KSF,Kassel Calden Airport,5048N 01148E,51.4084,9.3776,Europe/Berlin,2015-09-05
 Küstriner Vorland,DE,BB,DEKTV,KTV,Kroepeliner-Tor-Vorstadt,5234N 01437E,54.0885,12.1154,Europe/Berlin,2014-07-19
 Kötzting,DE,BY,DEKZG,KZG,Kitzingen,4910N 01251E,49.7397,10.1507,Europe/Berlin,2014-01-15
 Lübeck,DE,SH,DELBC,LBC,Luebeck Airport,,53.8054,10.7192,Europe/Berlin,2019-05-01
@@ -2835,7 +2835,6 @@ Morschheim,DE,RP,DEZCE,ZCE,Berchtesgaden,4941N 00801E,47.6324,13.0019,Europe/Ber
 Carlsberg,DE,RP,DEZCG,ZCG,Bergisch Gladbach,4930N 00802E,50.9856,7.1330,Europe/Berlin,2018-03-09
 Schillingsfürst (Ansbach),DE,BY,DEZCH,ZCH,Bergkamen,4917N 01016E,51.6163,7.6445,Europe/Berlin,2015-09-05
 Mörnsheim,DE,BY,DEZCI,ZCI,Bocholt,4853N 01100E,51.8388,6.6153,Europe/Berlin,2015-09-04
-Neuhofen,DE,RP,DEZCM,ZCM,Castrop-Rauxel,4925N 00825E,51.5566,7.3116,Europe/Berlin,2015-09-04
 Clausen,DE,RP,DEZCN,ZCN,Celle,4916N 00741E,52.6226,10.0805,Europe/Berlin,2019-09-05
 Niederkumbd,DE,RP,DEZCR,ZCR,Dachau,5001N 00732E,48.2600,11.4340,Europe/Berlin,2018-09-12
 Neuenkirchen/Cuxhaven,DE,NI,DEZCS,ZCS,Darmstadt,5346N 00854E,49.8717,8.6503,Europe/Berlin,2019-09-05
@@ -2887,6 +2886,7 @@ Obock,DJ,,DJOBC,OBC,Obock Airport,1158N 04315E,11.9670,43.2670,Africa/Djibouti,2
 Tadjoura,DJ,,DJTDJ,TDJ,Tadjoura Airport,1146N 04254E,11.7830,42.9170,Africa/Djibouti,2019-03-08
 Aalborg,DK,,DKAAL,AAL,Aalborg,,57.0480,9.9187,Europe/Copenhagen,2019-09-05
 Aarhus,DK,82,DKAAR,AAR,Tirstrup,5609N 01013E,56.3029,10.6942,Europe/Copenhagen,2012-07-01
+Arre,DK,,DKARR,ARR,Arhus,5534N 00840E,56.1567,10.2108,Europe/Copenhagen,2020-10-25
 Billund,DK,,DKBLL,BLL,Billund,,55.7335,9.1078,Europe/Copenhagen,2017-10-18
 Sindal,DK,,DKCNL,CNL,Sindal,5727N 01012E,57.4712,10.2031,Europe/Copenhagen,2017-10-18
 København,DK,84,DKCPH,CPH,Copenhagen,5540N 01235E,55.6759,12.5655,Europe/Copenhagen,2012-11-26
@@ -2910,8 +2910,8 @@ Punta Cana Apt,DO,,DOPUJ,PUJ,Punta Cana International Airport,1834N 06821W,18.56
 Santo Domingo,DO,01,DOSDQ,SDQ,Santo Domingo,1828N 06954W,18.4719,-69.8923,America/Santo_Domingo,2020-02-22
 San Juan de la Maguana,DO,,DOSJM,SJM,San Juan de la Maguana,1848N 07113W,18.8059,-71.2299,America/Santo_Domingo,2016-06-05
 Sabana de la Mar,DO,,DOSNX,SNX,Sabana de la Mar,1904N 06923W,19.0593,-69.3884,America/Santo_Domingo,2018-11-03
-Santiago de los Caballeros,DO,,DOSTI,STI,Santiago de los Caballeros,,19.4517,-70.6970,America/Santo_Domingo,2016-06-05
-Annaba (ex Bone),DZ,,DZAAE,AAE,Rabah Bitat Annaba Airport,,36.8289,7.8128,Africa/Algiers,2014-05-29
+Santiago de los Caballeros,DO,,DOSTI,STI,Santiago de los Caballeros,,19.4517,-70.6970,America/Santo_Domingo,2020-10-23
+Annaba (ex Bone),DZ,,DZAAE,AAE,Rabah Bitat Annaba Airport,,36.8289,7.8128,Africa/Algiers,2020-10-25
 Alger (Algiers),DZ,16,DZALG,ALG,Algiers,3645N 00303E,36.7323,3.0875,Africa/Algiers,2019-09-05
 Adrar,DZ,01,DZAZR,AZR,Touat-Cheikh Sidi Mohamed Belkebir Airport,2752N 00017W,27.8376,-0.1864,Africa/Algiers,2016-01-30
 Bejaia (ex Bougie),DZ,,DZBJA,BJA,Bejaia,,36.7559,5.0843,Africa/Algiers,2020-06-11
@@ -2950,7 +2950,7 @@ Maghnia,DZ,13,DZQMG,QMG,Maghnia,3451N 00143W,34.8497,-1.7275,Africa/Algiers,2012
 Mohammadia,DZ,29,DZQMW,QMW,Mohammadia,3535N 00041E,35.5886,0.0686,Africa/Algiers,2012-01-19
 Souk Ahras,DZ,41,DZQSK,QSK,Souk Ahras,3617N 00757E,36.2864,7.9511,Africa/Algiers,2018-08-08
 Relizane,DZ,48,DZQZN,QZN,Relizane,3545N 00037E,35.7373,0.5560,Africa/Algiers,2018-08-08
-Skikda (ex Philippeville),DZ,,DZSKI,SKI,Skikda,,36.8762,6.9092,Africa/Algiers,2020-03-22
+Skikda (ex Philippeville),DZ,,DZSKI,SKI,Skikda,,36.8762,6.9092,Africa/Algiers,2020-10-24
 Tbessa,DZ,,DZTEE,TEE,Tebessa,,35.4042,8.1242,Africa/Algiers,2020-06-11
 Touggourt,DZ,30,DZTGR,TGR,Touggourt,,33.1053,6.0580,Africa/Algiers,2012-01-19
 Tiaret,DZ,,DZTID,TID,Tiaret,3528N 00121E,35.3710,1.3170,Africa/Algiers,2018-08-08
@@ -2962,7 +2962,7 @@ Illizi,DZ,33,DZVVZ,VVZ,Takhamalt Airport,2628N 00828E,26.7235,8.6227,Africa/Algi
 Bou Kadir,DZ,02,DZZAB,ZAB,Boukadir,3604N 00107E,36.0663,1.1260,Africa/Algiers,2013-10-27
 El Eulma,DZ,19,DZZAE,ZAE,El Eulma,3609N 00541E,36.1528,5.6902,Africa/Algiers,2012-01-19
 Berriane,DZ,,DZZBI,ZBI,Berriane,3250N 00346E,32.8265,3.7669,Africa/Algiers,2012-05-06
-Azazga,DZ,15,DZZZA,ZZA,Azazga,3645N 00422E,36.7447,4.3722,Africa/Algiers,2012-01-19
+Azazga,DZ,15,DZZZA,ZZA,Azazga,3645N 00422E,36.7447,4.3722,Africa/Algiers,2020-10-07
 Barika,DZ,05,DZZZB,ZZB,Barika,3523N 00523E,35.3890,5.3658,Africa/Algiers,2019-09-07
 Ambato,EC,,ECATF,ATF,Ambato,,-1.2491,-78.6167,America/Guayaquil,2017-02-07
 Bahía de Caráquez,EC,M,ECBHA,BHA,Los Perales Airport,0033S 08030W,-0.6060,-80.4040,America/Guayaquil,2017-02-04
@@ -3042,7 +3042,7 @@ Barcelona,ES,,ESBCN,BCN,Barcelona-El Prat Airport,,41.2971,2.0785,Europe/Madrid,
 Bilbao,ES,BI,ESBIO,BIO,Bilbao,4315N 00258W,43.2627,-2.9253,Europe/Madrid,2019-09-05
 Badajoz,ES,,ESBJZ,BJZ,Badajoz,,38.8779,-6.9706,Europe/Madrid,2019-03-29
 Carballo,ES,,ESCBA,CBA,Cordoba Bus Station,4313N 00841W,37.8891,-4.7915,Europe/Madrid,2015-12-05
-Cornellà del Terri,ES,GI,ESCDT,CDT,Castello de la Plana,4205N 00249E,39.9857,-0.0493,Europe/Madrid,2016-05-11
+Cornellà del Terri,ES,GI,ESCDT,CDT,Castello de la Plana,4205N 00249E,39.9857,-0.0493,Europe/Madrid,2020-10-14
 Canaleja,ES,AB,ESCEJ,CEJ,Cuenca,3842N 00233W,40.0667,-2.1333,Europe/Madrid,2019-09-05
 La Calera,ES,,ESCER,CER,Centre d'Estudis i Recursos Culturals - CERC,,41.3843,2.1664,Europe/Madrid,2019-09-25
 Chapela,ES,PO,ESCHA,CHA,Conquista de Toledo,4216N 00839W,39.8576,-4.0218,Europe/Madrid,2014-09-17
@@ -3256,7 +3256,7 @@ Agen,FR,47,FRAGF,AGF,Agen,4412N 00037E,44.2020,0.6206,Europe/Paris,2020-01-08
 L'Alpe-d'Huez,FR,38,FRAHZ,AHZ,L'Alpe-d'Huez,4506N 00604E,45.0928,6.0699,Europe/Paris,2020-01-08
 Alixan,FR,26,FRAIX,AIX,Aix les Bains Bus Station,4458N 00502E,45.6888,5.9094,Europe/Paris,2019-01-18
 Ajaccio,FR,2A,FRAJA,AJA,Ajaccio,4156N 00844E,41.9189,8.7381,Europe/Paris,2019-09-05
-Angers,FR,49,FRANE,ANE,Angers,4728N 00033W,47.4738,-0.5477,Europe/Paris,2019-09-05
+Angers,FR,49,FRANE,ANE,Angers,4728N 00033W,47.4716,-0.5520,Europe/Paris,2020-10-14
 Angoulême,FR,16,FRANG,ANG,Angouleme,4539N 00010E,45.6500,0.1535,Europe/Paris,2019-10-09
 Amoncourt,FR,70,FRAOC,AOC,Bandol,4744N 00604E,43.1425,5.7472,Europe/Paris,2019-08-07
 Avezac-Prat-Lahitte,FR,65,FRAPH,APH,Hopital Bichat - Claude Bernard,4304N 00020E,48.8991,2.3310,Europe/Paris,2016-02-18
@@ -3286,7 +3286,7 @@ Clichy,FR,92,FRCCH,CCH,Hopital Cochin,4854N 00218E,48.8371,2.3397,Europe/Paris,2
 Charles-de-Gaulle Apt/Paris,FR,93,FRCDG,CDG,Paris Charles de Gaulle Airport,,49.0128,2.5500,Europe/Paris,2018-04-05
 Cannes,FR,06,FRCEQ,CEQ,Cannes,4333N 00701E,43.5513,7.0127,Europe/Paris,2019-09-05
 Cherbourg-en-Cotentin,FR,50,FRCER,CER,Maupertus-sur-Mer,4938N 00137W,49.6570,-1.4838,Europe/Paris,2016-02-18
-Cholet,FR,49,FRCET,CET,Cholet,4704N 00053W,47.0590,-0.8795,Europe/Paris,2019-04-10
+Cholet,FR,49,FRCET,CET,Cholet,4704N 00053W,47.0589,-0.8797,Europe/Paris,2020-10-14
 Clermont-Ferrand,FR,63,FRCFE,CFE,Clermont-Ferrand,4546N 00305E,45.7797,3.0868,Europe/Paris,2019-09-05
 Caen,FR,14,FRCFR,CFR,Caen,4911N 00022W,49.1859,-0.3591,Europe/Paris,2019-09-05
 Chartres,FR,28,FRCHA,CHA,Gare de Chantenay,4827N 00129E,47.2000,-1.6167,Europe/Paris,2019-03-28
@@ -3309,7 +3309,7 @@ Dieppe,FR,76,FRDPE,DPE,Dieppe,4955N 00105E,49.9216,1.0777,Europe/Paris,2019-04-1
 Les Deux Alpes,FR,38,FRDXA,DXA,Les Deux Alpes,,45.0116,6.1255,Europe/Paris,2016-02-18
 Saint-Étienne,FR,42,FREBU,EBU,Saint-Etienne,4526N 00424E,45.4339,4.3900,Europe/Paris,2019-02-26
 Éclaron-Braucourt-Sainte-Livière,FR,52,FREBV,EBV,St-Etienne Bus Station,4835N 00452E,45.4426,4.4017,Europe/Paris,2018-10-13
-La Roche-sur-Yon,FR,85,FREDM,EDM,La Roche-sur-Yon,4640N 00126W,46.6667,-1.4333,Europe/Paris,2018-02-06
+La Roche-sur-Yon,FR,85,FREDM,EDM,La Roche-sur-Yon,4640N 00126W,46.6697,-1.4276,Europe/Paris,2020-10-14
 Bergerac,FR,24,FREGC,EGC,Bergerac,4451N 00029E,44.8516,0.4817,Europe/Paris,2019-11-06
 Nancy,FR,54,FRENC,ENC,Nancy-Essey Airport,4842N 00611E,48.6921,6.2305,Europe/Paris,2016-02-21
 Épinal,FR,88,FREPL,EPL,Mirecourt,4811N 00627E,48.3009,6.1328,Europe/Paris,2016-02-21
@@ -3337,7 +3337,7 @@ Lourdes,FR,65,FRLDE,LDE,Tarbes-Lourdes-Pyrenees Airport,4306N 00003W,43.1787,-0.
 Landivisiau,FR,29,FRLDV,LDV,Landivisiau,4831N 00404W,48.5091,-4.0691,Europe/Paris,2020-06-10
 Le Havre,FR,76,FRLEH,LEH,Le Havre - Octeville Airport,4930N 00006E,49.5339,0.0881,Europe/Paris,2018-07-13
 La Ferté-Saint-Aubin,FR,45,FRLFA,LFA,Le Touquet - Cote d'Opale Airport,4743N 00156E,50.5174,1.6206,Europe/Paris,2016-02-18
-La Ferté-Bernard,FR,72,FRLFB,LFB,Agen-la-Garenne,4811N 00040E,44.1747,0.5906,Europe/Paris,2016-02-18
+La Ferté-Bernard,FR,72,FRLFB,LFB,Agen-la-Garenne,4811N 00040E,44.1747,0.5906,Europe/Paris,2020-10-25
 La Ferté Macé,FR,61,FRLFC,LFC,Saint-Girons - Antichan,4835N 00021W,43.0078,1.1032,Europe/Paris,2016-02-18
 La Forest-Landerneau,FR,29,FRLFD,LFD,Aeroport Auch - Gers,4826N 00419W,43.6878,0.6017,Europe/Paris,2017-11-05
 Loge-Fougereuse,FR,85,FRLFE,LFE,Pouilly-Maconge,4637N 00042W,47.2210,4.5610,Europe/Paris,2016-12-10
@@ -3367,7 +3367,7 @@ La Réole,FR,33,FRLRB,LRB,Hopital Lariboisiere,4435N 00002W,48.8822,2.3528,Europ
 La Rochelle,FR,17,FRLRH,LRH,La Rochelle,4610N 00109W,46.1631,-1.1522,Europe/Paris,2019-11-06
 Lorient,FR,56,FRLRT,LRT,Lorient,4745N 00322W,47.7482,-3.3718,Europe/Paris,2020-07-09
 Les Mées,FR,04,FRLSM,LSM,Gare de La Seyne-Tamaris,4402N 00558E,43.1167,5.8667,Europe/Paris,2016-02-18
-Les Sables-d'Olonne,FR,85,FRLSO,LSO,Les Sables-d'Olonne,4630N 00147W,46.4965,-1.7847,Europe/Paris,2019-12-16
+Les Sables-d'Olonne,FR,85,FRLSO,LSO,Les Sables-d'Olonne,4630N 00147W,46.4969,-1.7847,Europe/Paris,2020-10-14
 La Roche-Bernard,FR,56,FRLSZ,LSZ,EuroAirport Basel-Mulhouse-Freiburg,4731N 00218W,47.5896,7.5299,Europe/Paris,2020-03-15
 Le Touquet-Paris-Plage,FR,62,FRLTQ,LTQ,Le Touquet-Paris-Plage,5031N 00135E,50.5243,1.5857,Europe/Paris,2016-02-18
 Le Trait,FR,76,FRLTT,LTT,La Mole,4929N 00048E,43.2073,6.4673,Europe/Paris,2019-08-07
@@ -3441,7 +3441,7 @@ Saint-Brieuc,FR,22,FRSBK,SBK,Saint-Brieuc,4831N 00247W,48.5151,-2.7684,Europe/Pa
 Saint-Crépin,FR,05,FRSCP,SCP,Mont-Dauphin,4442N 00636E,44.6684,6.6223,Europe/Paris,2016-02-18
 Serre-Chevalier,FR,05,FRSEC,SEC,Serre Chevalier,4456N 00635E,44.9400,6.5600,Europe/Paris,2016-02-18
 Sammeron,FR,77,FRSKO,SKO,UNESCO,4857N 00305E,48.8501,2.3063,Europe/Paris,2016-02-18
-Saint-Nazaire,FR,44,FRSNR,SNR,Saint-Nazaire,4717N 00212W,47.2796,-2.2099,Europe/Paris,2019-04-10
+Saint-Nazaire,FR,44,FRSNR,SNR,Saint-Nazaire,4717N 00212W,47.2751,-2.2179,Europe/Paris,2020-09-10
 Solenzara,FR,2A,FRSOZ,SOZ,Solenzara Air Base,4151N 00924E,41.9244,9.4060,Europe/Paris,2016-02-18
 Surgères,FR,17,FRSUG,SUG,Le Masnau,4606N 00045W,43.7777,2.5520,Europe/Paris,2020-05-07
 Strasbourg,FR,67,FRSXB,SXB,Strasbourg,4834N 00745E,48.5839,7.7455,Europe/Paris,2019-09-05
@@ -3522,7 +3522,7 @@ Saint-Louis-lès-Bitche,FR,57,FRXSL,XSL,Sarlat,4859N 00721E,45.4041,1.8268,Europ
 Sarrancolin,FR,65,FRXSN,XSN,Sallanches,4258N 00022E,45.9442,6.6316,Europe/Paris,2017-10-31
 Fleury-la-Forêt,FR,27,FRXSQ,XSQ,Selestat,4925N 00133E,48.2619,7.4489,Europe/Paris,2020-06-10
 Larroque-sur-l'Osse,FR,32,FRXSS,XSS,Soissons,,49.3817,3.3236,Europe/Paris,2016-02-18
-Gournay-sur-Marne,FR,93,FRXSU,XSU,Saumur,4852N 00235E,47.2591,-0.0780,Europe/Paris,2019-09-05
+Gournay-sur-Marne,FR,93,FRXSU,XSU,Saumur,4852N 00235E,47.2593,-0.0781,Europe/Paris,2020-10-14
 Vonges,FR,21,FRXSW,XSW,Sedan,4718N 00524E,49.7019,4.9403,Europe/Paris,2019-04-10
 Le Saix,FR,05,FRXSX,XSX,Seclin,4429N 00550E,50.5487,3.0273,Europe/Paris,2016-02-18
 Fontes,FR,34,FRXTE,XTE,Latour-de-Carol,4332N 00323E,42.4649,1.8900,Europe/Paris,2016-02-18
@@ -4500,7 +4500,7 @@ Holmfirth,GB,KIR,GBHLR,HLR,Hall Road Railway Station,5333N 00146W,53.4980,-3.051
 Houghton le Spring,GB,SND,GBHLS,HLS,Hilsea Railway Station,5451N 00128W,50.8282,-1.0589,Europe/London,2009-08-13
 Hunslet/Leeds,GB,LDS,GBHLU,HLU,Helensburgh Upper Railway Station,5347N 00132W,56.0120,-4.7300,Europe/London,2010-05-25
 Halewood,GB,KWL,GBHLW,HLW,Hillington West Railway Station,5322N 00249W,55.8559,-4.3708,Europe/London,2010-05-25
-Holyhead,GB,GWN,GBHLY,HLY,Holyhead,,53.3062,-4.6321,Europe/London,2017-06-12
+Holyhead,GB,GWN,GBHLY,HLY,Holyhead,,53.3062,-4.6321,Europe/London,2020-10-24
 Holmewood,GB,DBY,GBHMD,HMD,Hampden Park Railway Station,5311N 00121W,50.7962,0.2795,Europe/London,2010-05-24
 Holme,GB,CMA,GBHME,HME,Hamble Railway Station,5411N 00243W,50.8713,-1.3287,Europe/London,2018-07-03
 Hambleton,GB,NYK,GBHML,HML,Boxmoor,5346N 00110W,51.7420,-0.4910,Europe/London,2010-08-03
@@ -5101,7 +5101,7 @@ Poyntington,GB,DOR,GBPYG,PYG,Paisley Gilmour Street Railway Station,5059N 00230W
 Pyle,GB,BGE,GBPYL,PYL,Pyle Railway Station,5131N 00341W,51.5260,-3.6980,Europe/London,2016-06-22
 Lasham,GB,HAM,GBQLA,QLA,Lasham,5110N 00102W,51.1777,-1.0350,Europe/London,2018-07-03
 Queenborough,GB,KEN,GBQUB,QUB,Queen's University Belfast,,54.5844,-5.9344,Europe/London,2016-12-04
-Goodwood Airport,GB,WSX,GBQUG,QUG,Chichester,5051N 00045W,50.8367,-0.7800,Europe/London,2017-06-12
+Goodwood Airport,GB,WSX,GBQUG,QUG,Chichester,5051N 00045W,50.8367,-0.7800,Europe/London,2020-09-14
 Wyton,GB,CAM,GBQUY,QUY,Wyton Royal Air Force Base,5220N 00007W,52.3572,-0.1078,Europe/London,2018-07-03
 Radley,GB,OXF,GBRAD,RAD,Radley Railway Station,5141N 00114W,51.6860,-1.2400,Europe/London,2018-07-03
 Rawmarsh,GB,ROT,GBRAM,RAM,Royal Albert Memorial Museum and Art Gallery,5327N 00120W,50.7246,-3.5316,Europe/London,2010-05-24
@@ -5716,11 +5716,11 @@ Yarm,GB,STT,GBYRM,YRM,Yarm Railway Station,5430N 00121W,54.4939,-1.3516,Europe/L
 Darsham,GB,SFK,GBZBB,ZBB,Barbican Underground Station,5216N 00132E,51.5202,-0.0978,Europe/London,2010-05-25
 Selly Oak,GB,BIR,GBZCW,ZCW,Canada Water Underground Station,5226N 00157W,51.4980,-0.0497,Europe/London,2010-05-25
 Zeals,GB,WIL,GBZLS,ZLS,Liverpool Street Railway Station,5106N 00219W,51.5186,-0.0813,Europe/London,2015-06-02
-Carriacou Apt,GD,,GDCRU,CRU,Carriacou Island,1228N 06128W,12.4733,-61.4543,America/Grenada,2017-04-27
+Carriacou Apt,GD,,GDCRU,CRU,Carriacou Island,1228N 06128W,12.4733,-61.4543,America/Grenada,2020-10-13
 Grenada,GD,,GDGND,GND,Maurice Bishop International Airport,,12.0042,-61.7861,America/Grenada,2013-11-21
 Batumi,GE,,GEBUS,BUS,Batumi,,41.6423,41.6339,Asia/Tbilisi,2019-02-26
 Kutaisi,GE,,GEKUT,KUT,Kutaisi,,42.2679,42.6946,Asia/Tbilisi,2014-11-02
-Sokhumi,GE,SZ,GESUI,SUI,Sokhumi,4300N 04101E,43.0070,40.9893,Asia/Tbilisi,2014-03-15
+Sokhumi,GE,SZ,GESUI,SUI,Sokhumi,4300N 04101E,43.0070,40.9893,Asia/Tbilisi,2020-10-11
 Tbilisi,GE,TB,GETBS,TBS,Tbilisi,4143N 04447E,41.6941,44.8337,Asia/Tbilisi,2019-12-03
 Cayenne,GF,,GFCAY,CAY,Cayenne-Rochambeau,0456N 05220W,4.8198,-52.3605,America/Cayenne,2016-06-22
 Maripasoula,GF,,GFMPY,MPY,Maripasoula,0338N 05402W,3.6416,-54.0317,America/Cayenne,2015-08-07
@@ -5729,15 +5729,15 @@ Kourou,GF,,GFQKR,QKR,Kourou,0509N 05238W,5.1628,-52.6427,America/Cayenne,2019-02
 Regina,GF,,GFREI,REI,Regina,0419N 05208W,4.3130,-52.1308,America/Cayenne,2017-07-08
 Saul,GF,,GFXAU,XAU,Saul,0337N 05313W,3.6231,-53.2092,America/Cayenne,2017-01-22
 Grootfontein,,,GFY,GFY,Grootfontein,,-19.5667,18.1167,Africa/Windhoek,2014-08-19
-Alderney,GG,,GGACI,ACI,Alderney,4941N 00212W,49.7167,-2.2000,Europe/Guernsey,2015-03-14
+Alderney,GG,,GGACI,ACI,Alderney,4941N 00212W,49.7167,-2.2000,Europe/Guernsey,2020-10-25
 Guernsey,GG,,GGGCI,GCI,Saint Peter Port,4926N 00235W,49.4598,-2.5353,Europe/Guernsey,2019-09-05
-Accra,GH,,GHACC,ACC,Kotoka International Airport,,5.6052,-0.1668,Africa/Accra,2019-12-05
+Accra,GH,,GHACC,ACC,Kotoka International Airport,,5.6052,-0.1668,Africa/Accra,2020-10-25
 Kumasi,GH,,GHKMS,KMS,Kumasi,,6.6885,-1.6244,Africa/Accra,2019-12-06
 Sunyani,GH,,GHNYI,NYI,Sunyani,,7.3399,-2.3268,Africa/Accra,2019-12-08
 Takoradi,GH,,GHTKD,TKD,Takoradi,,4.8982,-1.7603,Africa/Accra,2019-12-06
 Tamale,GH,,GHTML,TML,Tamale,,9.4008,-0.8393,Africa/Accra,2019-12-06
 Gibraltar,GI,,GIGIB,GIB,Gibraltar,,36.1447,-5.3526,Europe/Gibraltar,2019-11-18
-Tasiilaq,GL,,GLAGM,AGM,Tasiilaq Heliport,6536N 03738W,65.6123,-37.6183,America/Godthab,2013-04-21
+Tasiilaq,GL,,GLAGM,AGM,Tasiilaq Heliport,6536N 03738W,65.6123,-37.6183,America/Godthab,2020-10-25
 Neerlerit Inaat,GL,,GLCNP,CNP,Jameson Land,,71.1667,-23.5000,America/Scoresbysund,2013-12-25
 Dundas,GL,,GLDUN,DUN,Thule Air Base,,76.5312,-68.7032,America/Thule,2017-10-05
 Nuuk (Godthaab),GL,,GLGOH,GOH,Nuuk Airport,6411N 05145W,64.1909,-51.6781,America/Godthab,2020-03-01
@@ -5763,7 +5763,7 @@ Illorqortoormiut (Scoresbysund),GL,,GLOBY,OBY,Ittoqqortoormiit,,70.4846,-21.9622
 Kangaamiut,GL,,GLQKT,QKT,Kangaamiut,6550N 05320W,65.8250,-53.3428,America/Godthab,2017-08-02
 Kangaatsiaq,GL,,GLQPW,QPW,Kangaatsiaq,6818N 05328W,68.3065,-53.4641,America/Godthab,2011-02-16
 Qullissat,GL,,GLQUE,QUE,Qullissat,,70.0833,-53.0167,America/Godthab,2012-01-18
-Kangerlussuaq (Sondre Stromfjord,GL,,GLSFJ,SFJ,Kangerlussuaq,,67.0088,-50.6894,America/Godthab,2014-08-20
+Kangerlussuaq (Sondre Stromfjord,GL,,GLSFJ,SFJ,Kangerlussuaq,,67.0088,-50.6894,America/Godthab,2020-10-24
 Pituffik,GL,,GLTHU,THU,Pituffik,,76.5450,-68.7870,America/Thule,2019-01-04
 Narsarsuaq,GL,,GLUAK,UAK,Narsarsuaq Airport,,61.1605,-45.4260,America/Godthab,2018-04-07
 Uummannaq,GL,,GLUMD,UMD,Uummannaq,,70.6744,-52.1255,America/Godthab,2018-04-05
@@ -5871,7 +5871,7 @@ Los Tablones,GT,CM,GTLOX,LOX,Los Tablones,1445N 09047W,14.9649,-90.1620,America/
 Melchor de Mencos,GT,,GTMCR,MCR,Melchor de Mencos,1704N 08909W,17.0661,-89.1523,America/Guatemala,2013-12-15
 Puerto Barrios,GT,,GTPBR,PBR,Puerto Barrios,,15.7278,-88.5944,America/Guatemala,2020-07-12
 Paso Caballos,GT,,GTPCG,PCG,Paso Caballos,,17.2610,-90.2367,America/Guatemala,2013-12-15
-Playa Grande,GT,QC,GTPKJ,PKJ,Playa Grande,1555N 09044W,15.9333,-90.7333,America/Guatemala,2015-02-06
+Playa Grande,GT,QC,GTPKJ,PKJ,Playa Grande,1555N 09044W,15.9855,-90.7729,America/Guatemala,2020-10-14
 Poptún,GT,,GTPON,PON,Poptun,1620N 08925W,16.3311,-89.4169,America/Guatemala,2020-06-10
 Rubelsanto,GT,,GTRUV,RUV,Rubelsanto Airport,,15.9920,-90.4453,America/Guatemala,2020-07-12
 Tikal,GT,,GTTKM,TKM,Tikal,,17.2253,-89.6117,America/Guatemala,2020-07-12
@@ -5894,7 +5894,7 @@ Karanambo,GY,,GYKRM,KRM,Karanambo,,3.7500,-59.3000,America/Guyana,2018-12-01
 Kato,GY,,GYKTO,KTO,Kato Village,,4.6667,-59.8167,America/Guyana,2017-06-22
 Lethem,GY,,GYLTM,LTM,Lethem,,3.3833,-59.8000,America/Guyana,2013-06-27
 Lumid Pau,GY,,GYLUB,LUB,Lumidpau,,2.4000,-59.4833,America/Guyana,2017-09-05
-Mahdia,GY,,GYMHA,MHA,Mahdia,,5.2667,-59.1500,America/Guyana,2013-08-11
+Mahdia,GY,,GYMHA,MHA,Mahdia,,5.2667,-59.1500,America/Guyana,2020-09-22
 Matthews Ridge,GY,,GYMWJ,MWJ,Matthews Ridge,,7.4943,-60.1507,America/Guyana,2015-09-06
 Monkey Mountain,GY,,GYMYM,MYM,Monkey Mountain,,4.4833,-59.6833,America/Guyana,2012-05-06
 Annai,GY,,GYNAI,NAI,Annai,,3.9500,-59.1333,America/Guyana,2012-01-18
@@ -5963,7 +5963,7 @@ Miskolc,HU,,HUMCQ,MCQ,Miskolc,,48.1031,20.7781,Europe/Budapest,2019-11-06
 Sármellék,HU,ZA,HUSOB,SOB,Sarmellek,4643N 01710E,46.7122,17.1686,Europe/Budapest,2013-03-30
 Apalapsili,ID,,IDAAS,AAS,Apalapsili Airport,0355S 13915E,-3.8850,139.3110,Asia/Jayapura,2019-12-11
 Atambua,ID,,IDABU,ABU,Atambua,,-9.1061,124.8925,Asia/Makassar,2016-01-07
-Aekgodang,ID,SB,IDAEG,AEG,Aekgadang,0048N 09934E,1.4081,99.4248,Asia/Jakarta,2013-09-05
+Aekgodang,ID,SB,IDAEG,AEG,Aekgadang,0048N 09934E,1.4081,99.4248,Asia/Jakarta,2020-10-25
 Anggi,ID,,IDAGD,AGD,Anggi Airport,0123S 13352E,-1.3833,133.8670,Asia/Jayapura,2014-05-19
 Amahai,ID,,IDAHI,AHI,Amahai,,-3.3398,128.9197,Asia/Jayapura,2013-05-19
 Mataram,ID,,IDAMI,AMI,Mataram,,-8.5833,116.1167,Asia/Makassar,2014-07-16
@@ -6080,7 +6080,7 @@ Pondok Cabe,ID,,IDPCB,PCB,Pondok Cabe Air Base,,-6.3370,106.7650,Asia/Jakarta,20
 Padang,ID,SB,IDPDG,PDG,Tabing Airport,0057S 10021E,-0.8750,100.3519,Asia/Jakarta,2013-04-21
 Pendopo,ID,,IDPDO,PDO,Pendopo Airport,,-3.2861,103.8800,Asia/Jakarta,2011-03-16
 Pangkalpinang", Banka,ID,,IDPGK,PGK,Pangkalpinang,,-2.1291,106.1138,Asia/Jakarta,2013-05-09
-Pasar Kemis,ID,JB,IDPKM,PKM,Sialangrimbun PKMT,0610S 10631E,1.1302,101.3304,Asia/Jakarta,2013-09-11
+Pasar Kemis,ID,JB,IDPKM,PKM,Sialang Rimbun PKMT,0610S 10631E,1.1302,101.3304,Asia/Jakarta,2020-10-16
 Pangkalanbuun,ID,,IDPKN,PKN,Pangkalanbuun,,-2.6832,111.6259,Asia/Pontianak,2018-04-25
 Pekanbaru", Sumatra,ID,,IDPKU,PKU,Pekanbaru,,0.5167,101.4417,Asia/Jakarta,2016-04-10
 Palangkaraya,ID,,IDPKY,PKY,Palangkaraya,,-2.2083,113.9167,Asia/Pontianak,2017-11-11
@@ -6107,7 +6107,7 @@ Sabang", Sumatra,ID,,IDSBG,SBG,Sabang,,5.8897,95.3164,Asia/Jakarta,2019-09-05
 Senggeh,ID,,IDSEH,SEH,Senggeh Airport,,-3.4333,140.8170,Asia/Jayapura,2011-03-18
 Sungai Pakning", Sumatra,ID,,IDSEQ,SEQ,Bengkalis,,1.4667,102.1333,Asia/Jakarta,2017-03-23
 Sanggata,ID,,IDSGQ,SGQ,Sanggata Airport,,0.5000,117.3334,Asia/Makassar,2011-03-18
-Siak Yechil", Riau,ID,,IDSIA,SIA,Sultan Aji Muhammad Sulaiman Airport,,-1.2683,116.8940,Asia/Makassar,2016-01-30
+Siak Yechil", Riau,ID,,IDSIA,SIA,Sultan Aji Muhammad Sulaiman Airport,,-1.2683,116.8940,Asia/Makassar,2020-10-04
 Singkep Isl Apt,ID,,IDSIQ,SIQ,Singkep Island,,-0.4936,104.4231,Asia/Jakarta,2018-04-24
 Sibisa,ID,,IDSIW,SIW,Parapat,,2.6630,98.9349,Asia/Jakarta,2016-10-18
 Semper,ID,JI,IDSMP,SMP,Sekolah Menengah Pertama Blok,0607S 10655E,-6.9172,107.4950,Asia/Jakarta,2012-01-20
@@ -6560,7 +6560,7 @@ Jalgaon,IN,MH,INJAL,JAL,Jawali,,25.4625,73.3965,Asia/Kolkata,2018-04-22
 Jalna,IN,MH,INJAN,JAN,Jarangdih,1950N 07553E,23.7702,85.9307,Asia/Kolkata,2018-05-09
 Jafarabad,IN,GJ,INJBD,JBD,Jalalabad,2051N 07122E,30.6077,74.2685,Asia/Kolkata,2018-04-22
 Jadcheria,IN,AP,INJCH,JCH,Janjgir-Champa,1645N 07808E,21.9000,82.7000,Asia/Kolkata,2018-05-26
-Jodhpur,IN,RJ,INJDH,JDH,Jodhpur,2615N 07302E,26.2684,73.0059,Asia/Kolkata,2014-10-14
+Jodhpur,IN,RJ,INJDH,JDH,Jodhpur,2615N 07302E,26.2684,73.0059,Asia/Kolkata,2020-10-24
 Jamnagar,IN,,INJGA,JGA,Jamnagar,,22.4729,70.0667,Asia/Kolkata,2016-12-11
 Jagdalpur,IN,,INJGB,JGB,Jagdalpur,,19.0814,82.0213,Asia/Kolkata,2015-09-06
 Jaigad,IN,MH,INJGD,JGD,Jagadishpur,,24.2729,86.5249,Asia/Kolkata,2018-05-09
@@ -6977,7 +6977,7 @@ Satara,IN,MH,INSTA,STA,Satna Railroad Station,,24.5678,80.8290,Asia/Kolkata,2018
 Satna,IN,MP,INSTN,STN,Sitarampur,2435N 08050E,23.7239,86.8965,Asia/Kolkata,2018-04-22
 Satpati,IN,MH,INSTP,STP,Sitafal Mandi Railroad Station,,17.4277,78.5201,Asia/Kolkata,2018-04-23
 Sutarkandi,IN,AS,INSTR,STR,South Tripura,,23.1671,91.6095,Asia/Kolkata,2018-07-13
-Surat,IN,GJ,INSTV,STV,Surat,2110N 07250E,21.1959,72.8302,Asia/Kolkata,2020-04-04
+Surat,IN,GJ,INSTV,STV,Surat,2110N 07250E,21.1959,72.8302,Asia/Kolkata,2020-10-24
 Sonepur,IN,OR,INSUB,SUB,Hubli South,2051N 08350E,15.3326,75.1764,Asia/Kolkata,2018-04-22
 Sunam,IN,PB,INSUM,SUM,Summit,3008N 07548E,20.2112,74.3428,Asia/Kolkata,2018-04-23
 Sivakasi,IN,TN,INSVK,SVK,Savar Kundla,0927N 07749E,21.3362,71.3150,Asia/Kolkata,2018-05-09
@@ -7021,7 +7021,7 @@ Thiruvananthapuram (ex Trivandrum),IN,KL,INTRV,TRV,Thiruvananthapuram,0829N 0765
 Tiruchirapalli,IN,TN,INTRZ,TRZ,Tiruchirappalli,,10.8155,78.6965,Asia/Kolkata,2014-10-14
 HVCPL SEZ/KADAYAM,IN,TN,INTSI,TSI,Tenkasi Jn,0842N 07728E,8.9640,77.3073,Asia/Kolkata,2018-04-23
 Tuna,IN,GJ,INTUN,TUN,Tohana Railroad Station,,29.7269,75.9036,Asia/Kolkata,2018-04-22
-Tuticorin,IN,TN,INTUT,TUT,Thoothukkudi,0847N 07808E,8.8375,77.9630,Asia/Kolkata,2018-05-27
+Tuticorin,IN,TN,INTUT,TUT,Thoothukkudi,0847N 07808E,8.8375,77.9630,Asia/Kolkata,2020-10-24
 Kinfraa-SEZ/Thiruvananthapuram,IN,KL,INTVC,TVC,Trivandrum Central,0829N 07655E,8.4864,76.9517,Asia/Kolkata,2018-04-23
 Tiruvannamalai,IN,TN,INTVI,TVI,Taradevi Railroad Station,1213N 07904E,31.0775,77.1402,Asia/Kolkata,2018-04-22
 Thiruvarur,IN,TN,INTVR,TVR,Thiruvarur Jn,1308N 07954E,10.7644,79.6339,Asia/Kolkata,2018-04-23
@@ -7066,8 +7066,8 @@ Zero (Ziro),IN,AP,INZER,ZER,Ziro,2738N 09350E,27.5950,93.8385,Asia/Kolkata,2016-
 Baghdåd,IQ,BG,IQBGW,BGW,Baghdad International Airport,3320N 04423E,33.2585,44.2328,Asia/Baghdad,2015-04-24
 Bamerny,IQ,,IQBMN,BMN,Bamarni,3706N 04316E,37.1216,43.2709,Asia/Baghdad,2020-06-10
 Basra,IQ,BA,IQBSR,BSR,Basrah,,30.5085,47.7804,Asia/Baghdad,2015-11-29
-Erbil International Apt,IQ,,IQEBL,EBL,Erbil International Airport,3614N 04357E,36.2376,43.9632,Asia/Baghdad,2016-06-22
-Sulaymaniyah International Airport,IQ,SU,IQISU,ISU,As Sulaymaniyah,3533N 04518E,35.5650,45.4329,Asia/Baghdad,2020-08-24
+Erbil International Apt,IQ,,IQEBL,EBL,Erbil International Airport,3614N 04357E,36.2376,43.9632,Asia/Baghdad,2020-10-15
+Sulaymaniyah International Airport,IQ,SU,IQISU,ISU,As Sulaymaniyah,3533N 04518E,35.5650,45.4329,Asia/Baghdad,2020-09-30
 Kirkuk,IQ,,IQKIK,KIK,Kirkuk,,35.4681,44.3922,Asia/Baghdad,2016-06-22
 Najaf,IQ,,IQNJF,NJF,Najaf,3159N 04418E,32.0259,44.3462,Asia/Baghdad,2016-06-22
 Mosul (Ak Mawsil),IQ,NI,IQOSM,OSM,Mosul,3610N 04235E,36.3350,43.1189,Asia/Baghdad,2019-02-26
@@ -7290,7 +7290,7 @@ Negril,JM,,JMNEG,NEG,Negril,,18.2684,-78.3481,America/Jamaica,2019-09-05
 Ocho Rios,JM,,JMOCJ,OCJ,Ocho Rios,,18.4076,-77.1031,America/Jamaica,2019-08-08
 Port Antonio,JM,,JMPOT,POT,Port Antonio,,18.1761,-76.4509,America/Jamaica,2017-03-14
 Amman,JO,,JOAMM,AMM,Amman,,31.9552,35.9450,Asia/Amman,2019-09-05
-Al 'Aqabah,JO,,JOAQJ,AQJ,King Hussein International Airport,2932N 03500E,29.6116,35.0181,Asia/Amman,2014-02-02
+Al 'Aqabah,JO,,JOAQJ,AQJ,King Hussein International Airport,2932N 03500E,29.6116,35.0181,Asia/Amman,2020-10-23
 Ma'an,JO,,JOMPQ,MPQ,Ma'an,3012N 03544E,30.1962,35.7341,Asia/Amman,2014-02-02
 Mafruq,JO,,JOOMF,OMF,King Hussein Air Base,3220N 03614E,32.3563,36.2592,Asia/Amman,2014-02-02
 Aguni,JP,47,JPAGJ,AGJ,Aguni Jima,,26.5886,127.2264,Asia/Tokyo,2020-06-29
@@ -7443,7 +7443,7 @@ Wilson Apt/Nairobi,KE,,KEWIL,WIL,Nairobi Wilson Airport,,-1.3217,36.8148,Africa/
 Wajir,KE,,KEWJR,WJR,Wajir,,1.7332,40.0916,Africa/Nairobi,2007-01-03
 Bishkek (ex Frunze),KG,GB,KGFRU,FRU,Bishkek,4252N 07436E,42.8700,74.5900,Asia/Bishkek,2019-09-05
 Osh,KG,,KGOSS,OSS,Osh,,40.5283,72.7985,Asia/Bishkek,2019-09-05
-Battambang,KH,,KHBBM,BBM,Battambang Airport,,13.0957,103.2246,Asia/Phnom_Penh,2016-12-27
+Battambang,KH,,KHBBM,BBM,Battambang Airport,,13.0957,103.2246,Asia/Phnom_Penh,2020-10-25
 Koh Kong,KH,,KHKKZ,KKZ,Koh Kong,,11.6153,102.9838,Asia/Phnom_Penh,2017-02-11
 Kampot,KH,,KHKMT,KMT,Kampot Airport,,10.6333,104.1670,Asia/Phnom_Penh,2014-04-20
 Kâmpóng Saôm,KH,,KHKOS,KOS,Sihanoukville,1036N 10331E,10.6093,103.5296,Asia/Phnom_Penh,2019-02-26
@@ -7456,8 +7456,8 @@ Phnom Penh,KH,,KHPNH,PNH,Phnom Penh International Airport,,11.5466,104.8441,Asia
 Ratanakiri,KH,,KHRBE,RBE,Ratanakiri,,13.8333,107.1167,Asia/Phnom_Penh,2017-02-11
 Siem Reap,KH,,KHREP,REP,Siem Reap International Airport,,13.4107,103.8128,Asia/Phnom_Penh,2013-12-15
 Stung Treng,KH,,KHTNX,TNX,Stung Treng Airport,,13.5319,106.0150,Asia/Phnom_Penh,2011-03-16
-Aranuka,KI,,KIAAK,AAK,Aranuka Island,,0.1643,173.6103,Pacific/Tarawa,2017-04-24
-Abaiang,KI,,KIABF,ABF,Abaiang Atoll,,1.8529,172.9437,Pacific/Tarawa,2017-04-23
+Aranuka,KI,,KIAAK,AAK,Aranuka Island,,0.1643,173.6103,Pacific/Tarawa,2020-10-25
+Abaiang,KI,,KIABF,ABF,Abaiang Atoll,,1.8529,172.9437,Pacific/Tarawa,2020-10-25
 Abemama,KI,,KIAEA,AEA,Abemama,,0.4000,173.8667,Pacific/Tarawa,2016-12-17
 Arorae Island,KI,,KIAIS,AIS,Arorae Atoll,,-2.6394,176.8260,Pacific/Tarawa,2020-06-03
 Butaritari,KI,,KIBBG,BBG,Butaritari Atoll,,3.1649,172.7919,Pacific/Tarawa,2013-05-16
@@ -7576,7 +7576,7 @@ Batticoloa,LK,,LKBTC,BTC,Batticaloa,,7.7102,81.6924,Asia/Colombo,2019-09-05
 Colombo,LK,11,LKCMB,CMB,Colombo,0655N 07951E,6.9355,79.8487,Asia/Colombo,2019-09-05
 Dambulu Oya Tank Apt,LK,,LKDBU,DBU,Dambulla,0751N 08039E,7.8600,80.6517,Asia/Colombo,2019-09-05
 Dickwella Mawella Lagoon Apt,LK,,LKDIW,DIW,Dikwella,0658N 08100E,5.9716,80.6954,Asia/Colombo,2019-09-26
-Gal Oya,LK,,LKGOY,GOY,Ampara Airport,,7.3371,81.6259,Asia/Colombo,2018-12-17
+Gal Oya,LK,,LKGOY,GOY,Ampara Airport,,7.3371,81.6259,Asia/Colombo,2020-10-25
 Hingurakgoda,LK,,LKHIM,HIM,Hingurakgoda,0801N 08057E,8.0333,80.9500,Asia/Colombo,2018-12-17
 Jaffna,LK,,LKJAF,JAF,Jaffna,,9.6684,80.0074,Asia/Colombo,2019-09-05
 Koggala,LK,,LKKCT,KCT,Koggala,0559N 08020E,5.9886,80.3286,Asia/Colombo,2019-09-25
@@ -7649,7 +7649,7 @@ Sert,LY,,LYSRX,SRX,Sirte,,31.2089,16.5887,Africa/Tripoli,2019-09-05
 Tripoli,LY,,LYTIP,TIP,Tripoli International Airport,,32.6635,13.1590,Africa/Tripoli,2016-11-29
 Tobruk,LY,,LYTOB,TOB,Tobruk,,32.0896,23.9538,Africa/Tripoli,2019-09-05
 Zwara,LY,,LYWAX,WAX,Zuwarah,,32.9312,12.0820,Africa/Tripoli,2020-03-07
-Agadir,MA,,MAAGA,AGA,Agadir-Al Massira Airport,,30.3250,-9.4131,Africa/Casablanca,2018-12-17
+Agadir,MA,,MAAGA,AGA,Agadir-Al Massira Airport,,30.3250,-9.4131,Africa/Casablanca,2020-10-25
 Al Hoceïma,MA,,MAAHU,AHU,Al Hoceima,3515N 00356W,35.2516,-3.9372,Africa/Casablanca,2016-11-03
 Beni Mellal,MA,,MABEM,BEM,Beni Mellal Airport,,32.3973,-6.3239,Africa/Casablanca,2017-02-03
 Benguerir,MA,KES,MABEN,BEN,Bni Oulichek,3214N 00757W,35.0626,-3.4486,Africa/Casablanca,2017-10-04
@@ -7889,7 +7889,7 @@ Blantyre,MW,,MWBLZ,BLZ,Chileka International Airport,,-15.6791,34.9740,Africa/Bl
 Chelinda,MW,,MWCEH,CEH,Chelinda,1035S 03348E,-10.5817,33.8083,Africa/Blantyre,2013-12-15
 Club Makokola,MW,,MWCMK,CMK,Club Makokola Airport,1418S 03508E,-14.3069,35.1325,Africa/Blantyre,2018-02-27
 Dwangwa,MW,,MWDWA,DWA,Dwangwa,1234S 03809E,-12.5667,34.1500,Africa/Blantyre,2012-05-05
-Kasungu,MW,,MWKBQ,KBQ,Kasungu,1302S 03326E,-13.0333,33.4833,Africa/Blantyre,2011-04-25
+Kasungu,MW,,MWKBQ,KBQ,Kasungu Airport,1302S 03326E,-13.0146,33.4686,Africa/Blantyre,2018-02-27
 Karonga,MW,,MWKGJ,KGJ,Karonga Airport,,-9.9536,33.8930,Africa/Blantyre,2018-02-27
 Likoma,MW,,MWLIX,LIX,Likoma Island,1204S 03444E,-12.0661,34.7307,Africa/Blantyre,2013-12-15
 Lilongwe,MW,,MWLLW,LLW,Lilongwe,,-13.9669,33.7873,Africa/Blantyre,2019-09-05
@@ -7909,6 +7909,7 @@ Apazapan,MX,VER,MXAZP,AZP,Atizapan-Jimenez Cantu Airport,1919N 09643W,19.5738,-9
 Bahia Angeles,MX,,MXBHL,BHL,Bahia de los Angeles,,28.9475,-113.5599,America/Tijuana,2018-11-03
 Canatlan,MX,DUR,MXCAN,CAN,Camara Nacional de Comercio,2431N 10446W,20.9472,-97.3843,America/Mexico_City,2016-10-09
 Chapa De Mota,MX,MEX,MXCDM,CDM,Ciudad de Mexico,1948N 09931W,19.2833,-99.1333,America/Mexico_City,2020-06-09
+Cuetzalan del Progreso,MX,PUE,MXCDP,CDP,CDP,2002N 09731W,28.7044,-106.0933,America/Chihuahua,2020-10-17
 Cedros,MX,BCN,MXCED,CED,Centro Distrital de Reinsersion Social (CEDIR),2807N 11510W,25.0767,-105.4314,America/Monterrey,2014-04-11
 Ciudad Obregon,MX,SON,MXCEN,CEN,Ciudad Obregon,2729N 10956W,27.4864,-109.9408,America/Hermosillo,2020-06-10
 Celestun,MX,YUC,MXCET,CET,Fraccionamiento el Capulin (CETIS Veintisiete),2052N 09024W,19.4756,-102.0736,America/Mexico_City,2014-04-11
@@ -8010,7 +8011,7 @@ Santa Rosalia,MX,BCS,MXSRL,SRL,Santa Rosalia,,27.3405,-112.2676,America/Mazatlan
 Santiago Tulantepec,MX,HID,MXSTU,STU,Sindicato de Trabajadores de la Universidad Nacional Autonoma de Mexico Culhuacan,2002N 09821W,19.3212,-99.1022,America/Mexico_City,2017-06-08
 San Cristóbal de las Casas,MX,,MXSZT,SZT,San Cristobal de las Casas,,16.7318,-92.6413,America/Mexico_City,2020-06-10
 Chiltepec,MX,TAB,MXTAB,TAB,Estado de Tabasco,1825N 09305W,18.0000,-92.6667,America/Merida,2012-06-06
-Tampico,MX,TAM,MXTAM,TAM,Tampico,2215N 09752W,22.2852,-97.8778,America/Monterrey,2019-09-05
+Tampico,MX,TAM,MXTAM,TAM,Tampico,2215N 09752W,22.2852,-97.8778,America/Monterrey,2020-10-24
 Tapachula,MX,CHP,MXTAP,TAP,Tapachula International Airport,1447N 09222W,14.7943,-92.3700,America/Merida,2015-06-22
 Tehuacán,MX,,MXTCN,TCN,Tehuacan,1827N 09723W,18.4642,-97.3974,America/Mexico_City,2018-11-03
 Teloloapan,MX,GRO,MXTEL,TEL,Area Federal Complejo de Telefonia,1821N 09952W,19.3697,-99.0617,America/Mexico_City,2017-06-08
@@ -8149,7 +8150,7 @@ Arlit,NE,,NERLT,RLT,Arlit,,18.7369,7.3853,Africa/Niamey,2013-10-06
 Tahoua,NE,,NETHZ,THZ,Tahoua Airport,,14.8757,5.2654,Africa/Niamey,2011-03-28
 Zinder,NE,,NEZND,ZND,Zinder Airport,,13.7790,8.9838,Africa/Niamey,2018-11-28
 Norfolk Island,NF,,NFNLK,NLK,Norfolk Island,,-29.0333,167.9500,Pacific/Norfolk,2017-07-01
-Abuja,NG,,NGABV,ABV,Nnamdi Azikiwe International Airport,,9.0066,7.2642,Africa/Lagos,2016-01-30
+Abuja,NG,,NGABV,ABV,Nnamdi Azikiwe International Airport,,9.0066,7.2642,Africa/Lagos,2020-10-25
 Akure,NG,,NGAKR,AKR,Akure,,7.2526,5.1931,Africa/Lagos,2016-01-30
 Benin City,NG,,NGBNI,BNI,Benin City,,6.3167,5.6000,Africa/Lagos,2016-01-30
 Calabar,NG,,NGCBQ,CBQ,Calabar,,4.9760,8.3472,Africa/Lagos,2016-01-30
@@ -8349,7 +8350,7 @@ Thames,NZ,WKO,NZTMZ,TMZ,Thames,3708S 17532E,-37.1383,175.5401,Pacific/Auckland,2
 Tauranga,NZ,BOP,NZTRG,TRG,Tauranga,3741S 17610E,-37.6861,176.1667,Pacific/Auckland,2020-07-25
 Taupo,NZ,WKO,NZTUO,TUO,Taupo,,-38.6833,176.0833,Pacific/Auckland,2017-09-15
 Twizel,NZ,CAN,NZTWZ,TWZ,Pukaki Airport,4415S 01706E,-44.2404,170.1188,Pacific/Auckland,2014-05-19
-Wanganui,NZ,MWT,NZWAG,WAG,Wanganui,3956S 17459E,-39.9333,175.0500,Pacific/Auckland,2011-08-01
+Wanganui,NZ,MWT,NZWAG,WAG,Whanganui,3956S 17459E,-39.9333,175.0500,Pacific/Auckland,2020-10-28
 Whakatane,NZ,BOP,NZWHK,WHK,Whakatane Airport,,-37.9182,176.9102,Pacific/Auckland,2006-03-04
 Franz Josef,NZ,WTC,NZWHO,WHO,Franz Josef,4324S 17011E,-43.3890,170.1819,Pacific/Auckland,2011-08-01
 Surfdale,NZ,AUK,NZWIK,WIK,Surfdale,3647S 17500E,-36.7911,175.0257,Pacific/Auckland,2011-08-01
@@ -8379,43 +8380,43 @@ Thumrait,OM,,OMTTH,TTH,RAFO Thumrait Airbase,,17.6660,54.0246,Asia/Muscat,2013-0
 Ondangwa,,,OND,OND,Ondangwa,,-17.9167,15.9500,Africa/Windhoek,2012-01-17
 Opuwa,,,OPW,OPW,Opuwo,,-18.0607,13.8400,Africa/Windhoek,2017-06-14
 Otjiwarongo,,,OTJ,OTJ,Otjiwarongo,,-20.4637,16.6477,Africa/Windhoek,2016-12-20
-Achutupo,PA,,PAACU,ACU,Achutupo Airport,,9.1877,-77.9940,America/Panama,2017-06-07
-Ailigandi,PA,,PAAIL,AIL,Ailigandi,,9.2281,-78.0278,America/Panama,2013-11-24
-Puerto Armuelles,PA,4,PAAML,AML,Puerto Armuelles,,8.2777,-82.8621,America/Panama,2017-08-16
-Bahía Piña,PA,5,PABFQ,BFQ,Puerto Pina,0734N 07812W,7.5830,-78.1778,America/Panama,2017-08-16
+Achutupo,PA,,PAACU,ACU,Achutupo Airport,,9.1877,-77.9940,America/Panama,2020-10-25
+Ailigandi,PA,,PAAIL,AIL,Ailigandi,,9.2281,-78.0278,America/Panama,2020-10-21
+Puerto Armuelles,PA,4,PAAML,AML,Puerto Armuelles,,8.2777,-82.8621,America/Panama,2020-10-21
+Bahía Piña,PA,5,PABFQ,BFQ,Puerto Pina,0734N 07812W,7.5830,-78.1778,America/Panama,2020-10-21
 Balboa,PA,,PABLB,BLB,Panama Pacific International Airport,,8.9192,-79.5997,America/Panama,2016-12-05
-Bocas del Toro,PA,1,PABOC,BOC,Bocas del Toro,0920N 08214W,9.3403,-82.2420,America/Panama,2019-09-05
+Bocas del Toro,PA,1,PABOC,BOC,Bocas del Toro,0920N 08214W,9.3403,-82.2420,America/Panama,2020-10-21
 Caledonia,PA,,PACDE,CDE,Caledonia,,8.2333,-77.3333,America/Panama,2016-03-06
-Changuinola,PA,1,PACHX,CHX,Changuinola,,9.4300,-82.5200,America/Panama,2018-01-14
-Chitre,PA,6,PACTD,CTD,Chitre,0758N 08026W,7.9608,-80.4294,America/Panama,2018-01-03
+Changuinola,PA,1,PACHX,CHX,Changuinola,,9.4300,-82.5200,America/Panama,2020-10-21
+Chitre,PA,6,PACTD,CTD,Chitre,0758N 08026W,7.9608,-80.4294,America/Panama,2020-10-21
 Cartí Tupile,PA,,PACTE,CTE,Carti Islands,0929N 07858W,9.4750,-78.9625,America/Panama,2017-05-27
-Corazón de Jesús,PA,KY,PACZJ,CZJ,Corazon de Jesus,0927N 07835W,9.4456,-78.5828,America/Panama,2013-12-25
-David,PA,,PADAV,DAV,David,,8.4273,-82.4309,America/Panama,2017-08-16
-El Real,PA,,PAELE,ELE,El Real de Santa Maria,,8.1300,-77.7100,America/Panama,2014-11-29
-Garachiné,PA,5,PAGHE,GHE,Garachine,0804N 07822W,8.0668,-78.3644,America/Panama,2017-08-16
-Jaqué,PA,,PAJQE,JQE,Jaque,0731N 07810W,7.5183,-78.1634,America/Panama,2017-08-16
-Mamitupo,PA,,PAMPI,MPI,Mamitupo Airport,,9.1854,-77.9841,America/Panama,2013-11-17
-Mulatupo,PA,,PAMPP,MPP,Mulatupo,,8.9467,-77.7508,America/Panama,2013-12-07
+Corazón de Jesús,PA,KY,PACZJ,CZJ,Corazon de Jesus,0927N 07835W,9.4456,-78.5828,America/Panama,2020-10-21
+David,PA,,PADAV,DAV,David,,8.4273,-82.4309,America/Panama,2020-10-21
+El Real,PA,,PAELE,ELE,El Real de Santa Maria,,8.1300,-77.7100,America/Panama,2020-10-21
+Garachiné,PA,5,PAGHE,GHE,Garachine,0804N 07822W,8.0668,-78.3644,America/Panama,2020-10-21
+Jaqué,PA,,PAJQE,JQE,Jaque,0731N 07810W,7.5183,-78.1634,America/Panama,2020-10-21
+Mamitupo,PA,,PAMPI,MPI,Mamitupo Airport,,9.1854,-77.9841,America/Panama,2020-10-21
+Mulatupo,PA,,PAMPP,MPP,Mulatupo,,8.9467,-77.7508,America/Panama,2020-10-21
 Narganá,PA,,PANGN,NGN,Nargana,0927N 07835W,9.4439,-78.5867,America/Panama,2014-08-04
-Colón,PA,3,PAONX,ONX,Enrique Adolfo Jimenez Airport,0921N 07952W,9.3562,-79.8673,America/Panama,2013-05-10
-Contadora,PA,,PAOTD,OTD,Contadora Island,,8.6273,-79.0370,America/Panama,2018-11-13
-Marcos A. Gelabert International Apt/Panamá,PA,8,PAPAC,PAC,Albrook ""Marcos A. Gelabert"" International Airport,0858N 07932W,8.9733,-79.5556,America/Panama,2013-11-17
-La Palma,PA,5,PAPLP,PLP,La Palma,,8.4061,-78.1396,America/Panama,2017-08-16
-Panamá", Ciudad de,PA,8,PAPTY,PTY,Tocumen International Airport,0858N 07932W,9.0714,-79.3834,America/Panama,2013-04-06
-Puerto Obaldía,PA,KY,PAPUE,PUE,Puerto Obaldia,0840N 07725W,8.6663,-77.4192,America/Panama,2017-08-16
-El Porvenir,PA,4,PAPVE,PVE,El Porvenir,0816N 08251W,9.5528,-78.9523,America/Panama,2013-11-17
-Playón Chico,PA,,PAPYC,PYC,Playon Chico,0918N 07814W,9.3113,-78.2327,America/Panama,2018-01-13
-Yavisa,PA,,PAPYV,PYV,Yaviza,,8.1584,-77.6928,America/Panama,2017-08-16
-Scarlett Martinez Intl Apt/Rio Hato,PA,2,PARIH,RIH,Scarlett Martinez International Airport,0822N 08007W,8.3750,-80.1282,America/Panama,2014-08-19
+Colón,PA,3,PAONX,ONX,Enrique Adolfo Jimenez Airport,0921N 07952W,9.3562,-79.8673,America/Panama,2020-10-21
+Contadora,PA,,PAOTD,OTD,Contadora Island,,8.6273,-79.0370,America/Panama,2020-10-27
+Marcos A. Gelabert International Apt/Panamá,PA,8,PAPAC,PAC,Albrook ""Marcos A. Gelabert"" International Airport,0858N 07932W,8.9733,-79.5556,America/Panama,2020-10-21
+La Palma,PA,5,PAPLP,PLP,La Palma,,8.4061,-78.1396,America/Panama,2020-10-21
+Panamá", Ciudad de,PA,8,PAPTY,PTY,Tocumen International Airport,0858N 07932W,9.0714,-79.3834,America/Panama,2020-10-21
+Puerto Obaldía,PA,KY,PAPUE,PUE,Puerto Obaldia,0840N 07725W,8.6663,-77.4192,America/Panama,2020-10-21
+El Porvenir,PA,4,PAPVE,PVE,El Porvenir,0816N 08251W,9.5528,-78.9523,America/Panama,2020-10-21
+Playón Chico,PA,,PAPYC,PYC,Playon Chico,0918N 07814W,9.3113,-78.2327,America/Panama,2020-10-21
+Yavisa,PA,,PAPYV,PYV,Yaviza,,8.1584,-77.6928,America/Panama,2020-10-21
+Scarlett Martinez Intl Apt/Rio Hato,PA,2,PARIH,RIH,Scarlett Martinez International Airport,0822N 08007W,8.3750,-80.1282,America/Panama,2020-10-21
 Rio Tigre,PA,,PARIT,RIT,Rio Tigre,,9.2500,-78.5000,America/Panama,2017-08-30
 Río Azúcar,PA,KY,PARIZ,RIZ,Rio Alzucar,0926N 07838W,9.3833,-78.8000,America/Panama,2016-03-29
-Río Sidra,PA,,PARSI,RSI,Rio Sidra,0927N 07850W,9.4520,-78.8327,America/Panama,2017-09-02
+Río Sidra,PA,,PARSI,RSI,Rio Sidra,0927N 07850W,9.4520,-78.8327,America/Panama,2020-10-21
 Sambu,PA,5,PASAX,SAX,Sambu Airport,,8.0268,-78.2104,America/Panama,2013-11-24
-Santa Fe,PA,5,PASFW,SFW,Santa Fe,0822N 08006W,8.5106,-81.0780,America/Panama,2017-09-17
-Santiago,PA,,PASYP,SYP,Santiago de Veraguas,,8.1000,-80.9833,America/Panama,2017-07-10
-Ticantiquí,PA,KY,PATJC,TJC,Ticantiqui,0925N 07829W,9.4167,-78.4833,America/Panama,2020-06-11
+Santa Fe,PA,5,PASFW,SFW,Santa Fe,0822N 08006W,8.5106,-81.0780,America/Panama,2020-10-21
+Santiago,PA,,PASYP,SYP,Santiago de Veraguas,,8.1000,-80.9833,America/Panama,2020-10-21
+Ticantiquí,PA,KY,PATJC,TJC,Ticantiqui,0925N 07829W,9.4167,-78.4833,America/Panama,2020-10-21
 Tupile,PA,,PATUE,TUE,Tupile,,9.4407,-78.5667,America/Panama,2017-09-13
-Tubualá,PA,KY,PATUW,TUW,Tubuala,0931N 07902W,8.9210,-77.7239,America/Panama,2017-11-09
+Tubualá,PA,KY,PATUW,TUW,Tubuala,0931N 07902W,8.9210,-77.7239,America/Panama,2020-10-21
 Ustupo,PA,,PAUTU,UTU,Ustupu Islands,,9.1353,-77.9306,America/Panama,2016-05-15
 Alerta,PE,,PEALD,ALD,Alerta,,-11.6584,-69.2355,America/Lima,2020-05-13
 Andahuaylas,PE,,PEANS,ANS,Andahuaylas,,-13.6556,-73.3872,America/Lima,2018-01-16
@@ -8456,7 +8457,7 @@ Trujillo,PE,,PETRU,TRU,Trujillo,,-8.1160,-79.0300,America/Lima,2019-09-05
 Talara,PE,,PETYL,TYL,Talara,,-4.5772,-81.2719,America/Lima,2012-07-19
 Quince Mil,PE,CUS,PEUMI,UMI,Quince Mil,1314S 07046W,-13.2309,-70.7540,America/Lima,2017-02-05
 Yurimaguas,PE,,PEYMS,YMS,Yurimaguas,,-5.9018,-76.1223,America/Lima,2014-07-03
-Anaa,PF,,PFAAA,AAA,Anaa,1721S 14531W,-17.4167,-145.5000,Pacific/Tahiti,2019-02-10
+Anaa,PF,,PFAAA,AAA,Anaa,1721S 14531W,-17.4167,-145.5000,Pacific/Tahiti,2020-10-25
 Ahe,PF,,PFAHE,AHE,Ahe Atoll,1426S 14615W,-14.4806,-146.3028,Pacific/Tahiti,2020-06-03
 Apataki,PF,,PFAPK,APK,Apataki Atoll,1535S 14625W,-15.4333,-146.3333,Pacific/Tahiti,2013-11-02
 Atuona,PF,,PFAUQ,AUQ,Atuona,0948S 13902W,-9.8034,-139.0420,Pacific/Marquesas,2018-02-21
@@ -8499,8 +8500,8 @@ Ua Pou,PF,,PFUAP,UAP,Ua Pou Island,0921S 04005W,-9.3986,-140.0733,Pacific/Marque
 Vahitahi,PF,,PFVHZ,VHZ,Vahitahi Atoll,1847S 13851W,-18.7736,-138.8232,Pacific/Tahiti,2014-01-11
 Nanihi,PF,,PFXMH,XMH,Manihi Atoll,1426S 14604W,-14.4013,-145.9506,Pacific/Tahiti,2016-04-10
 Tureia,PF,,PFZTA,ZTA,Atoll Tureia,2047S 13834W,-20.8333,-138.5333,Pacific/Tahiti,2017-04-08
-Atkamba,PG,,PGABP,ABP,Atkamba Airport,,-6.0667,141.1000,Pacific/Port_Moresby,2013-06-09
-Abau,PG,,PGABW,ABW,Abau Airport,,-10.1797,148.7042,Pacific/Port_Moresby,2017-11-06
+Atkamba,PG,,PGABP,ABP,Atkamba Airport,,-6.0667,141.1000,Pacific/Port_Moresby,2020-10-25
+Abau,PG,,PGABW,ABW,Abau Airport,,-10.1797,148.7042,Pacific/Port_Moresby,2020-10-25
 Andakombe,PG,,PGADC,ADC,Andakombe,0708S 14544E,-7.1333,145.7333,Pacific/Port_Moresby,2012-02-28
 Aseki,PG,,PGAEK,AEK,Aseki,,-7.3517,146.1924,Pacific/Port_Moresby,2013-12-24
 Afore,PG,,PGAFR,AFR,Afore,,-9.1280,148.3907,Pacific/Port_Moresby,2013-12-24
@@ -8870,7 +8871,7 @@ Yellow River,PG,,PGXYR,XYR,Yellow River,,-3.8833,141.7830,Pacific/Port_Moresby,2
 Yenkis,PG,,PGYEQ,YEQ,Yenkis,,-5.1000,143.9170,Pacific/Port_Moresby,2017-10-28
 Yeva,PG,,PGYVD,YVD,Yeva,,-7.5500,146.1670,Pacific/Port_Moresby,2017-10-28
 Zenag,PG,,PGZEN,ZEN,Zenag,,-6.9478,146.6152,Pacific/Port_Moresby,2012-01-17
-Alah,PH,,PHAAV,AAV,Surallah,,6.3753,124.7452,Asia/Manila,2019-02-10
+Alah,PH,,PHAAV,AAV,Surallah,,6.3753,124.7452,Asia/Manila,2020-10-25
 Anakan/Masao,PH,,PHANA,ANA,Northern Manila District,,14.7342,121.0134,Asia/Manila,2016-12-20
 Baguio,PH,,PHBAG,BAG,Baguio,,16.4164,120.5931,Asia/Manila,2017-12-13
 Baras,PH,CAT,PHBAR,BAR,Bangsamoro Autonomous Region of Muslim Mindanao,1339N 12422E,5.9762,121.3868,Asia/Manila,2020-03-10
@@ -8945,7 +8946,7 @@ Tuguegarao,PH,,PHTUG,TUG,Tuguegarao,,17.6158,121.7228,Asia/Manila,2017-12-13
 Tawitawi,PH,,PHTWT,TWT,Sanga Sanga Airport,,5.0470,119.7430,Asia/Manila,2017-12-13
 Busuanga,PH,,PHUSU,USU,Busuanga,,12.1585,119.9178,Asia/Manila,2017-12-13
 Virac,PH,,PHVRC,VRC,Virac,,13.5848,124.2374,Asia/Manila,2017-12-13
-Naga/Zamboanga,PH,,PHWNP,WNP,Naga,,13.6192,123.1814,Asia/Manila,2017-12-13
+Naga/Zamboanga,PH,,PHWNP,WNP,Naga,,13.6192,123.1814,Asia/Manila,2020-10-27
 Coron,PH,,PHXCN,XCN,Coron,,11.9986,120.2043,Asia/Manila,2017-12-13
 Maramag,PH,,PHXMA,XMA,Maramag,,7.7633,125.0053,Asia/Manila,2017-12-13
 Siocon/Zamboanga,PH,,PHXSO,XSO,Siocon,,7.7061,122.1353,Asia/Manila,2017-12-13
@@ -9013,9 +9014,9 @@ Czestochowa,PL,,PLCZW,CZW,Czestochowa,,50.7965,19.1241,Europe/Warsaw,2019-09-05
 Nieporet,PL,14,PLEPR,EPR,Radom-Sadkow Airport,5226N 02103E,51.3901,21.2093,Europe/Warsaw,2013-08-05
 Gdansk,PL,,PLGDN,GDN,Gdansk Lech Walesa Airport,,54.3781,18.4682,Europe/Warsaw,2014-01-01
 Zielona Gora,PL,,PLIEG,IEG,Zielona Gora,,51.9355,15.5064,Europe/Warsaw,2019-09-05
-Krakow,PL,,PLKRK,KRK,Krakow,,50.0614,19.9366,Europe/Warsaw,2019-09-05
+Krakow,PL,,PLKRK,KRK,Krakow,,50.0614,19.9366,Europe/Warsaw,2020-09-18
 Katowice,PL,,PLKTW,KTW,Katowice,,50.2584,19.0275,Europe/Warsaw,2019-09-05
-Lódz Wladyslaw Reymont Apt,PL,10,PLLCJ,LCJ,Lodz Wladyslaw Reymont Airport,5143N 01924E,51.7167,19.4000,Europe/Warsaw,2018-08-22
+Lódz Wladyslaw Reymont Apt,PL,10,PLLCJ,LCJ,Lodz Wladyslaw Reymont Airport,5143N 01924E,51.7167,19.4000,Europe/Warsaw,2020-10-24
 Lipce Reymontowskie,PL,10,PLLIR,LIR,Lira,5153N 01956E,49.4231,20.9563,Europe/Warsaw,2015-04-06
 Lubiszyn,PL,08,PLLUZ,LUZ,Lublin Airport,5246N 01456E,51.2400,22.7133,Europe/Warsaw,2020-07-10
 Nowe Miasto nad Pilica,PL,14,PLNMP,NMP,Parafia Swietego Jozefa Oblubienca Najswietszej Maryi Panny (Jezow),5138N 02035E,51.8147,19.9707,Europe/Warsaw,2016-04-01
@@ -9095,7 +9096,7 @@ Chaves,PT,17,PTCHV,CHV,Chaves,4144N 00728W,41.7402,-7.4688,Europe/Lisbon,2018-04
 Covilhã,PT,05,PTCOV,COV,Covilha,4017N 00730W,40.2811,-7.5050,Europe/Lisbon,2018-01-25
 Corvo Island Apt,PT,20,PTCVU,CVU,Vila do Corvo,3942N 03106W,39.6732,-31.1118,Atlantic/Azores,2016-12-18
 Faro,PT,08,PTFAO,FAO,Faro,3701N 00756W,37.0187,-7.9272,Europe/Lisbon,2019-02-18
-Flores Island Apt,PT,20,PTFLW,FLW,Santa Cruz das Flores,3926N 03113W,39.4578,-31.1299,Atlantic/Azores,2018-02-27
+Flores Island Apt,PT,20,PTFLW,FLW,Santa Cruz das Flores,3926N 03113W,39.4578,-31.1299,Atlantic/Azores,2020-10-23
 Funchal", Madeira,PT,30,PTFNC,FNC,Funchal,3238N 01654W,32.6657,-16.9255,Atlantic/Madeira,2019-09-05
 Graciosa Island Apt,PT,20,PTGRW,GRW,Ilha Graciosa,3904N 02800W,39.0541,-28.0119,Atlantic/Azores,2018-06-08
 Horta,PT,20,PTHOR,HOR,Horta,3832N 02838W,38.5374,-28.6261,Atlantic/Azores,2019-09-05
@@ -9155,10 +9156,10 @@ Nis,RS,,RSINI,INI,Nis,4319N 02154E,43.3247,21.9033,Europe/Belgrade,2020-01-31
 Uzice,RS,,RSUZC,UZC,Uzice,4351N 01950E,43.8586,19.8488,Europe/Belgrade,2019-09-05
 Pozarevac,RS,,RSZZP,ZZP,Pozarevac,4436N 02110E,44.6213,21.1878,Europe/Belgrade,2019-09-05
 Anapa,RU,,RUAAQ,AAQ,Anapa,,44.8950,37.3162,Europe/Moscow,2019-10-28
-Abakan,RU,,RUABA,ABA,Abakan International Airport,5342N 09125E,53.7400,91.3850,Asia/Krasnoyarsk,2012-04-01
+Abakan,RU,,RUABA,ABA,Abakan International Airport,5342N 09125E,53.7400,91.3850,Asia/Krasnoyarsk,2020-10-25
 Achinsk,RU,,RUACS,ACS,Achinsk,,56.2694,90.4993,Asia/Krasnoyarsk,2019-09-05
 Aldan,RU,,RUADH,ADH,Aldan Airport,,58.6032,125.4073,Asia/Yakutsk,2019-12-11
-Sochi,RU,KDA,RUAER,AER,Sochi International Airport,4336N 03943E,43.4499,39.9566,Europe/Moscow,2018-11-28
+Sochi,RU,KDA,RUAER,AER,Sochi International Airport,4336N 03943E,43.4499,39.9566,Europe/Moscow,2020-10-25
 Akhtirski,RU,KDA,RUAKH,AKH,Gubakha-Passazhirskaja,4450N 03817E,58.8306,57.5302,Asia/Yekaterinburg,2010-08-22
 Amderma,RU,NEN,RUAMV,AMV,Amderma,6946N 06140E,69.7576,61.6655,Europe/Moscow,2017-08-12
 Apsheronsk,RU,KDA,RUAPS,APS,Obninsk Nuclear Power Plant,4427N 03943E,55.0842,36.5697,Europe/Moscow,2018-03-01
@@ -9214,7 +9215,7 @@ Kogalym,RU,,RUKGP,KGP,Kogalym,,62.2654,74.4791,Asia/Yekaterinburg,2019-09-05
 Kashin,RU,,RUKHN,KHN,Verkhnebakanskiy,5721N 03736E,44.8492,37.6572,Europe/Moscow,2013-06-23
 Khabarovsk,RU,,RUKHV,KHV,Khabarovsk,,48.4827,135.0838,Asia/Vladivostok,2019-09-05
 Kimry,RU,TVE,RUKIM,KIM,Kim,5653N 03722E,52.9218,40.9993,Europe/Moscow,2012-01-17
-Krasnojarsk,RU,,RUKJA,KJA,Krasnoyarsk,,56.0184,92.8672,Asia/Krasnoyarsk,2017-06-22
+Krasnojarsk,RU,,RUKJA,KJA,Krasnoyarsk,,56.0184,92.8672,Asia/Krasnoyarsk,2020-09-17
 Kaluga,RU,,RUKLF,KLF,Kaluga,5432N 03617E,54.5293,36.2754,Europe/Moscow,2019-09-05
 Kostroma,RU,,RUKMW,KMW,Kostroma,,57.7665,40.9269,Europe/Moscow,2019-09-05
 Kurgan,RU,KGN,RUKRO,KRO,Kurgan,5526N 06519E,55.4500,65.3333,Asia/Yekaterinburg,2019-09-05
@@ -9232,7 +9233,7 @@ Smolensk,RU,,RULNX,LNX,Smolensk,,54.7818,32.0401,Europe/Moscow,2019-09-05
 Lipetsk (Lipeck),RU,,RULPK,LPK,Lipetsk,,52.6031,39.5708,Europe/Moscow,2019-09-05
 Makhachkala,RU,,RUMCX,MCX,Makhachkala,4258N 04730E,42.9764,47.5024,Europe/Moscow,2016-11-23
 Mirnyj,RU,,RUMJZ,MJZ,Mirny,,62.5353,113.9611,Asia/Yakutsk,2019-09-05
-Murmansk,RU,,RUMMK,MMK,Murmansk,,68.9792,33.0925,Europe/Moscow,2020-07-03
+Murmansk,RU,,RUMMK,MMK,Murmansk,,68.9792,33.0925,Europe/Moscow,2020-09-25
 Moskva,RU,MOW,RUMOW,MOW,Moscow,5545N 03736E,55.7522,37.6156,Europe/Moscow,2020-03-31
 Magnitogorsk,RU,,RUMQF,MQF,Magnitogorsk,,53.4186,59.0472,Asia/Yekaterinburg,2019-09-05
 Mineralnye Vody,RU,,RUMRV,MRV,Mineralnye Vody,,44.2103,43.1353,Europe/Moscow,2019-10-03
@@ -9267,7 +9268,7 @@ Provideniya", Bukhta,RU,,RUPVS,PVS,Provideniya,6423N 17318W,64.4229,-173.2264,As
 Pevek,RU,,RUPWE,PWE,Pevek,,69.7029,170.2999,Asia/Anadyr,2019-09-05
 Polyarnyj,RU,,RUPYJ,PYJ,Udachny,,66.4299,112.4021,Asia/Yakutsk,2019-09-05
 Raduzhnyi,RU,,RURAT,RAT,Raduzhny,,62.0961,77.4750,Asia/Yekaterinburg,2019-09-05
-Orenburg,RU,,RUREN,REN,Orenburg,,51.7727,55.0988,Asia/Yekaterinburg,2019-09-05
+Orenburg,RU,,RUREN,REN,Orenburg,,51.7727,55.0988,Asia/Yekaterinburg,2020-10-15
 Rostov,RU,,RUROV,ROV,Rostov-na-Donu,,47.2313,39.7233,Europe/Moscow,2019-09-05
 Saratov,RU,,RURTW,RTW,Saratov,,51.5406,46.0086,Europe/Saratov,2019-09-05
 Rybinsk,RU,,RURYB,RYB,Rybinsk,,58.0446,38.8426,Europe/Moscow,2019-09-05
@@ -9493,7 +9494,7 @@ Lucenec,SK,,SKLUE,LUE,Lucenec,,48.3385,19.7345,Europe/Bratislava,2019-06-09
 Presov,SK,,SKPOV,POV,Presov,,48.9984,21.2339,Europe/Bratislava,2020-06-27
 Piestany,SK,,SKPZY,PZY,Piestany,,48.5948,17.8259,Europe/Bratislava,2019-09-05
 Sliac,SK,,SKSLD,SLD,Sliac,,48.6167,19.1371,Europe/Bratislava,2019-06-09
-Poprad/Tatry,SK,PV,SKTAT,TAT,Poprad,,49.0614,20.2980,Europe/Bratislava,2020-08-03
+Poprad/Tatry,SK,PV,SKTAT,TAT,Poprad,,49.0614,20.2980,Europe/Bratislava,2020-10-16
 Bonthe,SL,,SLBTE,BTE,Bonthe,,7.5264,-12.5050,Africa/Freetown,2014-08-19
 Freetown,SL,,SLFNA,FNA,Freetown-Lungi International Airport,,8.6164,-13.1955,Africa/Freetown,2013-05-01
 Gbangbatok,SL,,SLGBK,GBK,Gbangbatok,,7.8067,-12.3823,Africa/Freetown,2015-01-07
@@ -9538,7 +9539,7 @@ Kismayu,SO,,SOKMU,KMU,Kismayo,,-0.3582,42.5454,Africa/Mogadishu,2014-06-01
 Lugh Ganane,SO,,SOLGX,LGX,Lugh Ganane Airport,,3.8089,42.5459,Africa/Mogadishu,2014-11-02
 Las Khoreh,SO,,SOLKR,LKR,Las Khorey,,11.1595,48.1967,Africa/Mogadishu,2013-11-10
 Mogadishu,SO,,SOMGQ,MGQ,Mogadishu,,2.0371,45.3438,Africa/Mogadishu,2019-09-05
-Awaradam,SR,,SRAAJ,AAJ,Cayana Airstrip,,3.8979,-55.5789,America/Paramaribo,2013-05-08
+Awaradam,SR,,SRAAJ,AAJ,Cayana Airstrip,,3.8979,-55.5789,America/Paramaribo,2020-10-25
 Albina,SR,,SRABN,ABN,Albina,,5.4979,-54.0552,America/Paramaribo,2019-09-15
 Wageningen,SR,,SRAGI,AGI,Wageningen,,5.7601,-56.6652,America/Paramaribo,2015-08-07
 Botopasie,SR,,SRBTO,BTO,Botopasi Airport,,4.2180,-55.4464,America/Paramaribo,2014-05-16
@@ -9585,7 +9586,7 @@ South Caicos,TC,,TCXSC,XSC,South Caicos Island,,21.5077,-71.5205,America/Grand_T
 Terrace Bay,,,TCY,TCY,Terrace Bay,,-19.9800,13.0000,Africa/Windhoek,2017-10-28
 Abéché,TD,,TDAEH,AEH,Abeche,1349N 02049E,13.8292,20.8324,Africa/Ndjamena,2019-09-05
 Zakouma,TD,,TDAKM,AKM,Zakouma,,10.8910,19.8199,Africa/Ndjamena,2012-05-06
-Am Timan,TD,,TDAMC,AMC,Am Timan,,11.0433,20.2834,Africa/Ndjamena,2020-08-12
+Am Timan,TD,,TDAMC,AMC,Am-Timan,,11.0433,20.2834,Africa/Ndjamena,2020-09-10
 Mao,TD,,TDAMO,AMO,Mao,,14.1229,15.3119,Africa/Ndjamena,2020-08-12
 Abou-Deïa,TD,,TDAOD,AOD,Abou Deia,1127N 01917E,11.4480,19.2789,Africa/Ndjamena,2020-06-10
 Ati,TD,,TDATV,ATV,Ati,,13.2138,18.3393,Africa/Ndjamena,2020-08-12
@@ -9660,7 +9661,7 @@ Mary,TM,,TMMYP,MYP,Mary Airport,,37.6194,61.8967,Asia/Ashgabat,2011-03-16
 Tashauz,TM,,TMTAZ,TAZ,Dasoguz,,41.8362,59.9666,Asia/Ashgabat,2020-06-10
 Djerba,TN,,TNDJE,DJE,Djerba Island,,33.8000,10.9000,Africa/Tunis,2018-08-06
 El Borma,TN,,TNEBM,EBM,El Borma,,31.6917,9.2062,Africa/Tunis,2018-08-06
-Gabès,TN,,TNGAE,GAE,Gabes,3353N 01007E,33.8815,10.0982,Africa/Tunis,2020-06-10
+Gabès,TN,,TNGAE,GAE,Gabes,3353N 01007E,33.8815,10.0982,Africa/Tunis,2020-09-23
 Gafsa,TN,,TNGAF,GAF,Gafsa,,34.4250,8.7842,Africa/Tunis,2018-08-29
 Monastir,TN,,TNMIR,MIR,Monastir,,35.7780,10.8262,Africa/Tunis,2019-09-05
 Enfidha Hammamet Intl Apt,TN,51,TNNBE,NBE,Enfidha,3604N 01026E,36.1353,10.3808,Africa/Tunis,2018-08-05
@@ -9675,9 +9676,9 @@ Niuafo'ou,TO,,TONFO,NFO,Niuafo'ou,,-15.6097,-175.6081,Pacific/Tongatapu,2019-05-
 Niuatoputapu,TO,,TONTT,NTT,Niuatoputapu Island,,-15.9551,-173.7751,Pacific/Tongatapu,2013-05-09
 Nuku'alofa,TO,,TOTBU,TBU,Nuku'alofa,2108S 17512W,-21.1394,-175.2018,Pacific/Tongatapu,2020-06-10
 Vava'u,TO,,TOVAV,VAV,Vava`u Island,,-18.6138,-173.9530,Pacific/Tongatapu,2015-03-28
-Adana,TR,01,TRADA,ADA,Adana Sakirpasa Airport,,36.9822,35.2804,Europe/Istanbul,2014-08-17
+Adana,TR,01,TRADA,ADA,Adana Sakirpasa Airport,,36.9822,35.2804,Europe/Istanbul,2020-10-25
 Izmir Adnan Menderes International Airport,TR,35,TRADB,ADB,Izmir Adnan Menderes International Airport,3824N 02709E,38.2924,27.1569,Europe/Istanbul,2017-09-25
-Afyonkarahisar,TR,03,TRAFY,AFY,Afyon Airport,,38.7264,30.6011,Europe/Istanbul,2017-04-16
+Afyonkarahisar,TR,03,TRAFY,AFY,Afyon Airport,,38.7264,30.6011,Europe/Istanbul,2020-10-25
 Agri,TR,04,TRAJI,AJI,Agri,,39.7147,43.0401,Europe/Istanbul,2020-07-09
 Ankara,TR,06,TRANK,ANK,Ankara Etimesgut Air Base,,39.9498,32.6886,Europe/Istanbul,2014-03-09
 Kayseri,TR,38,TRASR,ASR,Kayseri Erkilet Airport,3843N 03528E,38.7704,35.4954,Europe/Istanbul,2016-02-12
@@ -9701,7 +9702,7 @@ Elazig,TR,23,TREZS,EZS,Elazig,,38.6743,39.2232,Europe/Istanbul,2020-06-10
 Gaziantep,TR,27,TRGZT,GZT,Gaziantep Oguzeli International Airport,,36.9472,37.4787,Europe/Istanbul,2016-02-12
 Igdir,TR,76,TRIGD,IGD,Igdir,,39.9237,44.0450,Europe/Istanbul,2013-05-16
 Isparta,TR,32,TRISE,ISE,Suleyman Demirel,,37.8554,30.3684,Europe/Istanbul,2007-01-03
-Istanbul New Airport,TR,34,TRISL,ISL,Istanbul Atatuerk Airport,4116N 02845E,40.9769,28.8146,Europe/Istanbul,2020-02-22
+Istanbul New Airport,TR,34,TRISL,ISL,Istanbul Atatuerk Airport,4116N 02845E,40.9769,28.8146,Europe/Istanbul,2020-10-25
 Istanbul,TR,34,TRIST,IST,Istanbul,4101N 02858E,41.0138,28.9497,Europe/Istanbul,2020-07-19
 Kahramanmaras,TR,46,TRKCM,KCM,Kahramanmaras Airport,,37.5384,36.9584,Europe/Istanbul,2020-01-07
 Kocaeli,TR,41,TRKCO,KCO,Kocaeli,,39.6250,27.5114,Europe/Istanbul,2015-07-03
@@ -9732,7 +9733,7 @@ Hengchun,TW,,TWHCN,HCN,Hengchun,,22.0042,120.7439,Asia/Taipei,2017-09-27
 Hsin-chu,TW,,TWHSZ,HSZ,Hsinchu Air Base,2449N 12058E,24.8244,120.9411,Asia/Taipei,2017-09-27
 Hualien,TW,,TWHUN,HUN,Hualien Airport,,24.0237,121.6169,Asia/Taipei,2017-09-24
 Kaohsiung,TW,,TWKHH,KHH,Kaohsiung,,22.6163,120.3133,Asia/Taipei,2017-09-26
-Kinmen,TW,,TWKNH,KNH,Kinmen County,,24.4533,118.3886,Asia/Taipei,2017-11-03
+Kinmen,TW,,TWKNH,KNH,Kinmen County,,24.4533,118.3886,Asia/Taipei,2020-09-17
 Orchid Island,TW,,TWKYD,KYD,Lan Yu,,22.0511,121.5408,Asia/Taipei,2017-03-13
 Matsu,TW,,TWMFK,MFK,Mazucun,,26.1589,119.9219,Asia/Taipei,2017-11-07
 Makung,TW,,TWMZG,MZG,Penghu County,,23.5711,119.6114,Asia/Taipei,2018-07-12
@@ -9779,7 +9780,7 @@ Donetsk,UA,14,UADOK,DOK,Donetsk,4800N 03748E,48.0230,37.8022,Europe/Kiev,2019-09
 Berdiansk,UA,23,UAERD,ERD,Berdyansk Airport,4645N 03646E,46.8150,36.7581,Europe/Zaporozhye,2016-09-25
 Khmelnitskiy,UA,68,UAHMJ,HMJ,Khmelnytskyy,4925N 02700E,49.4183,26.9794,Europe/Kiev,2020-05-12
 Kharkov,UA,,UAHRK,HRK,Kharkiv International Airport,,49.9248,36.2900,Europe/Zaporozhye,2013-04-08
-Kyiv,UA,30,UAIEV,IEV,Kyiv,5027N 03032E,50.4547,30.5238,Europe/Kiev,2020-06-17
+Kyiv,UA,30,UAIEV,IEV,Kyiv,5027N 03032E,50.4547,30.5238,Europe/Kiev,2020-09-21
 Ivano-Frankivs'k,UA,26,UAIFO,IFO,Ivano-Frankivsk,4855N 02442E,48.9231,24.7125,Europe/Kiev,2020-05-09
 Borispol Intl Apt/kiev,UA,,UAKBP,KBP,Kyiv Boryspil International Airport,,50.3450,30.8947,Europe/Kiev,2017-08-17
 Kamenets-Podolskiy,UA,68,UAKCP,KCP,Kamianets Podilsk,4840N 02634E,48.6950,26.6090,Europe/Kiev,2017-01-25
@@ -9827,12 +9828,12 @@ Arlington/Baltimore,US,MD,USAAP,AAP,Andrau Airpark (historical),3920N 07641W,29.
 Saint Charles,US,MN,USAAS,AAS,Adventist Academy of Santa Fe,4358N 09203W,35.6973,-105.9307,America/Denver,2017-09-19
 Danville,US,WA,USAAT,AAT,Alturas Municipal Airport,4859N 11830W,41.4827,-120.5663,America/Los_Angeles,2011-07-25
 Abbotsford,US,WI,USABD,ABD,United States,,39.7600,-98.5000,,2020-03-29
-Easton,US,PA,USABE,ABE,Allentown,,40.6084,-75.4902,America/New_York,2017-05-23
+Easton,US,PA,USABE,ABE,Allentown,,40.6084,-75.4902,America/New_York,2020-10-25
 Abilene,US,TX,USABI,ABI,Abilene,,32.4487,-99.7331,America/Chicago,2019-09-05
-Ambler,US,AK,USABL,ABL,Ambler Airport,,67.1024,-157.8595,America/Anchorage,2014-10-08
+Ambler,US,AK,USABL,ABL,Ambler Airport,,67.1024,-157.8595,America/Anchorage,2020-10-25
 Albuquerque,US,NM,USABQ,ABQ,Albuquerque,,35.0845,-106.6511,America/Denver,2018-01-26
 Aberdeen,US,SD,USABR,ABR,Aberdeen,4527N 09829W,45.4647,-98.4865,America/Chicago,2017-05-23
-Albany,US,GA,USABY,ABY,Albany,,31.5785,-84.1557,America/New_York,2017-03-09
+Albany,US,GA,USABY,ABY,Albany,,31.5785,-84.1557,America/New_York,2020-10-25
 Bellaire,US,MI,USACB,ACB,Antrim County Airport,,44.9883,-85.1984,America/Detroit,2017-05-23
 Raymond,US,WA,USACC,ACC,District of Columbia General Hospital ACCC Heliport,4641N 12343W,38.8868,-76.9750,America/New_York,2011-03-10
 Carol Stream,US,IL,USACE,ACE,Ernest F Hollings Ace Basin National Wildlife Refuge,,32.6335,-80.3647,America/New_York,2014-10-08
@@ -9846,21 +9847,21 @@ American Canyon,US,CA,USACY,ACY,Atlantic City,3810N 12215W,39.3642,-74.4231,Amer
 Arkadelphia,US,AR,USADA,ADA,All Dulles Area Muslim Society Center,3407N 09303W,39.0079,-77.3794,America/New_York,2010-02-20
 Camphill,US,PA,USADC,ADC,Wadena Municipal Airport,,46.4481,-95.2109,America/Chicago,2017-05-23
 Cordele,US,GA,USADF,ADF,Dexter B. Florence Memorial Field,,34.0997,-93.0661,America/Chicago,2020-07-21
-Adrian,US,MI,USADG,ADG,Adrian,,41.8976,-84.0372,America/Detroit,2017-05-23
-Adams Center,US,NY,USADH,ADH,Ada Municipal Airport,4349N 07601W,34.8031,-96.6714,America/Chicago,2013-06-22
-Adak Island/Adak Apt,US,AK,USADK,ADK,Adak Island,,51.7844,-176.6403,America/Adak,2017-02-20
+Adrian,US,MI,USADG,ADG,Adrian,,41.8976,-84.0372,America/Detroit,2020-10-25
+Adams Center,US,NY,USADH,ADH,Ada Municipal Airport,4349N 07601W,34.8031,-96.6714,America/Chicago,2020-10-25
+Adak Island/Adak Apt,US,AK,USADK,ADK,Adak Island,,51.7844,-176.6403,America/Adak,2020-10-25
 Ardmore,US,OK,USADM,ADM,Ardmore,,34.1743,-97.1436,America/Chicago,2017-03-09
-Kodiak,US,AK,USADQ,ADQ,Kodiak Benny Benson State Airport,,57.7497,-152.4936,America/Anchorage,2014-02-01
+Kodiak,US,AK,USADQ,ADQ,Kodiak Benny Benson State Airport,,57.7497,-152.4936,America/Anchorage,2020-10-25
 Andrews,US,SC,USADR,ADR,Andrews,,33.4513,-79.5609,America/New_York,2017-03-09
-Addison,US,AL,USADS,ADS,Addison Airport,,32.9685,-96.8367,America/Chicago,2006-10-29
+Addison,US,AL,USADS,ADS,Addison,,32.9618,-96.8292,America/Chicago,2020-10-25
 Ada,US,OK,USADT,ADT,Ada,,34.7745,-96.6783,America/Chicago,2017-03-09
 Adelanto,US,CA,USADU,ADU,Audubon County Airport,3434N 11724W,41.7014,-94.9205,America/Chicago,2017-05-23
 Camp Springs,US,MD,USADW,ADW,Camp Springs,,38.8040,-76.9066,America/New_York,2019-12-14
 Clarence,US,NY,USAEC,AEC,AEC Well Number 3,4258N 07835W,39.2202,-118.4115,America/Los_Angeles,2006-01-15
 Aleneva,US,AK,USAED,AED,AEDC Retention Reservoir,,35.3801,-86.0622,America/Chicago,2011-12-11
 Marengo,US,IN,USAEG,AEG,Double Eagle II Airport,3822N 08620W,35.1450,-106.7950,America/Denver,2006-10-29
-Albert Lea,US,MN,USAEL,AEL,Albert Lea Municipal Airport,,43.6814,-93.3674,America/Chicago,2017-05-23
-Allakaket,US,AK,USAET,AET,Allakaket Airport,,66.5496,-152.6314,America/Anchorage,2011-12-12
+Albert Lea,US,MN,USAEL,AEL,Albert Lea Municipal Airport,,43.6814,-93.3674,America/Chicago,2020-10-25
+Allakaket,US,AK,USAET,AET,Allakaket Airport,,66.5496,-152.6314,America/Anchorage,2020-10-25
 Alexander,US,IA,USAEX,AEX,Alexandria,4248N 09328W,31.3113,-92.4451,America/Chicago,2017-03-09
 Avondale,US,PA,USAFB,AFB,Bolling Air Force Base (historical),3949N 07547W,38.8596,-77.0055,America/New_York,2020-07-17
 Alfred,US,ME,USAFE,AFE,Kake Airport,4329N 07043W,56.9621,-133.9119,America/Sitka,2017-06-08
@@ -9868,16 +9869,16 @@ Affton,US,MO,USAFF,AFF,United States Air Force Academy Airstrip,3833N 09019W,38.
 Brandon,US,SD,USAFI,AFI,AFI Silver Theatre and Cultural Center,4336N 09634W,38.9965,-77.0272,America/New_York,2019-10-16
 Beloit,US,OH,USAFJ,AFJ,Washington County Airport,4055N 08100W,40.1362,-80.2920,America/New_York,2017-05-23
 Afognak,US,AK,USAFK,AFK,Nebraska City Municipal Airport,5800N 15246W,40.6083,-95.8614,America/Chicago,2011-07-22
-Bingham,US,ME,USAFM,AFM,Ambler Airport,4504N 06953W,67.1024,-157.8595,America/Anchorage,2014-10-08
+Bingham,US,ME,USAFM,AFM,Ambler Airport,4504N 06953W,67.1024,-157.8595,America/Anchorage,2020-10-25
 Jaffrey,US,NH,USAFN,AFN,Jaffrey,,42.8140,-72.0231,America/New_York,2017-05-23
-Afton,US,WY,USAFO,AFO,Afton,,42.7249,-110.9319,America/Denver,2017-03-09
+Afton,US,WY,USAFO,AFO,Afton,,42.7249,-110.9319,America/Denver,2020-10-25
 Big Flats,US,NY,USAFP,AFP,Anson County Airport,4208N 07656W,35.0240,-80.0787,America/New_York,2017-05-23
 Alfred Station,US,NY,USAFS,AFS,Arnold Air Force Base,4216N 07745W,35.3987,-86.0785,America/Chicago,2015-08-29
 Webster", Harris,US,TX,USAFW,AFW,Fort Worth Alliance Airport,2932N 09507W,32.9859,-97.3146,America/Chicago,2013-11-10
 Bear,US,DE,USAGC,AGC,Allegheny County Airport,3938N 07540W,40.3548,-79.9298,America/New_York,2017-05-23
 Bowie,US,AZ,USAGF,AGF,Arizona Game and Fish TrickTank,3220N 10929W,35.5067,-111.8816,America/Phoenix,2010-07-31
 Agoura Hills,US,CA,USAGH,AGH,Shands Alachua General Hospital,3409N 11847W,29.6493,-82.3336,America/New_York,2011-12-11
-Angoon,US,AK,USAGN,AGN,Angoon Seaplane Base,,57.5055,-134.5963,America/Juneau,2017-06-07
+Angoon,US,AK,USAGN,AGN,Angoon Seaplane Base,,57.5055,-134.5963,America/Juneau,2020-10-25
 Magnolia,US,AR,USAGO,AGO,Magnolia,,33.2671,-93.2393,America/Chicago,2017-05-23
 Granger,US,WA,USAGR,AGR,Rucks Dairy Airport,4620N 12011W,27.7014,-81.4490,America/New_York,2006-10-29
 Augusta,US,GA,USAGS,AGS,Augusta,,33.4710,-81.9748,America/New_York,2011-03-02
@@ -9995,7 +9996,7 @@ Astoria,US,OR,USAST,AST,Astoria,,46.1879,-123.8312,America/Los_Angeles,2020-05-3
 Asbury", Warren,US,NJ,USASU,ASU,Arizona State University,4042N 07501W,33.4173,-111.9355,America/Phoenix,2016-12-06
 Ashton,US,ID,USASV,ASV,United States Capitol,,38.8898,-77.0089,America/New_York,2019-11-20
 Watsontown,US,PA,USASW,ASW,Warsaw Municipal Airport,4105N 07651W,41.2775,-85.8467,America/Indiana/Indianapolis,2017-05-23
-Ashland,US,WI,USASX,ASX,Ashland,,46.5924,-90.8838,America/Chicago,2017-05-23
+Ashland,US,WI,USASX,ASX,Ashland,,46.5924,-90.8838,America/Chicago,2020-10-30
 Ashley,US,ND,USASY,ASY,Ashley,,46.0341,-99.3715,America/Chicago,2017-05-23
 Atherton,US,CA,USATC,ATC,AEC Well Number 3,,39.2202,-118.4115,America/Los_Angeles,2006-01-15
 Antlers,US,OK,USATE,ATE,Antlers,,34.2312,-95.6202,America/Chicago,2017-03-09
@@ -10198,7 +10199,7 @@ Belle Vernon,US,PA,USBVN,BVN,Albion Municipal Airport,,41.7292,-98.0562,America/
 Bartlesville,US,OK,USBVO,BVO,Bartlesville,,36.7473,-95.9808,America/Chicago,2017-03-09
 Beluga,US,AK,USBVU,BVU,Beluga Airport,,61.1752,-151.0386,America/Anchorage,2019-09-06
 Beaver,US,OK,USBVX,BVX,Batesville,3648N 10031W,35.7698,-91.6410,America/Chicago,2017-05-23
-Beverly,US,MA,USBVY,BVY,Beverly,,42.5584,-70.8800,America/New_York,2017-05-23
+Beverly,US,MA,USBVY,BVY,Beverly,,42.5584,-70.8800,America/New_York,2020-10-30
 Brawley,US,CA,USBWC,BWC,Brawley,3258N 11532W,32.9787,-115.5303,America/Los_Angeles,2017-03-09
 Brownwood,US,TX,USBWD,BWD,Brownwood Municipal Airport,,31.7938,-98.9567,America/Chicago,2017-02-04
 Bowling Green,US,KY,USBWG,BWG,Bowling Green,,36.9903,-86.4436,America/Chicago,2017-03-09
@@ -10259,7 +10260,7 @@ Camden,US,SC,USCDN,CDN,Camden,,34.2465,-80.6070,America/New_York,2017-03-09
 Childs,US,PA,USCDP,CDP,Egypt Lake-Leto,,28.0177,-82.5062,America/New_York,2011-05-14
 Chadron,US,NE,USCDR,CDR,Chadron,,42.8294,-102.9999,America/Denver,2017-03-09
 Childress,US,TX,USCDS,CDS,Childress,,34.4265,-100.2040,America/Chicago,2017-03-09
-Cordova,US,AK,USCDV,CDV,Cordova,,60.5432,-145.7587,America/Anchorage,2017-06-12
+Cordova,US,AK,USCDV,CDV,Cordova,,60.5432,-145.7587,America/Anchorage,2020-10-30
 Caldwell,US,NJ,USCDW,CDW,Caldwell,,40.8398,-74.2765,America/New_York,2017-05-23
 Celina,US,OH,USCEA,CEA,Cessna Aircraft Field Airport,,37.6486,-97.2506,America/Chicago,2017-05-23
 Crescent City,US,CA,USCEC,CEC,Seabee Museum,,34.1686,-119.1976,America/Los_Angeles,2006-01-15
@@ -10786,7 +10787,7 @@ Westhampton,US,NY,USFOK,FOK,The Francis S Gabreski Airport,,40.8437,-72.6312,Ame
 Forest Park,US,GA,USFOP,FOP,Forest Park,,33.6221,-84.3691,America/New_York,2017-03-09
 Fox River Grove,US,IL,USFOZ,FOZ,Bigfork Municipal Airport,,47.7803,-93.6481,America/Chicago,2017-09-24
 Forest Park,US,IL,USFPA,FPA,Deschutes National Forest Crescent Ranger District,,43.4608,-121.6971,America/Los_Angeles,2014-10-08
-Forest Park,US,OH,USFPK,FPK,Fitch H. Beach Airport,3917N 08430W,42.5745,-84.8114,America/Detroit,2020-07-18
+Forest Park,US,OH,USFPK,FPK,Fitch H. Beach Airport,3917N 08430W,42.5745,-84.8114,America/Detroit,2020-10-20
 Flippin,US,AR,USFPP,FPP,Lake Fayette,3617N 09236W,29.9301,-96.7343,America/Chicago,2016-12-07
 Fort Pierce,US,FL,USFPR,FPR,Fort Pierce,,27.4467,-80.3256,America/New_York,2017-03-09
 Perry,US,FL,USFPY,FPY,Perry,,30.1177,-83.5827,America/New_York,2017-03-09
@@ -10997,6 +10998,7 @@ Jolon,US,CA,USHGT,HGT,Fort Hunter Liggett,,36.0102,-121.2385,America/Los_Angeles
 Hogatza,US,AK,USHGZ,HGZ,Hog River Airport,,66.1810,-155.6990,America/Anchorage,2017-09-19
 Hilton Head Island,US,SC,USHHH,HHH,Hilton Head Airport,3212N 08045W,32.2232,-80.6975,America/New_York,2016-10-22
 Wahiawa,US,HI,USHHI,HHI,Wheeler Army Airfield,,21.4835,-158.0360,Pacific/Honolulu,2012-04-09
+Holly Hill,US,FL,USHHL,HHL,Pound Ridge Library,,41.2111,-73.5733,America/New_York,2020-09-12
 Hawthorne,US,CA,USHHR,HHR,Hawthorne,,33.9164,-118.3526,America/Los_Angeles,2017-04-08
 Chisholm-Hibbing Apt,US,MN,USHIB,HIB,Range Regional Airport,,47.3918,-92.8423,America/Chicago,2017-05-23
 Whitefield,US,NH,USHIE,HIE,Mount Washington Regional Airport,,44.3676,-71.5455,America/New_York,2017-05-23
@@ -11196,10 +11198,10 @@ Jacksonville,US,AL,USJAO,JAO,Beaver Ruin Heliport,,33.9307,-84.1532,America/New_
 Jasper,US,TX,USJAS,JAS,Jasper,,30.9202,-93.9966,America/Chicago,2017-09-11
 Janesville,US,IA,USJAV,JAV,United States,4238N 09227W,39.7600,-98.5000,,2020-03-29
 Jacksonville,US,FL,USJAX,JAX,Jacksonville,,30.3322,-81.6556,America/New_York,2017-03-09
-Barto,US,PA,USJBA,JBA,Joint Base Andrews,4023N 07537W,38.8037,-76.8722,America/New_York,2019-12-14
+Barto,US,PA,USJBA,JBA,Joint Base Andrews,4023N 07537W,38.8037,-76.8722,America/New_York,2020-10-25
 Berkeley,US,CA,USJBK,JBK,Berkeley,,37.8716,-122.2728,America/Los_Angeles,2019-09-05
 Bellington,US,WV,USJBL,JBL,Joint Base Lewis McChord,3901N 07959W,47.1079,-122.5769,America/Los_Angeles,2020-03-26
-Blue Springs,US,NE,USJBP,JBP,Joint Base Pearl Harbor-Hickam,4008N 09639W,21.3493,-157.9440,Pacific/Honolulu,2020-05-18
+Blue Springs,US,NE,USJBP,JBP,Joint Base Pearl Harbor-Hickam,4008N 09639W,21.3493,-157.9440,Pacific/Honolulu,2020-10-25
 Jonesboro,US,AR,USJBR,JBR,Jonesboro,,35.8423,-90.7043,America/Chicago,2017-05-23
 Pleasanton,US,CA,USJBS,JBS,Pleasanton,3740N 12153W,37.6624,-121.8747,America/Los_Angeles,2017-03-09
 Bonne Terre,US,MO,USJBT,JBT,Bethel Seaplane Base,3755N 09033W,60.7911,-161.7517,America/Anchorage,2019-12-31
@@ -11209,7 +11211,7 @@ Junction,US,TX,USJCT,JCT,Junction,,30.4894,-99.7720,America/Chicago,2017-09-26
 Johnson City,US,TX,USJCY,JCY,Johnson City,3016N 09824W,30.2769,-98.4120,America/Chicago,2017-09-21
 John Day,US,OR,USJDA,JDA,John Day,,44.4160,-118.9530,America/Los_Angeles,2017-03-09
 Lowndesboro,US,AL,USJDB,JDB,Dallas CBD Vertiport,3216N 08636W,32.7717,-96.8022,America/Chicago,2016-05-14
-Middletown,US,IN,USJDD,JDD,Wood County Airport,4003N 08532W,32.7419,-95.4964,America/Chicago,2020-07-24
+Middletown,US,IN,USJDD,JDD,Wood County Airport,4003N 08532W,32.7419,-95.4964,America/Chicago,2020-10-04
 Miami Downtown Heliport Airport,US,FL,USJDM,JDM,International Place Heliport,1001N 07339W,25.7725,-80.1910,America/New_York,2017-12-10
 Jordan,US,MT,USJDN,JDN,Jordan,,47.3208,-106.9101,America/Denver,2017-03-09
 Port Laudania,US,FL,USJDT,JDT,Minneapolis Downtown Heliport (historical),2603N 08007W,44.9747,-93.2754,America/Chicago,2020-03-14
@@ -11264,11 +11266,11 @@ James Island,US,SC,USJXI,JXI,Fox Stephens Field - Gilmer Municipal Airport,3245N
 Jackson,US,MI,USJXN,JXN,Jackson,,42.2459,-84.4013,America/Detroit,2017-05-23
 Jay,US,OK,USJYO,JYO,Leesburg Executive Airport,3625N 09447W,39.0785,-77.5551,America/New_York,2017-08-15
 Argyle,US,NY,USJYR,JYR,York Municipal Airport,,40.8950,-97.6245,America/Chicago,2017-05-23
-Kewanna,US,IN,USKAA,KAA,Apalachicola Municipal Airport,4101N 08624W,29.7294,-85.0288,America/New_York,2006-10-29
+Kewanna,US,IN,USKAA,KAA,Apalachicola Municipal Airport,4101N 08624W,29.7294,-85.0288,America/New_York,2020-10-25
 Kiska Harbour,US,AK,USKAB,KAB,Southwest Georgia Regional Airport,5158N 17734E,31.5355,-84.1944,America/New_York,2013-11-01
 Kalona,US,IA,USKAC,KAC,Jimmy Carter Regional Airport,4128N 09142W,32.1150,-84.1859,America/New_York,2011-03-10
 Oakland", Fayette,US,TN,USKAD,KAD,Washington Executive Airport/Hyde Field,3514N 08931W,38.7492,-76.9318,America/New_York,2012-04-21
-Kake,US,AK,USKAE,KAE,Albert Lea Municipal Airport,,43.6814,-93.3674,America/Chicago,2017-05-23
+Kake,US,AK,USKAE,KAE,Albert Lea Municipal Airport,,43.6814,-93.3674,America/Chicago,2020-10-25
 Skaneateles Falls,US,NY,USKAF,KAF,Anson County Airport,4259N 07627W,35.0240,-80.0787,America/New_York,2017-05-23
 Kaguyak,US,AK,USKAG,KAG,Magnolia Municipal Airport,5652N 15347W,33.2280,-93.2181,America/Chicago,2017-05-23
 Kenmore/Seattle,US,WA,USKAH,KAH,Athens-Ben Epps Airport,4745N 12215W,33.9485,-83.3265,America/New_York,2014-04-13
@@ -11811,7 +11813,7 @@ Lopez Island,US,WA,USLPS,LPS,Fishermans Bay Seaplane Base,,48.5165,-122.9152,Ame
 Pickens,US,SC,USLQK,LQK,Pickens,,34.8835,-82.7074,America/New_York,2017-03-09
 Long Reach,US,WV,USLRC,LRC,Saint Lucie County Library System Charles S Miley Library Resource Center,3929N 08105W,27.4246,-80.3577,America/New_York,2016-12-07
 Laredo,US,TX,USLRD,LRD,Laredo International Airport,2730N 09929W,27.5447,-99.4614,America/Chicago,2006-10-29
-Jacksonville,US,AR,USLRF,LRF,Jacksonville,,34.8662,-92.1102,America/Chicago,2017-09-08
+Jacksonville,US,AR,USLRF,LRF,Jacksonville,,34.8662,-92.1102,America/Chicago,2020-10-25
 Lemars,US,IA,USLRJ,LRJ,Le Mars Municipal Airport,,42.7780,-96.1937,America/Chicago,2017-05-23
 Lathrop,US,CA,USLRO,LRO,Lathrop,,37.8227,-121.2766,America/Los_Angeles,2017-03-09
 Larimore,US,ND,USLRR,LRR,Cape Lisburne LRRS Airport,4754N 09738W,68.8751,-166.1100,America/Nome,2011-12-12
@@ -12106,6 +12108,7 @@ Brunswick,US,ME,USNHZ,NHZ,Brunswick,,43.9145,-69.9653,America/New_York,2017-05-2
 Nikolai,US,AK,USNIB,NIB,Nikolai Airport,,63.0186,-154.3583,America/Anchorage,2017-06-14
 North Bend,US,NE,USNID,NID,Camp Nineteen,4128N 09647W,39.3682,-120.6802,America/Los_Angeles,2010-02-14
 Niblack,US,AK,USNIE,NIE,Niblack (historical),,55.0669,-132.1453,America/Juneau,2017-07-10
+Nighthawk,US,WA,USNIH,NIH,National Institutes of Health,4858N 11938W,38.9976,-77.1019,America/New_York,2020-10-10
 Ninilchik,US,AK,USNIN,NIN,Stonington Airpark,,41.3477,-71.8859,America/New_York,2017-05-23
 Moon,US,PA,USNIP,NIP,Jacksonville", Naval Air Station,4031N 08014W,30.2358,-81.6806,America/New_York,2007-01-03
 Beeville,US,TX,USNIR,NIR,Beeville,,28.4010,-97.7497,America/Chicago,2017-03-09
@@ -12387,7 +12390,7 @@ Napaskiak,US,AK,USPKA,PKA,Napaskiak Airport,,60.7069,-161.7732,America/Anchorage
 Parkersburg,US,WV,USPKB,PKB,Parkersburg,3915N 08133W,39.2667,-81.5615,America/New_York,2017-03-09
 Park Rapids,US,MN,USPKD,PKD,Park Rapids,,46.9222,-95.0586,America/Chicago,2017-08-18
 Park Falls,US,WI,USPKF,PKF,Park Falls,,45.9344,-90.4416,America/Chicago,2017-05-23
-Spokane Valley,US,WA,USPKV,PKV,Calhoun County Airport,4740N 11714W,28.6539,-96.6811,America/Chicago,2020-07-25
+Spokane Valley,US,WA,USPKV,PKV,Calhoun County Airport,4740N 11714W,28.6539,-96.6811,America/Chicago,2020-10-20
 Plattsburgh,US,NY,USPLB,PLB,Clinton County Airport,,44.6875,-73.5240,America/New_York,2017-05-23
 Branson,US,MO,USPLK,PLK,M. Graham Clark Downtown Airport,,36.6234,-93.2265,America/Chicago,2017-05-23
 Pineland,US,FL,USPLN,PLN,Pellston,,45.5528,-84.7854,America/Detroit,2017-05-23
@@ -12442,7 +12445,7 @@ Prineville,US,OR,USPRZ,PRZ,Prineville,,44.2998,-120.8345,America/Los_Angeles,201
 Bellefonte-Clearfield Apt,US,PA,USPSB,PSB,Bellefonte,,40.9134,-77.7783,America/New_York,2017-05-23
 Pasco,US,WA,USPSC,PSC,Pasco,,46.2396,-119.1006,America/Los_Angeles,2017-03-09
 Pittsfield,US,MA,USPSF,PSF,Pittsfield,,42.4501,-73.2454,America/New_York,2017-05-23
-Petersburg,US,AK,USPSG,PSG,Petersburg,,56.8125,-132.9556,America/Sitka,2017-07-02
+Petersburg,US,AK,USPSG,PSG,Petersburg,,56.8125,-132.9556,America/Sitka,2020-10-30
 Potosi,US,MO,USPSI,PSI,M&T Bank Stadium,,39.2779,-76.6230,America/New_York,2013-01-10
 Dublin,US,VA,USPSK,PSK,Dublin,,37.1057,-80.6853,America/New_York,2017-03-09
 Portsmouth,US,NH,USPSM,PSM,Portsmouth International Airport at Pease,,43.0846,-70.8231,America/New_York,2017-05-23
@@ -12675,7 +12678,7 @@ South Plainfield,US,NJ,USSFD,SFD,Bob Wiley Field,,43.3917,-99.8504,America/Chica
 Strafford,US,MO,USSFF,SFF,Felts Field,,47.6827,-117.3224,America/Los_Angeles,2006-10-29
 Sanford,US,ME,USSFM,SFM,Sanford,,43.4393,-70.7742,America/New_York,2017-09-24
 San Francisco,US,CA,USSFO,SFO,San Francisco International Airport,,37.6188,-122.3758,America/Los_Angeles,2018-07-15
-San Fernando,US,CA,USSFR,SFR,San Fernando,,34.2820,-118.4390,America/Los_Angeles,2018-04-18
+San Fernando,US,CA,USSFR,SFR,San Fernando,,34.2820,-118.4390,America/Los_Angeles,2020-10-28
 Seneca Falls,US,NY,USSFS,SFS,SFS Airpark,,48.0359,-122.7736,America/Los_Angeles,2015-02-26
 Springfield,US,MA,USSFY,SFY,Springfield,,42.1015,-72.5898,America/New_York,2017-05-23
 Smithfield,US,RI,USSFZ,SFZ,North Central State Airport,,41.9209,-71.4912,America/New_York,2017-05-23
@@ -12741,7 +12744,7 @@ Saint Paul Island,US,AK,USSNP,SNP,Saint Paul Island Airport,,57.1581,-170.2299,A
 Salinas,US,CA,USSNS,SNS,Salinas,,36.6777,-121.6555,America/Los_Angeles,2017-03-09
 Sidney,US,NE,USSNY,SNY,Sidney Municipal Airport,,41.1011,-102.9858,America/Denver,2017-03-05
 Scotia,US,NY,USSOA,SOA,Sonora Municipal Airport,,30.5857,-100.6487,America/Chicago,2013-03-16
-Solomon,US,AK,USSOL,SOL,Solomon,,64.5596,-164.4431,America/Nome,2017-08-17
+Solomon,US,AK,USSOL,SOL,Solomon,,64.5596,-164.4431,America/Nome,2020-10-30
 Somerville,US,NJ,USSOM,SOM,South of Market,,37.7776,-122.4043,America/Los_Angeles,2011-05-27
 South Norwalk,US,CT,USSON,SON,Gibson Point,,47.3808,-115.8557,America/Los_Angeles,2006-01-15
 Southern Pines,US,NC,USSOP,SOP,Moore County Airport,,35.2374,-79.3886,America/New_York,2006-10-29
@@ -13447,7 +13450,7 @@ Taiz,YE,,YETAI,TAI,Taiz,,13.5795,44.0209,Asia/Aden,2020-07-28
 Mukeiras,YE,,YEUKR,UKR,Mukayras,,13.9443,45.6707,Asia/Aden,2020-06-10
 Wadi Ain,YE,,YEWDA,WDA,Wadi Ain Airport,1452N 04532E,14.8670,45.5500,Asia/Aden,2011-03-18
 Dzaoudzi-Pamandzi Apt,YT,,YTDZA,DZA,Pamandzi,1248S 04517E,-12.7967,45.2794,Indian/Mayotte,2014-01-05
-Mala Mala,ZA,,ZAAAM,AAM,Malamala Airport,,-24.8181,31.5446,Africa/Johannesburg,2015-12-05
+Mala Mala,ZA,,ZAAAM,AAM,Malamala Airport,,-24.8181,31.5446,Africa/Johannesburg,2020-10-25
 Alldays,ZA,,ZAADY,ADY,Alldays,,-22.6639,29.0934,Africa/Johannesburg,2012-07-12
 Port Alfred,ZA,,ZAAFD,AFD,Port Alfred,,-33.5860,26.8833,Africa/Johannesburg,2016-01-03
 Aggeneys,ZA,,ZAAGZ,AGZ,Aggeneys,2912S 01851E,-29.2077,18.8424,Africa/Johannesburg,2012-07-12
