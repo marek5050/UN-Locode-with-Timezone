@@ -31,6 +31,9 @@ def main(d):
     for item in tzs:
         tz = pytz.timezone(item.get("timezone"))
         item["current_time"] = datetime.now(tz).isoformat(sep="T", timespec='minutes')
+        for field in ["unlocode_other","location_other"]:
+            if field in item:
+                    del item[field]
 
     resp = {"result": tzs}
 
