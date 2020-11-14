@@ -221,7 +221,7 @@ Algonac,US,MI,USALG,ALG,Algonac,4236N 08232W,42.6186,-82.5323,America/Detroit,20
 Algonquin,US,IL,USAGQ,AGQ,Algonquin,4210N 08818W,42.1656,-88.2943,America/Chicago,2017-05-23
 Algood,US,TN,USYAG,YAG,Algood,3611N 08526W,36.1959,-85.4486,America/Chicago,2017-03-09
 Alhambra,US,CA,USALH,ALH,Alhambra,,34.0953,-118.1270,America/Los_Angeles,2017-03-09
-Aliaga,TR,35,TRALI,ALI,Aliaga,,38.8333,26.9333,Europe/Istanbul,2016-12-06
+Aliaga,TR,35,TRALI,ALI,Aliaga,,38.8333,26.9333,Europe/Istanbul,2020-10-31
 Alibeyköy,TR,34,TRABK,ABK,Alibeykoy,4105N 02856E,41.0782,28.9437,Europe/Istanbul,2011-01-04
 Alicia,US,MI,USACA,ACA,Alicia,,43.2709,-84.0325,America/Detroit,2017-05-23
 Alief,US,TX,US3AF,3AF,Alief,2942N 09535W,29.7111,-95.5963,America/Chicago,2017-12-06
@@ -341,7 +341,7 @@ Amanda Park,US,WA,USAP4,AP4,Amanda Park,4727N 12353W,47.4595,-123.8979,America/L
 Amapala,HN,,HNAMP,AMP,Amapala,,13.2667,-87.6500,America/Tegucigalpa,2006-10-29
 Amasa,US,MI,USAMM,AMM,Amasa,4613N 08827W,46.2321,-88.4508,America/Menominee,2017-05-23
 Amasya,TR,05,TRAMY,AMY,Amasya,,40.7262,35.8867,Europe/Istanbul,2017-11-28
-Ambarli,TR,34,TRAMR,AMR,Ambarli,4058N 02842E,40.9667,28.7000,Europe/Istanbul,2016-12-06
+Ambarli,TR,34,TRAMR,AMR,Ambarli,4058N 02842E,40.9712,28.7161,Europe/Istanbul,2020-10-31
 Ambia,US,IN,US2AA,2AA,Ambia,4029N 08731W,40.4900,-87.5170,America/Indiana/Indianapolis,2017-05-23
 Ambler,US,PA,USAMR,AMR,Ambler,,40.1546,-75.2216,America/New_York,2017-05-23
 Amboy,US,CA,USOPP,OPP,Amboy,3433N 11544W,34.5578,-115.7444,America/Los_Angeles,2010-02-14
@@ -834,7 +834,7 @@ Ayer,US,MA,USAER,AER,Ayer,,42.5612,-71.5898,America/New_York,2017-05-23
 Ayersville,US,GA,USAYR,AYR,Ayersville,,34.5609,-83.4132,America/New_York,2006-01-15
 Aylett,US,VA,USAYT,AYT,Aylett,,37.7860,-77.1050,America/New_York,2010-09-05
 Aynor,US,SC,USAY2,AY2,Aynor,3359N 07912W,33.9999,-79.1995,America/New_York,2017-03-09
-Ayvalik,TR,10,TRAYV,AYV,Ayvalik,3919N 02641E,39.3167,26.7000,Europe/Istanbul,2016-12-06
+Ayvalik,TR,10,TRAYV,AYV,Ayvalik,3919N 02641E,39.3167,26.7000,Europe/Istanbul,2020-10-31
 Azalea Park,US,FL,USZKK,ZKK,Azalea Park,2832N 08118W,28.5411,-81.3006,America/New_York,2011-05-14
 Azle,US,TX,USAZL,AZL,Azle,3253N 09732W,32.8951,-97.5459,America/Chicago,2017-03-09
 Aztec,US,NM,USZZT,ZZT,Aztec,3649N 10759W,36.8222,-107.9929,America/Denver,2017-03-09
@@ -858,7 +858,7 @@ Bahama,US,NC,USB7M,B7M,Bahama,3609N 07852W,36.1660,-78.8767,America/New_York,201
 Bahau,MY,05,MYBAH,BAH,Bahau,0490N 10225E,2.8079,102.4049,Asia/Kuala_Lumpur,2012-01-17
 Bahçelievler,TR,34,TRBAH,BAH,Bahcelievler,3956N 03250E,41.0023,28.8598,Europe/Istanbul,2010-12-30
 Bahçesaray,TR,65,TRBAC,BAC,Bahcesaray,3808N 04248E,38.1246,42.7983,Europe/Istanbul,2020-06-10
-Bahía Honda,PA,10,PABHP,BHP,Bahia Honda,0745N 08131W,7.7513,-81.5191,America/Panama,2020-06-11
+Bahía Honda,PA,10,PABHP,BHP,Bahia Honda,0745N 08131W,7.7453,-81.5297,America/Panama,2020-11-13
 Bailey,US,CO,USYB2,YB2,Bailey,3924N 10528W,39.4055,-105.4733,America/Denver,2006-01-15
 Bailey,US,MI,USBAI,BAI,Bailey,,43.2778,-85.8103,America/Detroit,2017-05-23
 Bailey,US,NC,USBA4,BA4,Bailey,3546N 07807W,36.0532,-82.3257,America/New_York,2017-05-23
@@ -1230,7 +1230,7 @@ Bellevue,US,KY,USXDE,XDE,Bellevue,,39.1065,-84.4788,America/New_York,2017-03-09
 Bellevue,US,NE,USBEG,BEG,Bellevue,,41.1444,-95.8864,America/Chicago,2010-02-20
 Bellevue,US,OH,USXBX,XBX,Bellevue,,41.2737,-82.8416,America/New_York,2017-05-23
 Bellevue,US,PA,USEVU,EVU,Bellevue,4030N 08003W,39.7607,-76.3986,America/New_York,2017-05-23
-Bellevue,US,WA,USBVE,BVE,Bellevue,,47.6104,-122.2007,America/Los_Angeles,2017-03-09
+Bellevue,US,WA,USBVE,BVE,Bellevue,,47.6104,-122.2007,America/Los_Angeles,2020-11-11
 Bellflower,US,CA,USBFX,BFX,Bellflower,,33.8817,-118.1170,America/Los_Angeles,2017-03-09
 Bellflower,US,IL,USB2F,B2F,Bellflower,4020N 08831W,40.3400,-88.5270,America/Chicago,2017-05-23
 Bellingham,US,MA,USBJX,BJX,Bellingham,4205N 07128W,42.0868,-71.4745,America/New_York,2017-05-23
@@ -1721,7 +1721,7 @@ Bonner Springs,US,KS,USBSU,BSU,Bonner Springs,,39.0597,-94.8836,America/Chicago,
 Bonners Ferry,US,ID,USBF6,BF6,Bonners Ferry,4841N 11619W,48.6913,-116.3163,America/Los_Angeles,2017-03-09
 Bonneval,FR,24,FRZBV,ZBV,Bonneval,4508N 00100E,48.1831,1.3852,Europe/Paris,2016-02-18
 Bonney Lake,US,WA,USGQZ,GQZ,Bonney Lake,4710N 12211W,47.1890,-122.1858,America/Los_Angeles,2011-12-12
-Bonny,NG,,NGBON,BON,Bonny,,4.4281,7.1570,Africa/Lagos,2018-06-11
+Bonny,NG,,NGBON,BON,Bonny,,4.4281,7.1570,Africa/Lagos,2020-10-31
 Bono,US,AR,USQOO,QOO,Bono,3555N 09049W,35.9087,-90.8026,America/Chicago,2017-05-23
 Bonsall,US,CA,USBPE,BPE,Bonsall,,33.2889,-117.2256,America/Los_Angeles,2011-05-14
 Bonstetten,CH,ZH,CHBOT,BOT,Bonstetten,4719N 00828E,47.3150,8.4684,Europe/Zurich,2013-04-02
@@ -4395,6 +4395,7 @@ Diggs,US,VA,USD3G,D3G,Diggs,3726N 07616W,37.4371,-76.2683,America/New_York,2006-
 Dighton,US,MA,USDGT,DGT,Dighton,,41.8140,-71.1203,America/New_York,2017-05-23
 Dike,US,IA,USDKE,DKE,Dike,4227N 09237W,42.4641,-92.6282,America/Chicago,2017-05-23
 Dikili,TR,35,TRDIK,DIK,Dikili,3904N 02653E,39.0710,26.8902,Europe/Istanbul,2013-08-06
+Diliskelesi,TR,41,TRDIL,DIL,Diliskelesi,,40.7767,29.5254,Europe/Istanbul,2020-11-01
 Dill City,US,OK,USDCY,DCY,Dill City,3517N 09908W,35.2767,-99.1351,America/Chicago,2017-03-09
 Dilley,US,TX,USDY3,DY3,Dilley,2840N 09910W,28.6675,-99.1706,America/Chicago,2017-03-09
 Dillon,US,CO,US4DI,4DI,Dillon,3937N 10602W,39.6303,-106.0434,America/Denver,2017-03-09
@@ -7360,7 +7361,7 @@ Hawthorne,US,FL,USXVB,XVB,Hawthorne,2845N 08152W,29.5919,-82.0873,America/New_Yo
 Hawthorne,US,NJ,USHTI,HTI,Hawthorne,,40.9493,-74.1538,America/New_York,2017-05-23
 Hawthorne,US,NY,USHAW,HAW,Hawthorne,,41.1073,-73.7960,America/New_York,2017-05-23
 Haxtun,US,CO,USHX9,HX9,Haxtun,4038N 10237W,40.6411,-102.6269,America/Denver,2017-03-09
-Haydarpasa,TR,34,TRHAY,HAY,Haydarpasa,,41.0000,29.0167,Europe/Istanbul,2016-12-06
+Haydarpasa,TR,34,TRHAY,HAY,Haydarpasa,,41.0039,29.0130,Europe/Istanbul,2020-10-31
 Hayden,US,AL,USHY6,HY6,Hayden,3353N 08645W,33.8926,-86.7578,America/Chicago,2017-03-09
 Hayden,US,AZ,USHY2,HY2,Hayden,3300N 11047W,33.0048,-110.7854,America/Phoenix,2017-03-09
 Hayden,US,ID,USYFN,YFN,Hayden,4745N 11647W,47.7660,-116.7866,America/Los_Angeles,2017-03-09
@@ -8081,7 +8082,7 @@ Indio,US,CA,USIOC,IOC,Indio,3343N 11613W,33.7207,-116.2168,America/Los_Angeles,2
 Industry,US,CA,USIUY,IUY,Industry,3401N 11757W,34.0197,-117.9587,America/Los_Angeles,2017-03-09
 Industry,US,PA,USINU,INU,Industry,,40.6445,-80.4162,America/New_York,2017-05-23
 Industry,US,TX,USXZZ,XZZ,Industry,2958N 09630W,29.9724,-96.5022,America/Chicago,2017-03-09
-Inebolu,TR,37,TRINE,INE,Inebolu,4158N 03346E,41.9833,33.7667,Europe/Istanbul,2016-12-06
+Inebolu,TR,37,TRINE,INE,Inebolu,4158N 03346E,41.9833,33.7667,Europe/Istanbul,2020-10-31
 Ingalls,US,IN,USJG7,JG7,Ingalls,3957N 08548W,39.9570,-85.8053,America/Indiana/Indianapolis,2017-05-23
 Ingalls,US,MI,USJGA,JGA,Ingalls,4522N 08736W,45.3769,-87.6112,America/Menominee,2017-05-23
 Inglefield,US,IN,USIJG,IJG,Inglefield,3806N 08733W,38.1081,-87.5589,America/Chicago,2017-05-23
@@ -8168,7 +8169,7 @@ Isesaki,JP,10,JPISZ,ISZ,Isesaki,3619N 13912E,36.3167,139.2000,Asia/Tokyo,2017-07
 Ishida,JP,42,JPISD,ISD,Ishida,,36.8697,137.4216,Asia/Tokyo,2017-04-09
 Ishikawa,JP,47,JPIKW,IKW,Ishikawa,2625N 12749E,26.4233,127.8214,Asia/Tokyo,2018-02-23
 Ishpeming,US,MI,USISB,ISB,Ishpeming,,46.4885,-87.6676,America/Detroit,2017-05-23
-Iskenderun,TR,31,TRISK,ISK,Iskenderun,3635N 03610E,36.6000,36.1667,Europe/Istanbul,2016-12-06
+Iskenderun,TR,31,TRISK,ISK,Iskenderun,3635N 03610E,36.6000,36.1667,Europe/Istanbul,2020-10-31
 Isla Gobernadora,PA,10,PAIGA,IGA,Isla Gobernadora,0733N 08112W,7.5622,-81.2083,America/Panama,2012-01-19
 Islamorada,US,FL,USISR,ISR,Islamorada,2455N 08037W,24.9243,-80.6278,America/New_York,2006-01-17
 Island Falls,US,ME,USIFL,IFL,Island Falls,4600N 06816W,46.0092,-68.2714,America/New_York,2017-05-23
@@ -8675,12 +8676,12 @@ Kulim,MY,02,MYKLM,KLM,Kulim,0521N 10032E,5.3240,100.6085,Asia/Kuala_Lumpur,2014-
 Kullar,TR,41,TRKLL,KLL,Kullar,4043N 02959E,40.7242,29.9894,Europe/Istanbul,2015-06-08
 Kulpsville,US,PA,USKUP,KUP,Kulpsville,,40.2429,-75.3366,America/New_York,2017-05-23
 Kumluca,TR,07,TRKUM,KUM,Kumluca,,36.3703,30.2869,Europe/Istanbul,2012-02-02
-Kumport,TR,34,TRKMX,KMX,Kumport,4057N 02849E,40.9708,28.6797,Europe/Istanbul,2017-04-29
+Kumport,TR,34,TRKMX,KMX,Kumport,4057N 02849E,40.9670,28.6817,Europe/Istanbul,2020-10-31
 Kunia Camp,US,HI,USKC2,KC2,Kunia Camp,2127N 15803W,21.4591,-158.0611,Pacific/Honolulu,2013-03-07
 Kunkletown,US,PA,USK2T,K2T,Kunkletown,4050N 07526W,40.8479,-75.4482,America/New_York,2017-05-23
 Kuroda,JP,32,JPKRD,KRD,Kuroda,,34.3567,135.2410,Asia/Tokyo,2017-04-09
 Kurtköy,TR,34,TRKUR,KUR,Kurtkoy,4055N 02918E,40.9176,29.2993,Europe/Istanbul,2020-06-10
-Kusadasi,TR,09,TRKUS,KUS,Kusadasi,3751N 02715E,37.8667,27.2500,Europe/Istanbul,2016-12-06
+Kusadasi,TR,09,TRKUS,KUS,Kusadasi,3751N 02715E,37.8667,27.2500,Europe/Istanbul,2020-10-31
 Kutjevo,HR,11,HRKUJ,KUJ,Kutjevo,4525N 01752E,45.4261,17.8825,Europe/Zagreb,2016-12-25
 Kuyucak,TR,09,TRKCK,KCK,Kuyucak,,37.9133,28.4592,Europe/Istanbul,2013-08-06
 Kuzuluk,TR,54,TRKUZ,KUZ,Kuzuluk,4038N 03039E,40.6253,30.6554,Europe/Istanbul,2012-01-18
@@ -10134,7 +10135,7 @@ Marne,US,IA,USM26,M26,Marne,4127N 09506W,41.4514,-95.1114,America/Chicago,2017-0
 Marne,US,MI,USQMM,QMM,Marne,4302N 08549W,43.0361,-85.8278,America/Detroit,2017-05-23
 Maroa,US,IL,USMUR,MUR,Maroa,4002N 08857W,40.0364,-88.9570,America/Chicago,2017-05-23
 Maroggia,CH,TI,CHMRO,MRO,Maroggia,4555N 00859E,45.9352,8.9705,Europe/Zurich,2013-03-05
-Marport,TR,34,TRMPT,MPT,Marport,,40.9677,28.6765,Europe/Istanbul,2017-04-29
+Marport,TR,34,TRMPT,MPT,Marport,,40.9634,28.6699,Europe/Istanbul,2020-10-31
 Marquette,US,NE,USQTT,QTT,Marquette,4100N 09800W,41.0061,-98.0092,America/Chicago,2010-02-20
 Marquez,US,TX,USQEZ,QEZ,Marquez,3114N 09615W,31.2394,-96.2536,America/Chicago,2017-03-09
 Marrowbone,US,KY,USMWZ,MWZ,Marrowbone,3721N 08224W,36.8278,-85.5066,America/Chicago,2011-05-14
@@ -13120,7 +13121,7 @@ Pittsville,US,MO,USPVO,PVO,Pittsville,3851N 09359W,38.8506,-93.9902,America/Chic
 Pittsville,US,PA,USPVQ,PVQ,Pittsville,4115N 07944W,41.2562,-79.7406,America/New_York,2017-05-23
 Pittsville,US,WI,USITV,ITV,Pittsville,4426N 09007W,44.4391,-90.1246,America/Chicago,2017-05-23
 Pixley,US,CA,USPXY,PXY,Pixley,,35.9686,-119.2918,America/Los_Angeles,2011-05-14
-Pixvae,PA,10,PAPXV,PXV,Pixvae,0749N 08134W,7.8311,-81.5761,America/Panama,2020-10-21
+Pixvae,PA,10,PAPXV,PXV,Pixvae,0749N 08134W,7.8342,-81.5766,America/Panama,2020-11-13
 Placedo,US,TX,USP9C,P9C,Placedo,2841N 09649W,28.6914,-96.8280,America/Chicago,2011-05-14
 Placentia,US,CA,USPCC,PCC,Placentia,3352N 11752W,33.8722,-117.8703,America/Los_Angeles,2017-03-09
 Placitas,US,NM,US9LA,9LA,Placitas,3518N 10625W,35.3070,-106.4248,America/Denver,2011-05-14
@@ -13356,7 +13357,7 @@ Port Johnson,US,AK,USPRF,PRF,Port Johnson,,55.1381,-131.9961,America/Metlakatla,
 Port Lavaca,US,TX,USPLV,PLV,Port Lavaca,2836N 09637W,28.6150,-96.6261,America/Chicago,2018-03-16
 Port Ludlow,US,WA,USPLU,PLU,Port Ludlow,4755N 12241W,47.9237,-122.6754,America/Los_Angeles,2007-02-15
 Port Madison,US,WA,USPDI,PDI,Port Madison,4742N 12234W,47.7270,-122.5288,America/Los_Angeles,2007-02-15
-Port Manatee,US,FL,USPME,PME,Port Manatee,2738N 08233W,27.6336,-82.5615,America/Kentucky/Monticello,2006-01-15
+Port Manatee,US,FL,USPME,PME,Port Manatee,2738N 08233W,27.6336,-82.5615,America/Kentucky/Monticello,2020-11-01
 Port Monmouth,US,NJ,USPM3,PM3,Port Monmouth,4026N 07406W,40.4301,-74.0985,America/New_York,2017-05-23
 Port Murray,US,NJ,USURR,URR,Port Murray,4047N 07454W,40.7856,-74.9160,America/New_York,2017-05-23
 Port Neches,US,TX,USPON,PON,Port Neches,2959N 09357W,29.9913,-93.9585,America/Chicago,2017-03-09
@@ -13561,6 +13562,7 @@ Pulaski,US,VA,USUYB,UYB,Pulaski,,37.0479,-80.7798,America/New_York,2017-03-09
 Pulaski,US,WI,USPYK,PYK,Pulaski,4440N 08813W,44.6722,-88.2426,America/Chicago,2017-05-23
 Pully,CH,VD,CHPLY,PLY,Pully,,46.5103,6.6618,Europe/Zurich,2013-02-19
 Pultneyville,US,NY,USP5U,P5U,Pultneyville,4316N 07711W,43.2798,-77.1861,America/New_York,2017-05-23
+Punta Europa Terminal,GQ,,GQPET,PET,Punta Europa Terminal,0347N 00843E,3.7772,8.7263,Africa/Malabo,2020-11-01
 Punxsutawney,US,PA,USPXW,PXW,Punxsutawney,4056N 07858W,40.9437,-78.9709,America/New_York,2017-05-23
 Puplinge,CH,GE,CHPUB,PUB,Puplinge,4612N 00613E,46.2104,6.2311,Europe/Zurich,2013-02-26
 Purcell,US,OK,USPUZ,PUZ,Purcell,3500N 09721W,35.0137,-97.3611,America/Chicago,2017-03-09
@@ -16174,7 +16176,7 @@ Swampscott,US,MA,USUSW,USW,Swampscott,4228N 07055W,42.4709,-70.9176,America/New_
 Swan Lake,US,NY,US6SL,6SL,Swan Lake,4145N 07446W,43.3873,-74.8894,America/New_York,2011-12-11
 Swan Valley,US,ID,USVXA,VXA,Swan Valley,4327N 11120W,43.4452,-111.3730,America/Boise,2006-01-15
 Swannanoa,US,NC,USSNO,SNO,Swannanoa,,35.5979,-82.3998,America/New_York,2017-05-23
-Swans Island,US,ME,USIS9,IS9,Swans Island,4408N 06827W,44.1451,-68.4517,America/New_York,2017-05-23
+Swans Island,US,ME,USIS9,IS9,Swans Island,4408N 06827W,44.1451,-68.4517,America/New_York,2020-11-01
 Swansea,US,IL,USSW6,SW6,Swansea,3832N 08959W,38.5339,-89.9890,America/Chicago,2017-05-23
 Swansea,US,MA,USAE5,AE5,Swansea,4145N 07111W,41.7482,-71.1898,America/New_York,2017-05-23
 Swansea,US,SC,USSS5,SS5,Swansea,3344N 08106W,33.7382,-81.0979,America/New_York,2017-03-09
@@ -16355,7 +16357,7 @@ Tecumseh,US,OK,USTCE,TCE,Tecumseh,3515N 09656W,35.2578,-96.9367,America/Chicago,
 Tefenni,TR,15,TRTFN,TFN,Tefenni,,37.3097,29.7754,Europe/Istanbul,2012-02-02
 Tega Cay,US,SC,USTCQ,TCQ,Tega Cay,3501N 08101W,35.0243,-81.0279,America/New_York,2017-03-09
 Tegerfelden,CH,AG,CHTGF,TGF,Tegerfelden,4734N 00817E,47.5581,8.2891,Europe/Zurich,2013-03-04
-Tekirdag,TR,59,TRTEK,TEK,Tekirdag,4058N 02731E,40.9833,27.5167,Europe/Istanbul,2016-12-06
+Tekirdag,TR,59,TRTEK,TEK,Tekirdag,4058N 02731E,40.9833,27.5167,Europe/Istanbul,2020-10-31
 Tekoa,US,WA,USTKO,TKO,Tekoa,4713N 11704W,47.2232,-117.0721,America/Los_Angeles,2017-03-09
 Tekonsha,US,MI,USTS2,TS2,Tekonsha,4205N 08459W,42.0934,-84.9858,America/Detroit,2017-05-23
 Telford,US,PA,USTEF,TEF,Telford,,40.3220,-75.3280,America/New_York,2017-05-23
@@ -17782,7 +17784,7 @@ West Milwaukee,US,WI,USWMW,WMW,West Milwaukee,,43.0125,-87.9726,America/Chicago,
 West Minot,US,ME,US8WM,8WM,West Minot,4410N 07021W,44.1712,-70.3659,America/New_York,2017-05-23
 West Monroe,US,LA,USWMX,WMX,West Monroe,,32.5185,-92.1476,America/Chicago,2017-03-09
 West Mystic,US,CT,USW9S,W9S,West Mystic,4121N 07158W,41.3507,-71.9820,America/New_York,2017-05-23
-West New York,US,NJ,USWNY,WNY,West New York,,40.7879,-74.0143,America/New_York,2017-05-23
+West New York,US,NJ,USWNY,WNY,West New York,,40.7879,-74.0143,America/New_York,2020-11-01
 West Newbury,US,MA,USWN5,WN5,West Newbury,4248N 07059W,42.8015,-70.9898,America/New_York,2017-05-23
 West Newbury,US,VT,USEJU,EJU,West Newbury,4403N 07207W,44.0645,-72.1248,America/New_York,2017-05-23
 West Newton,US,MA,US3TU,3TU,West Newton,4221N 07114W,42.3501,-71.2328,America/New_York,2017-05-23
