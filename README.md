@@ -1,19 +1,28 @@
-# UN Locodes with coordinates and timezones 
-![.github/workflows/actions.yml](https://github.com/marek5050/UN-Locode-with-Timezone/workflows/.github/workflows/actions.yml/badge.svg)
+# UNLOCODE Entries with Co-ordinates and Time Zones 
 
-The repository contains the latest UN-Locode-with-Timezone information.
+<!-- ![`.github/workflows/actions.yml`](https://github.com/marek5050/UN-Locode-with-Timezone/workflows/.github/workflows/actions.yml/badge.svg) -->
 
+The repository contains the latest UNLOCODE-with-Time-Zone information.
 
 ## Sources
-`The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.`
-https://www.geonames.org
 
+1. > The GeoNames geographical database covers all countries and contains over eleven million placenames that are available for download free of charge.
 
-`The "United Nations Code for Trade and Transport Locations" is commonly more known as "UN/LOCODE". Although managed and maintained by the UNECE, it is the product of a wide collaboration in the framework of the joint trade facilitation effort undertaken within the United Nations.`
+   [^1]
 
-https://www.unece.org/cefact/locode/service/location.html
-Last updated:  Fri Sep 4 17:20:02 EDT 2020
-```
+   [^1]: [`geonames.org`](https://www.geonames.org)
+
+1. > The "United Nations Code for Trade and Transport Locations" is more commonly known as "UN/LOCODE". Although managed and maintained by the UNECE, it is the product of a wide collaboration in the framework of the joint trade facilitation effort undertaken within the United Nations.
+
+   [^2]
+
+   [^2]: [`unece.org/cefact/locode/service/location.html`](https://www.unece.org/cefact/locode/service/location.html)
+
+## Records
+
+<figure>
+
+```log
 ==> ./data/all_data.csv <==
 name,country_code,subdivision,unlocode,location,asciiname,coordinates,latitude,longitude,timezone,modification date
 Andorra la Vella,AD,,ADALV,ALV,Andorra la Vella,4230N 00131E,42.5078,1.5211,Europe/Andorra,2020-03-03
@@ -62,3 +71,20 @@ Abbeville,US,AL,USABB,ABB,Abbeville,,31.5718,-85.2505,America/Chicago,2017-03-09
 Abbeville,US,MS,USAV4,AV4,Abbeville,3430N 08930W,34.5032,-89.5031,America/Chicago,2017-03-09
 Abbeville,US,SC,USABF,ABF,Abbeville,,34.1782,-82.3790,America/New_York,2017-03-09
 ```
+
+<figcaption>
+  <table>
+    <tbody>
+      <tr>
+        <th>
+          Last Updated
+        </th>
+        <td>
+          Fri Sep 4 17:20:02 EDT 2020
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figcaption>
+
+</figure>
